@@ -39,13 +39,15 @@ SYSTEM = (
     "For each segment, write one plain sentence of at most 22 words saying what "
     "the segment covers, so a listener can decide whether to play it. Write it in "
     "your own words: do not copy or closely paraphrase any sentence from the "
-    "title, description or transcript, and do not quote anyone. Then pick 1 to 3 "
+    "title or description, and do not quote anyone. Then pick 1 to 3 "
     "topics from the allowed list, most relevant first."
 )
 
 
 def claude_tag(client, seg, topics):
-    body = seg.get("transcript") or seg.get("description") or ""
+    # Feed description only, never transcripts: NPR's terms restrict feeding
+    # its content to AI systems, and the feed blurb is what NPR offers for reuse.
+    body = seg.get("description") or ""
     schema = {
         "type": "object",
         "properties": {
@@ -99,23 +101,25 @@ def main():
             if seg.get("summary"):
                 continue  # keep the earlier keyword tags; retry next run
             out, by = {"summary": first_sentence(seg.get("description")),
-                       "topics": keyword_tags(seg["title"] + " " + seg.get("description", ""), topics)}, "keywords"
+                       "topics": keyword_tags(seg["title"] + " " + (seg.get("description") or ""), topics)}, "keywords"
         seg["summary"] = out["summary"]
         seg["topics"] = out["topics"] or ["World"]
         seg["tagged_by"] = by
 
-    # Transcripts are only input for tagging. The store is committed to a public
-    # repo, so never keep NPR's transcript text in it. The key stays (as None)
-    # so fetch_feeds.py knows the page was already fetched and doesn't refetch.
+    # The store is committed to a public repo, so keep no NPR text in it beyond
+    # titles: descriptions (and any transcripts) are only input for tagging.
+    # fetch_feeds.py re-reads descriptions from the feeds on every run, so a
+    # segment awaiting a Claude retry still has its text while it's in the feed.
     stripped = 0
     for seg in store.values():
-        if seg.get("transcript"):
-            seg["transcript"] = None
-            stripped += 1
+        for k in ("description", "transcript"):
+            if seg.get(k):
+                seg[k] = None
+                stripped += 1
 
     STORE.write_text(json.dumps(store, indent=1, ensure_ascii=False))
     print(f"tagged {len(todo)} segments: {n_claude} by Claude ({MODEL}), "
-          f"{len(todo) - n_claude} by keywords; removed {stripped} transcripts from the store")
+          f"{len(todo) - n_claude} by keywords; removed {stripped} NPR text fields from the store")
 
 
 if __name__ == "__main__":

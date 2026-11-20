@@ -34,7 +34,7 @@ jobs:
       - run: pip install -r requirements.txt
 
       - name: Fetch feeds
-        run: python scripts/fetch_feeds.py --transcripts
+        run: python scripts/fetch_feeds.py
 
       - name: Summarize and tag new segments
         env:

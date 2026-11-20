@@ -23,7 +23,8 @@ feeds.json ─► scripts/fetch_feeds.py ─► data/segments.json  (committed; 
 ```
 
 - **Accumulating store.** The Morning Edition and All Things Considered feeds only keep their latest ~10 segments, so a single daily fetch misses most of the show. The workflow runs 3× a day and `data/segments.json` keeps every item seen, keyed by guid, pruned one day after the page window (`window_days` in `feeds.json`).
-- **No transcripts in the repo.** Transcripts are fetched only as input for tagging. `summarize.py` sets every `transcript` to `null` before saving, because `data/segments.json` is committed to a public repo. The `null` key tells `fetch_feeds.py` the page was already fetched.
+- **No NPR text in the repo beyond titles.** `data/segments.json` is committed to a public repo, so `summarize.py` sets `description` (and any `transcript`) to `null` before saving. `fetch_feeds.py` re-reads descriptions from the feeds each run, so tagging always has them while an item is still in its feed.
+- **Feed descriptions only, no transcripts.** NPR's Terms of Use (updated 2025-09-10) bar using its content "to build or train ... AI systems" and allow displaying, excerpting and linking to feeds on a personal site. To stay well clear, Claude summarizes from the feed description, not transcripts, and the workflow doesn't pass `--transcripts`. The page is titled "Radio digest" (the terms bar "NPR" in the title of a public app) with "Stories from NPR" as attribution. Don't add an e-newsletter: the terms exclude them.
 - **Idempotent tagging.** `summarize.py` only processes items without a `summary`, so reruns are cheap.
 - **Graceful degradation.** With no `ANTHROPIC_API_KEY`, tagging falls back to keyword rules and the first sentence of the feed description, so the site still builds.
 - **Data injection.** `build_page.py` replaces the literal `/*__DATA__*/null` in the template with a JSON payload `{generated, topics, shows, segments}`. Escape `</` (already done).
@@ -55,7 +56,7 @@ feeds.json ─► scripts/fetch_feeds.py ─► data/segments.json  (committed; 
 
 ```bash
 python scripts/build_page.py sample/digest.json   # offline preview
-python scripts/fetch_feeds.py --transcripts        # live fetch into data/
+python scripts/fetch_feeds.py                      # live fetch into data/ (--transcripts exists but is unused; see above)
 ANTHROPIC_API_KEY=... python scripts/summarize.py  # tag new items
 python scripts/build_page.py                        # build from data/
 open site/index.html
