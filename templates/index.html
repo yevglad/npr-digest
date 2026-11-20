@@ -28,8 +28,10 @@ input[type=search]:focus-visible,button:focus-visible,a:focus-visible{outline:3p
 .bar i{display:block;height:14px;background:#4a4a4a;border-radius:2px;transition:width .4s}
 .bar[aria-pressed=true] i,.bar:hover i{background:var(--red)}
 .bar b{font-weight:500;text-align:right;color:#cfcfcf;font-variant-numeric:tabular-nums}
-.chips{display:flex;flex-wrap:wrap;gap:8px;margin-top:22px;grid-column:1/-1}
-.chip{min-height:40px;padding:0 14px;border-radius:999px;border:1px solid #444;background:none;color:#ddd;font:inherit;font-size:14px;cursor:pointer}
+.chips{display:flex;gap:8px;margin-top:22px;grid-column:1/-1;overflow-x:auto;overscroll-behavior-x:contain;scrollbar-width:none;padding:2px 0;mask-image:linear-gradient(to right,#000 calc(100% - 40px),transparent);-webkit-mask-image:linear-gradient(to right,#000 calc(100% - 40px),transparent)}
+.chips::-webkit-scrollbar{display:none}
+.chips.end{mask-image:none;-webkit-mask-image:none}
+.chip{flex:none;white-space:nowrap;min-height:40px;padding:0 14px;border-radius:999px;border:1px solid #444;background:none;color:#ddd;font:inherit;font-size:14px;cursor:pointer}
 .chip[aria-pressed=true]{background:#f2f2f2;color:#111;border-color:#f2f2f2}
 .status{display:flex;flex-wrap:wrap;gap:12px;align-items:center;justify-content:space-between;color:var(--mute);font-size:14px;margin-bottom:8px}
 .status button{min-height:40px;font:inherit;font-size:14px;background:none;border:1px solid var(--line);border-radius:8px;color:var(--ink);padding:0 12px;cursor:pointer}
@@ -100,7 +102,9 @@ function render(){
   const counts=TOPICS.map(t=>[t,base.filter(d=>d.topics.includes(t)).length]).sort((a,b)=>b[1]-a[1]);
   const max=Math.max(1,...counts.map(c=>c[1]));
   document.getElementById("bars").innerHTML=counts.map(([t,n])=>`<button class="bar" data-topic="${esc(t)}" aria-pressed="${st.topic===t}"><span>${esc(t)}</span><i style="width:${n/max*100}%"></i><b>${n}</b></button>`).join("");
-  document.getElementById("chips").innerHTML=`<button class="chip" data-show="" aria-pressed="${!st.show}">All shows</button>`+SHOWS.map(s=>`<button class="chip" data-show="${esc(s)}" aria-pressed="${st.show===s}">${esc(s)}</button>`).join("");
+  const ch=document.getElementById("chips"),sx=ch.scrollLeft;
+  ch.innerHTML=`<button class="chip" data-show="" aria-pressed="${!st.show}">All shows</button>`+SHOWS.map(s=>`<button class="chip" data-show="${esc(s)}" aria-pressed="${st.show===s}">${esc(s)}</button>`).join("");
+  ch.scrollLeft=sx;fade();
   const rows=D.filter(match);
   document.getElementById("count").textContent=rows.length===D.length?`${rows.length} segments`:`${rows.length} of ${D.length} segments`;
   document.getElementById("clear").hidden=!(st.topic||st.show||st.q);
@@ -120,7 +124,12 @@ document.addEventListener("click",e=>{
   save();render();
 });
 q.addEventListener("input",()=>{st.q=q.value.trim();save();render()});
+// Chips are one scrollable row: hide the right-edge fade once scrolled to the end.
+function fade(){const c=document.getElementById("chips");c.classList.toggle("end",c.scrollLeft+c.clientWidth>=c.scrollWidth-2)}
+document.getElementById("chips").addEventListener("scroll",fade,{passive:true});
+addEventListener("resize",fade);
 render();
+{const c=document.getElementById("chips"),p=c.querySelector('[aria-pressed="true"]');if(p&&p.dataset.show)c.scrollLeft=p.offsetLeft-c.offsetLeft-16;fade()}
 }
 </script>
 </body></html>
