@@ -1543,60 +1543,6 @@
   ],
   "tagged_by": "keywords"
  },
- "97a17403-cdcb-4307-a8f0-7fef894b0aaf": {
-  "id": "97a17403-cdcb-4307-a8f0-7fef894b0aaf",
-  "show": "Up First",
-  "date": "2026-11-12T18:05:00Z",
-  "title": "Abdul El-Sayed: Democrats need to ‘earn’ their mandate | Newsmakers",
-  "description": null,
-  "page": null,
-  "audio": "https://prfx.byspotify.com/e/play.podtrac.com/npr-510318/npr.simplecastaudio.com/d52bee4a-b10a-40f8-9417-45064e6b8632/episodes/e687239b-8523-42c5-b5d6-051045e808f6/audio/128/default.mp3?awCollectionId=d52bee4a-b10a-40f8-9417-45064e6b8632&awEpisodeId=e687239b-8523-42c5-b5d6-051045e808f6&feed=HMwRVgVt&t=podcast&e=nx-s1-6038835&p=510318&d=2626&size=42023333",
-  "secs": 2626,
-  "story_id": "nx-s1-6038835",
-  "summary": "Senator-elect Abdul El-Sayed says Americans “temporarily” put their trust and hope in Democrats.",
-  "topics": [
-   "Politics",
-   "Science & health"
-  ],
-  "tagged_by": "keywords",
-  "transcript": null
- },
- "b5c2f9c3-d221-490d-8445-6531d0a3e6ec": {
-  "id": "b5c2f9c3-d221-490d-8445-6531d0a3e6ec",
-  "show": "Up First",
-  "date": "2026-11-12T10:56:43Z",
-  "title": "Colom Wins Mississippi, Trump Warns Incoming Democrats, Russia-Ukraine Talks",
-  "description": null,
-  "page": "https://www.npr.org/2026/11/12/nx-s1-6038323/colom-wins-mississippi-trump-warns-incoming-democrats-russia-ukraine-talks",
-  "audio": "https://prfx.byspotify.com/e/play.podtrac.com/npr-510318/npr.simplecastaudio.com/d52bee4a-b10a-40f8-9417-45064e6b8632/episodes/ce0f6e04-0bbf-4926-b862-c98bc239dd58/audio/128/default.mp3?awCollectionId=d52bee4a-b10a-40f8-9417-45064e6b8632&awEpisodeId=ce0f6e04-0bbf-4926-b862-c98bc239dd58&feed=HMwRVgVt&t=podcast&e=nx-s1-6038323&p=510318&d=756&size=12099962",
-  "secs": 756,
-  "story_id": "nx-s1-6038323",
-  "summary": "Democrat Scott Colom won Mississippi’s Senate race by fewer than 5,000 votes, becoming the state’s first Black senator since Reconstruction and ending a more than 40-year stretch without a Democrat in the seat.",
-  "topics": [
-   "Politics",
-   "World",
-   "Justice"
-  ],
-  "tagged_by": "keywords",
-  "transcript": null
- },
- "8566cca9-cb15-4e50-857c-b7b86252567f": {
-  "id": "8566cca9-cb15-4e50-857c-b7b86252567f",
-  "show": "Fresh Air",
-  "date": "2026-11-12T19:37:39Z",
-  "title": "Steve Buscemi",
-  "description": null,
-  "page": "https://www.npr.org/2026/11/12/nx-s1-6039200/steve-buscemi",
-  "audio": "https://prfx.byspotify.com/e/play.podtrac.com/npr-381444908/npr.simplecastaudio.com/49850946-31c1-4953-8129-0d718420c400/episodes/c8dbf53c-4507-4ea7-b973-fa0a96c453c8/audio/128/default.mp3?awCollectionId=49850946-31c1-4953-8129-0d718420c400&awEpisodeId=c8dbf53c-4507-4ea7-b973-fa0a96c453c8&feed=jBsBZBHh&t=podcast&e=nx-s1-6039200&p=381444908&d=2722&size=43553503",
-  "secs": 2722,
-  "story_id": "nx-s1-6039200",
-  "summary": "Buscemi worked as a NYC firefighter for four years while he was getting his start in theater and stand-up comedy.",
-  "topics": [
-   "Culture"
-  ],
-  "tagged_by": "keywords",
-  "transcript": null
- },
  "d15738e0-a018-4d41-aca6-d39f052839d5": {
   "id": "d15738e0-a018-4d41-aca6-d39f052839d5",
   "show": "Consider This",
@@ -1611,94 +1557,6 @@
   "topics": [
    "Politics",
    "Justice"
-  ],
-  "tagged_by": "keywords",
-  "transcript": null
- },
- "62bcd9c3-fb4b-4e54-8d63-da365933d503": {
-  "id": "62bcd9c3-fb4b-4e54-8d63-da365933d503",
-  "show": "The Indicator",
-  "date": "2026-11-12T08:00:00Z",
-  "title": "Should personal finance be part of the liberal arts?",
-  "description": null,
-  "page": "https://www.npr.org/2026/11/12/nx-s1-6037729/should-personal-finance-be-part-of-the-liberal-arts",
-  "audio": "https://prfx.byspotify.com/e/play.podtrac.com/npr-510325/npr.simplecastaudio.com/0a4e8d3b-fe23-4948-9e39-20fcf16f9331/episodes/0109a642-aed7-4067-83bd-d7d2b3e528e5/audio/128/default.mp3?awCollectionId=0a4e8d3b-fe23-4948-9e39-20fcf16f9331&awEpisodeId=0109a642-aed7-4067-83bd-d7d2b3e528e5&feed=IFy3imsg&t=podcast&e=nx-s1-6037729&p=510325&d=561&size=8992039",
-  "secs": 561,
-  "story_id": "nx-s1-6037729",
-  "summary": "We take you inside an AP personal finance class in Alabama where students are learning about Roth IRAs and compound interest.",
-  "topics": [
-   "Economy",
-   "Culture"
-  ],
-  "tagged_by": "keywords",
-  "transcript": null
- },
- "fc06f2a3-bb68-42f6-b016-ca418f9802e7": {
-  "id": "fc06f2a3-bb68-42f6-b016-ca418f9802e7",
-  "show": "NPR Politics Podcast",
-  "date": "2026-11-12T21:16:39Z",
-  "title": "How Democrats overperformed in the South",
-  "description": null,
-  "page": "https://www.npr.org/2026/11/12/nx-s1-6038700/how-democrats-overperformed-in-the-south",
-  "audio": "https://prfx.byspotify.com/e/play.podtrac.com/npr-510310/npr.simplecastaudio.com/81c2d960-75d6-4dba-9f07-0bfade0db7ce/episodes/36ab753d-e348-4d6c-b42a-296aa0cffd17/audio/128/default.mp3?awCollectionId=81c2d960-75d6-4dba-9f07-0bfade0db7ce&awEpisodeId=36ab753d-e348-4d6c-b42a-296aa0cffd17&feed=iDPaKWvZ&t=podcast&e=nx-s1-6038700&p=510310&d=1181&size=18898069",
-  "secs": 1181,
-  "story_id": "nx-s1-6038700",
-  "summary": "Mississippi is sending its first Democrat to the U.S.",
-  "topics": [
-   "Politics"
-  ],
-  "tagged_by": "keywords",
-  "transcript": null
- },
- "a6194f21-de0a-4148-9962-4767db8a948b": {
-  "id": "a6194f21-de0a-4148-9962-4767db8a948b",
-  "show": "Here & Now",
-  "date": "2026-11-12T20:38:32Z",
-  "title": "What's next for Nvidia after resignation of Jensen Huang",
-  "description": null,
-  "page": "https://www.npr.org/2026/11/12/nx-s1-6038961/whats-next-for-nvidia-after-resignation-of-jensen-huang",
-  "audio": "https://prfx.byspotify.com/e/play.podtrac.com/npr-510051/npr.simplecastaudio.com/a14b69c2-63a5-430e-bbf8-8c76275e14cd/episodes/e7fb6aa6-3836-4ae8-a33a-80d316b3f566/audio/128/default.mp3?awCollectionId=a14b69c2-63a5-430e-bbf8-8c76275e14cd&awEpisodeId=e7fb6aa6-3836-4ae8-a33a-80d316b3f566&feed=XciAg_Eg&t=podcast&e=nx-s1-6038961&p=510051&d=1255&size=20080497",
-  "secs": 1255,
-  "story_id": "nx-s1-6038961",
-  "summary": "Nvidia CEO Jensen Huang has resigned,, amid an investigation into his affair with a woman identified by U.S.",
-  "topics": [
-   "Politics",
-   "Tech & AI"
-  ],
-  "tagged_by": "keywords",
-  "transcript": null
- },
- "804bafcb-eaac-4da3-88c9-56bf13a41124": {
-  "id": "804bafcb-eaac-4da3-88c9-56bf13a41124",
-  "show": "Pop Culture Happy Hour",
-  "date": "2026-11-12T08:00:00Z",
-  "title": "Cupertino",
-  "description": null,
-  "page": "https://www.npr.org/2026/11/12/nx-s1-6036752/cupertino-is-a-stylish-legal-drama-full-of-tech-twists",
-  "audio": "https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510282/npr.simplecastaudio.com/f75261d2-0860-4d61-91c1-a78a2b997ff2/episodes/5815e63d-efb6-4e58-9297-7be5d5a57fab/audio/128/default.mp3?awCollectionId=f75261d2-0860-4d61-91c1-a78a2b997ff2&awEpisodeId=5815e63d-efb6-4e58-9297-7be5d5a57fab&feed=QGMNw0q1&t=podcast&e=nx-s1-6036752&p=510282&d=1310&size=20973654",
-  "secs": 1310,
-  "story_id": "nx-s1-6036752",
-  "summary": "The new fun CBS show Cupertino is reminiscent of old-school legal dramas, and that’s a good thing.",
-  "topics": [
-   "Tech & AI",
-   "Culture"
-  ],
-  "tagged_by": "keywords",
-  "transcript": null
- },
- "635d3fb4-1831-406f-994e-9666d5957810": {
-  "id": "635d3fb4-1831-406f-994e-9666d5957810",
-  "show": "Throughline",
-  "date": "2026-11-12T10:14:29Z",
-  "title": "Origins of the Affordable Care Act",
-  "description": null,
-  "page": "https://www.npr.org/2026/11/12/nx-s1-6035873/origins-of-the-affordable-care-act",
-  "audio": "https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510333/npr.simplecastaudio.com/923a8c19-6266-45f0-88de-3997479f3ca3/episodes/51587ff8-f0a7-4ad2-a969-62d211179a94/audio/128/default.mp3?awCollectionId=923a8c19-6266-45f0-88de-3997479f3ca3&awEpisodeId=51587ff8-f0a7-4ad2-a969-62d211179a94&feed=gvAZ3nqF&t=podcast&e=nx-s1-6035873&p=510333&d=1718&size=27495531",
-  "secs": 1718,
-  "story_id": "nx-s1-6035873",
-  "summary": "Today on the show, we have a story about healthcare from our friends over at GBH News.",
-  "topics": [
-   "Science & health"
   ],
   "tagged_by": "keywords",
   "transcript": null
@@ -1720,41 +1578,547 @@
   "tagged_by": "keywords",
   "transcript": null
  },
- "94b722c0-0d7e-4b01-bd70-5e5e9a99a0d7": {
-  "id": "94b722c0-0d7e-4b01-bd70-5e5e9a99a0d7",
-  "show": "Life Kit",
-  "date": "2026-11-12T08:00:03Z",
-  "title": "Life is easier with neighbors. Here’s how to get to know them",
+ "https://www.npr.org/2026/11/20/nx-s1-6043190/fight-over-funding-for-iran-war-could-put-the-government-at-risk-of-a-shutdown": {
+  "id": "https://www.npr.org/2026/11/20/nx-s1-6043190/fight-over-funding-for-iran-war-could-put-the-government-at-risk-of-a-shutdown",
+  "show": "Morning Edition",
+  "date": "2026-11-20T11:37:42Z",
+  "title": "Fight over funding for Iran war could put the government at risk of a shutdown",
   "description": null,
-  "page": "https://www.npr.org/2026/11/12/nx-s1-6037839/life-is-easier-with-neighbors-heres-how-to-get-to-know-them",
-  "audio": "https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510338/npr.simplecastaudio.com/8ae5a040-e346-4b89-ba6b-625f91f1fbd4/episodes/4433f11c-95df-4e64-971c-f6802d3386b9/audio/128/default.mp3?awCollectionId=8ae5a040-e346-4b89-ba6b-625f91f1fbd4&awEpisodeId=4433f11c-95df-4e64-971c-f6802d3386b9&feed=XkY2SBZJ&t=podcast&e=nx-s1-6037839&p=510338&d=1145&size=18327137",
-  "secs": 1145,
-  "story_id": "nx-s1-6037839",
-  "summary": "For some, being a good neighbor means staying quiet, picking up after your dog and keeping your lawn tidy.",
+  "page": "https://www.npr.org/2026/11/20/nx-s1-6043190/fight-over-funding-for-iran-war-could-put-the-government-at-risk-of-a-shutdown",
+  "audio": null,
+  "secs": null,
+  "story_id": "nx-s1-6043190",
+  "summary": "The government runs out of funding on December 11 and funding for the war in Iran could prove decisive in whether negotiations end with a deal or another shutdown.",
   "topics": [
-   "Economy",
+   "World"
+  ],
+  "tagged_by": "keywords"
+ },
+ "https://www.npr.org/2026/11/20/nx-s1-6047473/iran-war-funding-congress": {
+  "id": "https://www.npr.org/2026/11/20/nx-s1-6047473/iran-war-funding-congress",
+  "show": "Morning Edition",
+  "date": "2026-11-20T11:37:35Z",
+  "title": "GOP Sen. Johnson rejects tying government funding to an end to the Iran war",
+  "description": null,
+  "page": "https://www.npr.org/2026/11/20/nx-s1-6047473/iran-war-funding-congress",
+  "audio": null,
+  "secs": null,
+  "story_id": "nx-s1-6047473",
+  "summary": "\"We're not going to shut down the war,\" Sen.",
+  "topics": [
+   "Politics",
+   "World"
+  ],
+  "tagged_by": "keywords"
+ },
+ "https://www.npr.org/2026/11/20/nx-s1-6047539/critics-are-worried-about-anthropics-influence-after-first-day-of-public-trading": {
+  "id": "https://www.npr.org/2026/11/20/nx-s1-6047539/critics-are-worried-about-anthropics-influence-after-first-day-of-public-trading",
+  "show": "Morning Edition",
+  "date": "2026-11-20T11:37:31Z",
+  "title": "Critics are worried about Anthropic's influence after first day of public trading",
+  "description": null,
+  "page": "https://www.npr.org/2026/11/20/nx-s1-6047539/critics-are-worried-about-anthropics-influence-after-first-day-of-public-trading",
+  "audio": null,
+  "secs": null,
+  "story_id": "nx-s1-6047539",
+  "summary": "Anthropic's initial public offering was a success for shareholders, including its founders.",
+  "topics": [
+   "Tech & AI"
+  ],
+  "tagged_by": "keywords"
+ },
+ "https://www.npr.org/2026/11/20/nx-s1-6045780/experts-say-powering-data-centers-uses-more-water-than-cooling-them": {
+  "id": "https://www.npr.org/2026/11/20/nx-s1-6045780/experts-say-powering-data-centers-uses-more-water-than-cooling-them",
+  "show": "Morning Edition",
+  "date": "2026-11-20T09:43:39Z",
+  "title": "Experts say powering data centers uses more water than cooling them",
+  "description": null,
+  "page": "https://www.npr.org/2026/11/20/nx-s1-6045780/experts-say-powering-data-centers-uses-more-water-than-cooling-them",
+  "audio": null,
+  "secs": null,
+  "story_id": "nx-s1-6045780",
+  "summary": "Fears about data center water use are especially acute in Arizona.",
+  "topics": [
+   "Tech & AI",
    "Science & health"
   ],
-  "tagged_by": "keywords",
-  "transcript": null
+  "tagged_by": "keywords"
  },
- "f4ed51e4-33b0-4966-9e9a-920e6e0539e1": {
-  "id": "f4ed51e4-33b0-4966-9e9a-920e6e0539e1",
-  "show": "Book of the Day",
-  "date": "2026-11-12T08:00:00Z",
-  "title": "Journalist Emily Feng on how Uyghur militants took up arms in Syria's civil war",
+ "https://www.npr.org/2026/11/20/nx-s1-6042290/morning-news-brief": {
+  "id": "https://www.npr.org/2026/11/20/nx-s1-6042290/morning-news-brief",
+  "show": "Morning Edition",
+  "date": "2026-11-20T09:43:19Z",
+  "title": "Morning news brief",
   "description": null,
-  "page": "https://www.npr.org/2026/11/12/nx-s1-6037886/nprs-book-of-the-day-emily-feng-our-hearts-burned-for-home",
-  "audio": "https://prfx.byspotify.com/e/play.podtrac.com/npr-510364/npr.simplecastaudio.com/c3f326c7-02ae-4df0-b95a-b35e58973e1a/episodes/3239663f-1e47-431f-baa5-380e1cb1dd83/audio/128/default.mp3?awCollectionId=c3f326c7-02ae-4df0-b95a-b35e58973e1a&awEpisodeId=3239663f-1e47-431f-baa5-380e1cb1dd83&feed=tZrJMl4P&t=podcast&e=nx-s1-6037886&p=510364&d=654&size=10473684",
-  "secs": 654,
-  "story_id": "nx-s1-6037886",
-  "summary": "In Our Hearts Burned for Home: Uyghur Militants in Syria's Civil War, NPR’s Emily Feng traces the paths of Uyghur fighters’ from escaping the Chinese communist party to fighting the civil war in Syria",
+  "page": "https://www.npr.org/2026/11/20/nx-s1-6042290/morning-news-brief",
+  "audio": null,
+  "secs": null,
+  "story_id": "nx-s1-6042290",
+  "summary": "Without funding deal, the government could shut down next month, Silicon Valley and national security community bump heads on efforts to restrict U.S.",
+  "topics": [
+   "World",
+   "Tech & AI"
+  ],
+  "tagged_by": "keywords"
+ },
+ "https://www.npr.org/2026/11/20/nx-s1-5691846/i-play-rocky-chronicles-sylvester-stallones-unconventional-road-to-stardom": {
+  "id": "https://www.npr.org/2026/11/20/nx-s1-5691846/i-play-rocky-chronicles-sylvester-stallones-unconventional-road-to-stardom",
+  "show": "Morning Edition",
+  "date": "2026-11-20T09:43:16Z",
+  "title": "'I Play Rocky' chronicles Sylvester Stallone's unconventional road to stardom",
+  "description": null,
+  "page": "https://www.npr.org/2026/11/20/nx-s1-5691846/i-play-rocky-chronicles-sylvester-stallones-unconventional-road-to-stardom",
+  "audio": null,
+  "secs": null,
+  "story_id": "nx-s1-5691846",
+  "summary": "Sylvester Stallone's unlikely rise to stardom is dramatized in the new film \"I Play Rocky.\" NPR's A Martinez speaks with director Peter Farrelly and the man playing Sly, Anthony Ippolito.",
+  "topics": [
+   "Culture"
+  ],
+  "tagged_by": "keywords"
+ },
+ "https://www.npr.org/2026/11/20/nx-s1-6047374/ai-models-are-propelling-rapid-growth-and-revealing-vulnerabilities": {
+  "id": "https://www.npr.org/2026/11/20/nx-s1-6047374/ai-models-are-propelling-rapid-growth-and-revealing-vulnerabilities",
+  "show": "Morning Edition",
+  "date": "2026-11-20T09:43:11Z",
+  "title": "AI models are propelling rapid growth and revealing vulnerabilities",
+  "description": null,
+  "page": "https://www.npr.org/2026/11/20/nx-s1-6047374/ai-models-are-propelling-rapid-growth-and-revealing-vulnerabilities",
+  "audio": null,
+  "secs": null,
+  "story_id": "nx-s1-6047374",
+  "summary": "AI models are exposing the internet's longstanding insecurity, driving rapid change and technical outages.",
+  "topics": [
+   "Tech & AI"
+  ],
+  "tagged_by": "keywords"
+ },
+ "https://www.npr.org/2026/11/20/nx-s1-6042512/how-creators-are-adapting-to-the-changing-television-landscape": {
+  "id": "https://www.npr.org/2026/11/20/nx-s1-6042512/how-creators-are-adapting-to-the-changing-television-landscape",
+  "show": "Morning Edition",
+  "date": "2026-11-20T09:42:43Z",
+  "title": "How creators are adapting to the changing television landscape",
+  "description": null,
+  "page": "https://www.npr.org/2026/11/20/nx-s1-6042512/how-creators-are-adapting-to-the-changing-television-landscape",
+  "audio": null,
+  "secs": null,
+  "story_id": "nx-s1-6042512",
+  "summary": "Everything about making TV shows has changed dramatically in the last 15 years.",
+  "topics": [
+   "Economy",
+   "Culture"
+  ],
+  "tagged_by": "keywords"
+ },
+ "https://www.npr.org/2026/11/20/nx-s1-6047456/can-incoming-democratic-run-congress-circumvent-trumps-veto-threats": {
+  "id": "https://www.npr.org/2026/11/20/nx-s1-6047456/can-incoming-democratic-run-congress-circumvent-trumps-veto-threats",
+  "show": "Morning Edition",
+  "date": "2026-11-20T09:42:38Z",
+  "title": "Can incoming Democratic-run Congress circumvent Trump's veto threats?",
+  "description": null,
+  "page": "https://www.npr.org/2026/11/20/nx-s1-6047456/can-incoming-democratic-run-congress-circumvent-trumps-veto-threats",
+  "audio": null,
+  "secs": null,
+  "story_id": "nx-s1-6047456",
+  "summary": "How can the incoming Congress deliver on voters' wishes under threat of a presidential veto?",
+  "topics": [
+   "Politics"
+  ],
+  "tagged_by": "keywords"
+ },
+ "https://www.npr.org/2026/11/20/nx-s1-6045650/european-japanese-space-mission-will-soon-reach-its-final-destination-mercury": {
+  "id": "https://www.npr.org/2026/11/20/nx-s1-6045650/european-japanese-space-mission-will-soon-reach-its-final-destination-mercury",
+  "show": "Morning Edition",
+  "date": "2026-11-20T09:42:29Z",
+  "title": "European-Japanese space mission will soon reach its final destination -- Mercury",
+  "description": null,
+  "page": "https://www.npr.org/2026/11/20/nx-s1-6045650/european-japanese-space-mission-will-soon-reach-its-final-destination-mercury",
+  "audio": null,
+  "secs": null,
+  "story_id": "nx-s1-6045650",
+  "summary": "A joint European-Japanese space mission known as BepiColombo is about to reach its destination, Mercury, to study the innermost planet of our solar system.",
+  "topics": [
+   "World"
+  ],
+  "tagged_by": "keywords"
+ },
+ "https://www.npr.org/2026/11/20/nx-s1-6048680/nea-announces-2027-jazz-masters-class": {
+  "id": "https://www.npr.org/2026/11/20/nx-s1-6048680/nea-announces-2027-jazz-masters-class",
+  "show": "All Things Considered",
+  "date": "2026-11-20T21:38:35Z",
+  "title": "NEA announces 2027 Jazz Masters class",
+  "description": null,
+  "page": "https://www.npr.org/2026/11/20/nx-s1-6048680/nea-announces-2027-jazz-masters-class",
+  "audio": null,
+  "secs": null,
+  "story_id": "nx-s1-6048680",
+  "summary": "The National Endowment for the Arts has named Terry Gibbs, Rufus Reid, Larry Ridley, Harvey Mason and John Edward Hasse as the newest musicians and advocates to receive the highest federal jazz honor.",
+  "topics": [
+   "Culture"
+  ],
+  "tagged_by": "keywords"
+ },
+ "https://www.npr.org/2026/11/20/nx-s1-6048645/tech-stocks-end-the-week-on-a-down-note-despite-anthropics-mega-ipo": {
+  "id": "https://www.npr.org/2026/11/20/nx-s1-6048645/tech-stocks-end-the-week-on-a-down-note-despite-anthropics-mega-ipo",
+  "show": "All Things Considered",
+  "date": "2026-11-20T21:38:32Z",
+  "title": "Tech stocks end the week on a down note, despite Anthropic's mega-IPO",
+  "description": null,
+  "page": "https://www.npr.org/2026/11/20/nx-s1-6048645/tech-stocks-end-the-week-on-a-down-note-despite-anthropics-mega-ipo",
+  "audio": null,
+  "secs": null,
+  "story_id": "nx-s1-6048645",
+  "summary": "The stock market is ending the week down despite Anthropic's blockbuster IPO and a strong Nvidia earnings report, largely thanks to investor jitters about the future of AI.",
+  "topics": [
+   "Tech & AI",
+   "Economy"
+  ],
+  "tagged_by": "keywords"
+ },
+ "https://www.npr.org/2026/11/20/nx-s1-6047695/new-research-gives-insight-to-where-your-brain-plans-out-your-speech": {
+  "id": "https://www.npr.org/2026/11/20/nx-s1-6047695/new-research-gives-insight-to-where-your-brain-plans-out-your-speech",
+  "show": "All Things Considered",
+  "date": "2026-11-20T21:38:25Z",
+  "title": "New research gives insight to where your brain plans out your speech",
+  "description": null,
+  "page": "https://www.npr.org/2026/11/20/nx-s1-6047695/new-research-gives-insight-to-where-your-brain-plans-out-your-speech",
+  "audio": null,
+  "secs": null,
+  "story_id": "nx-s1-6047695",
+  "summary": "New research shows where this all takes place and what it means for possibly treating those who have speech difficulties.",
+  "topics": [
+   "World"
+  ],
+  "tagged_by": "keywords"
+ },
+ "https://www.npr.org/2026/11/20/nx-s1-6047636/trump-presser": {
+  "id": "https://www.npr.org/2026/11/20/nx-s1-6047636/trump-presser",
+  "show": "All Things Considered",
+  "date": "2026-11-20T21:38:21Z",
+  "title": "The latest from Trump's press conference",
+  "description": null,
+  "page": "https://www.npr.org/2026/11/20/nx-s1-6047636/trump-presser",
+  "audio": null,
+  "secs": null,
+  "story_id": "nx-s1-6047636",
+  "summary": "President Trump gave a wide-ranging press conference following his historic trip to Asia where he met with Chinese President Xi and Russian President Putin.",
+  "topics": [
+   "Politics",
+   "World"
+  ],
+  "tagged_by": "keywords"
+ },
+ "https://www.npr.org/2026/11/20/nx-s1-6047615/climate-talks-are-now-in-overtime": {
+  "id": "https://www.npr.org/2026/11/20/nx-s1-6047615/climate-talks-are-now-in-overtime",
+  "show": "All Things Considered",
+  "date": "2026-11-20T21:38:19Z",
+  "title": "Climate talks are now in overtime",
+  "description": null,
+  "page": "https://www.npr.org/2026/11/20/nx-s1-6047615/climate-talks-are-now-in-overtime",
+  "audio": null,
+  "secs": null,
+  "story_id": "nx-s1-6047615",
+  "summary": "Delegates from nearly 200 countries have been meeting for two weeks to discuss steps to limit global warming.",
+  "topics": [
+   "Science & health"
+  ],
+  "tagged_by": "keywords"
+ },
+ "https://www.npr.org/2026/11/20/nx-s1-6047588/going-going-gone-the-tradition-behind-one-ginkgo-tree-at-smith-college": {
+  "id": "https://www.npr.org/2026/11/20/nx-s1-6047588/going-going-gone-the-tradition-behind-one-ginkgo-tree-at-smith-college",
+  "show": "All Things Considered",
+  "date": "2026-11-20T21:38:18Z",
+  "title": "Going, going, gone: the tradition behind one ginkgo tree at Smith College",
+  "description": null,
+  "page": "https://www.npr.org/2026/11/20/nx-s1-6047588/going-going-gone-the-tradition-behind-one-ginkgo-tree-at-smith-college",
+  "audio": null,
+  "secs": null,
+  "story_id": "nx-s1-6047588",
+  "summary": "An ancient ginkgo tree on the Smith College campus dropped its leaves all at once, in a show of beauty and evanescence.",
+  "topics": [
+   "World"
+  ],
+  "tagged_by": "keywords"
+ },
+ "https://www.npr.org/2026/11/20/nx-s1-6047503/machine-gods-anthropics-early-days": {
+  "id": "https://www.npr.org/2026/11/20/nx-s1-6047503/machine-gods-anthropics-early-days",
+  "show": "All Things Considered",
+  "date": "2026-11-20T21:38:14Z",
+  "title": "Machine Gods: Anthropic's early days",
+  "description": null,
+  "page": "https://www.npr.org/2026/11/20/nx-s1-6047503/machine-gods-anthropics-early-days",
+  "audio": null,
+  "secs": null,
+  "story_id": "nx-s1-6047503",
+  "summary": "In the wake of AI giant Anthropic's record-breaking IPO, Machine Gods hosts Kevin Roose and Casey Newton look back on the early days of the company, when less than 200 workers in a cramped office obse",
+  "topics": [
+   "Tech & AI",
+   "Economy"
+  ],
+  "tagged_by": "keywords"
+ },
+ "https://www.npr.org/2026/11/20/nx-s1-6046485/rising-seas-have-forced-this-quinault-village-to-relocate": {
+  "id": "https://www.npr.org/2026/11/20/nx-s1-6046485/rising-seas-have-forced-this-quinault-village-to-relocate",
+  "show": "All Things Considered",
+  "date": "2026-11-20T21:38:13Z",
+  "title": "Rising seas have forced this Quinault village to relocate",
+  "description": null,
+  "page": "https://www.npr.org/2026/11/20/nx-s1-6046485/rising-seas-have-forced-this-quinault-village-to-relocate",
+  "audio": null,
+  "secs": null,
+  "story_id": "nx-s1-6046485",
+  "summary": "The Quinault Indian Nation has moved its largest village away from rising seas and tsunamis",
+  "topics": [
+   "World"
+  ],
+  "tagged_by": "keywords"
+ },
+ "https://www.npr.org/2026/11/20/nx-s1-5860971/trumps-impact-on-ohio-steel-plant": {
+  "id": "https://www.npr.org/2026/11/20/nx-s1-5860971/trumps-impact-on-ohio-steel-plant",
+  "show": "All Things Considered",
+  "date": "2026-11-20T21:38:11Z",
+  "title": "Trump's impact on an Ohio steel plant",
+  "description": null,
+  "page": "https://www.npr.org/2026/11/20/nx-s1-5860971/trumps-impact-on-ohio-steel-plant",
+  "audio": null,
+  "secs": null,
+  "story_id": "nx-s1-5860971",
+  "summary": "The giant steel plant in Middletown, Ohio planned to switch away from using coke, a refined form of coal.",
+  "topics": [
+   "Politics"
+  ],
+  "tagged_by": "keywords"
+ },
+ "https://www.npr.org/2026/11/20/nx-s1-6044211/the-superbowl-of-wheelchair-football-pits-the-kansas-city-chiefs-versus-the-chicago-bears": {
+  "id": "https://www.npr.org/2026/11/20/nx-s1-6044211/the-superbowl-of-wheelchair-football-pits-the-kansas-city-chiefs-versus-the-chicago-bears",
+  "show": "All Things Considered",
+  "date": "2026-11-20T21:38:09Z",
+  "title": "The Superbowl of Wheelchair Football pits the Kansas City Chiefs versus the Chicago Bears",
+  "description": null,
+  "page": "https://www.npr.org/2026/11/20/nx-s1-6044211/the-superbowl-of-wheelchair-football-pits-the-kansas-city-chiefs-versus-the-chicago-bears",
+  "audio": null,
+  "secs": null,
+  "story_id": "nx-s1-6044211",
+  "summary": "They have the same name but they are different teams---The world champion Kansas City Chiefs are looking for a three-peat Saturday against the rival Chicago Bears in the \"super bowl\" of wheelchair football.",
+  "topics": [
+   "World"
+  ],
+  "tagged_by": "keywords"
+ },
+ "82036ba8-1c30-4324-bc03-99faa2e19b63": {
+  "id": "82036ba8-1c30-4324-bc03-99faa2e19b63",
+  "show": "Up First",
+  "date": "2026-11-20T10:54:51Z",
+  "title": "Government Funding Pressure On Iran War, National Security & Tech, Iowa Detonation",
+  "description": null,
+  "page": "https://www.npr.org/2026/11/20/nx-s1-6048392/government-funding-pressure-on-iran-war-national-security-tech-iowa-detonation",
+  "audio": "https://prfx.byspotify.com/e/play.podtrac.com/npr-510318/npr.simplecastaudio.com/d52bee4a-b10a-40f8-9417-45064e6b8632/episodes/7f325634-ed4b-4332-8204-e74e770ac411/audio/128/default.mp3?awCollectionId=d52bee4a-b10a-40f8-9417-45064e6b8632&awEpisodeId=7f325634-ed4b-4332-8204-e74e770ac411&feed=HMwRVgVt&t=podcast&e=nx-s1-6048392&p=510318&d=771&size=12349902",
+  "secs": 771,
+  "story_id": "nx-s1-6048392",
+  "summary": "Democrats are weighing whether to use the government funding deadline to cut off money for the war in Iran, exposing divisions over how quickly the party should act.",
   "topics": [
    "Politics",
    "World",
+   "Tech & AI"
+  ],
+  "tagged_by": "keywords"
+ },
+ "0af992f3-3f7e-4fe8-aa85-f1e99f7d479f": {
+  "id": "0af992f3-3f7e-4fe8-aa85-f1e99f7d479f",
+  "show": "Fresh Air",
+  "date": "2026-11-20T18:05:00Z",
+  "title": "John Lithgow",
+  "description": null,
+  "page": "https://www.npr.org/2026/11/20/nx-s1-6047659/john-lithgow",
+  "audio": "https://prfx.byspotify.com/e/play.podtrac.com/npr-381444908/npr.simplecastaudio.com/49850946-31c1-4953-8129-0d718420c400/episodes/fa154cf5-3131-42f6-bf40-3048794f0e21/audio/128/default.mp3?awCollectionId=49850946-31c1-4953-8129-0d718420c400&awEpisodeId=fa154cf5-3131-42f6-bf40-3048794f0e21&feed=jBsBZBHh&t=podcast&e=nx-s1-6047659&p=381444908&d=2719&size=43510891",
+  "secs": 2719,
+  "story_id": "nx-s1-6047659",
+  "summary": "Actor John Lithgow talks with Dave Davies about some of his iconic roles, including Winston Churchill in The Crown and controversial children's book author Roald Dahl in the play “Giant.” He plays Dum",
+  "topics": [
    "Culture"
   ],
-  "tagged_by": "keywords",
-  "transcript": null
+  "tagged_by": "keywords"
+ },
+ "418e65da-a190-4639-8188-62907ff41159": {
+  "id": "418e65da-a190-4639-8188-62907ff41159",
+  "show": "Short Wave",
+  "date": "2026-11-20T08:00:00Z",
+  "title": "This gas station drug acts like opioids. It’s getting harder to buy",
+  "description": null,
+  "page": "https://www.npr.org/2026/11/20/nx-s1-6045648/kratom-opioid-addiction-7-oh",
+  "audio": "https://prfx.byspotify.com/e/play.podtrac.com/npr-510351/npr.simplecastaudio.com/72da6803-9aa4-4e2e-a973-3bc436f0e9fa/episodes/0ed0c538-f450-4a92-9098-3795550ed618/audio/128/default.mp3?awCollectionId=72da6803-9aa4-4e2e-a973-3bc436f0e9fa&awEpisodeId=0ed0c538-f450-4a92-9098-3795550ed618&feed=F0qJcgXZ&t=podcast&e=nx-s1-6045648&p=510351&d=854&size=13669817",
+  "secs": 854,
+  "story_id": "nx-s1-6045648",
+  "summary": "Support public media with NPR+ and enjoy perks for over 25 podcasts like this one.",
+  "topics": [
+   "Science & health"
+  ],
+  "tagged_by": "keywords"
+ },
+ "1fc9b921-fb6f-4af6-88fa-a8bc420fd5fc": {
+  "id": "1fc9b921-fb6f-4af6-88fa-a8bc420fd5fc",
+  "show": "Planet Money",
+  "date": "2026-11-20T22:00:00Z",
+  "title": "You Can Seize Everything (The U.S. is reviving pirate law)",
+  "description": null,
+  "page": "https://www.npr.org/2026/11/20/nx-s1-6049085/iran-oil-tanker-prize-law-court",
+  "audio": "https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/d58dad88-3a45-458b-ab87-01448967415e/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=d58dad88-3a45-458b-ab87-01448967415e&feed=hvWWWzRv&t=podcast&e=nx-s1-6049085&p=510289&d=1475&size=23613527",
+  "secs": 1475,
+  "story_id": "nx-s1-6049085",
+  "summary": "The U.S. is working on bringing back the ancient maritime practice of prize law — which allowed for privateers, or more recently, navies, to seize enemy-linked ships, and quickly sell them off.",
+  "topics": [
+   "World",
+   "Economy",
+   "Culture"
+  ],
+  "tagged_by": "keywords"
+ },
+ "fc3023ca-347a-4c22-98bf-c16e7879601b": {
+  "id": "fc3023ca-347a-4c22-98bf-c16e7879601b",
+  "show": "The Indicator",
+  "date": "2026-11-20T08:00:00Z",
+  "title": "Tech blackouts, Black Friday fake-outs, and C-suite tariff cash-outs",
+  "description": null,
+  "page": "https://www.npr.org/2026/11/20/nx-s1-6047743/tech-blackouts-black-friday-fake-outs-and-c-suite-tariff-cash-outs",
+  "audio": "https://prfx.byspotify.com/e/play.podtrac.com/npr-510325/npr.simplecastaudio.com/0a4e8d3b-fe23-4948-9e39-20fcf16f9331/episodes/ace46736-91bd-469d-9cc8-711ca5b95dd0/audio/128/default.mp3?awCollectionId=0a4e8d3b-fe23-4948-9e39-20fcf16f9331&awEpisodeId=ace46736-91bd-469d-9cc8-711ca5b95dd0&feed=IFy3imsg&t=podcast&e=nx-s1-6047743&p=510325&d=564&size=9026751",
+  "secs": 564,
+  "story_id": "nx-s1-6047743",
+  "summary": "This week’s indicators: Software outages are piling up, Black Friday deals might not actually be Black Friday deals, and companies are cashing in on tariff refund payouts.",
+  "topics": [
+   "Tech & AI",
+   "Economy",
+   "Culture"
+  ],
+  "tagged_by": "keywords"
+ },
+ "ce9c1f39-6c86-4749-bd8e-7ac196d2b064": {
+  "id": "ce9c1f39-6c86-4749-bd8e-7ac196d2b064",
+  "show": "NPR Politics Podcast",
+  "date": "2026-11-20T20:41:01Z",
+  "title": "Unpacking Trump's presser & Asia trip",
+  "description": null,
+  "page": "https://www.npr.org/2026/11/20/nx-s1-6048519/unpacking-trumps-presser-asia-trip",
+  "audio": "https://prfx.byspotify.com/e/play.podtrac.com/npr-510310/npr.simplecastaudio.com/81c2d960-75d6-4dba-9f07-0bfade0db7ce/episodes/85cbcbc3-cb6b-49af-8cf0-75056f987303/audio/128/default.mp3?awCollectionId=81c2d960-75d6-4dba-9f07-0bfade0db7ce&awEpisodeId=85cbcbc3-cb6b-49af-8cf0-75056f987303&feed=iDPaKWvZ&t=podcast&e=nx-s1-6048519&p=510310&d=1056&size=16906075",
+  "secs": 1056,
+  "story_id": "nx-s1-6048519",
+  "summary": "President Trump held a press conference at the White House Friday after a trip to Asia, where he met with world leaders including China's Xi Jinping and Russia's Vladimir Putin.",
+  "topics": [
+   "Politics",
+   "World"
+  ],
+  "tagged_by": "keywords"
+ },
+ "ed3076b3-fb0e-4f94-886c-5d8297f9b9dd": {
+  "id": "ed3076b3-fb0e-4f94-886c-5d8297f9b9dd",
+  "show": "Here & Now",
+  "date": "2026-11-20T17:00:00Z",
+  "title": "Take a journey inside the newest national park",
+  "description": null,
+  "page": "https://www.npr.org/2026/11/20/nx-s1-6047601/take-a-journey-inside-the-newest-national-park",
+  "audio": "https://prfx.byspotify.com/e/play.podtrac.com/npr-510051/npr.simplecastaudio.com/a14b69c2-63a5-430e-bbf8-8c76275e14cd/episodes/a0a4be14-01b4-4edc-b82a-9022a5195d75/audio/128/default.mp3?awCollectionId=a14b69c2-63a5-430e-bbf8-8c76275e14cd&awEpisodeId=a0a4be14-01b4-4edc-b82a-9022a5195d75&feed=XciAg_Eg&t=podcast&e=nx-s1-6047601&p=510051&d=1298&size=20773494",
+  "secs": 1298,
+  "story_id": "nx-s1-6047601",
+  "summary": "A new national park opened in the United States, known as the \"wonderland of rocks.\" Here & Now 's Peter O'Dowd visits the Chiricahua National Park in Southeastern Arizona.",
+  "topics": [
+   "World"
+  ],
+  "tagged_by": "keywords"
+ },
+ "408794f1-00a4-4966-bc07-2520d55b40ca": {
+  "id": "408794f1-00a4-4966-bc07-2520d55b40ca",
+  "show": "Pop Culture Happy Hour",
+  "date": "2026-11-20T08:00:00Z",
+  "title": "The Hunger Games: Sunrise on the Reaping and What’s Making Us Happy",
+  "description": null,
+  "page": "https://www.npr.org/2026/11/20/nx-s1-6047363/the-latest-hunger-games-prequel-gives-us-the-haymitch-backstory",
+  "audio": "https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510282/npr.simplecastaudio.com/f75261d2-0860-4d61-91c1-a78a2b997ff2/episodes/b9f3e7f4-2d55-4ff3-8ed3-16af4c49bc19/audio/128/default.mp3?awCollectionId=f75261d2-0860-4d61-91c1-a78a2b997ff2&awEpisodeId=b9f3e7f4-2d55-4ff3-8ed3-16af4c49bc19&feed=QGMNw0q1&t=podcast&e=nx-s1-6047363&p=510282&d=1327&size=21243237",
+  "secs": 1327,
+  "story_id": "nx-s1-6047363",
+  "summary": "The beloved The Hunger Games franchise has a new film prequel called Sunrise On The Reaping .",
+  "topics": [
+   "Culture"
+  ],
+  "tagged_by": "keywords"
+ },
+ "f31d960d-f91f-46b5-a90d-20f867854321": {
+  "id": "f31d960d-f91f-46b5-a90d-20f867854321",
+  "show": "State of the World",
+  "date": "2026-11-20T21:01:25Z",
+  "title": "How one Ukrainian family gets ready for another winter at war",
+  "description": null,
+  "page": "https://www.npr.org/2026/11/20/nx-s1-6049087/how-one-ukrainian-family-gets-ready-for-another-winter-at-war",
+  "audio": "https://prfx.byspotify.com/e/play.podtrac.com/npr-510366/npr.simplecastaudio.com/0c99070d-d4e9-4006-ac06-39c904ab327e/episodes/083144e5-d9c9-406a-9b93-b14eed837372/audio/128/default.mp3?awCollectionId=0c99070d-d4e9-4006-ac06-39c904ab327e&awEpisodeId=083144e5-d9c9-406a-9b93-b14eed837372&feed=eZ65RO4U&t=podcast&e=nx-s1-6049087&p=510366&d=523&size=8382633",
+  "secs": 523,
+  "story_id": "nx-s1-6049087",
+  "summary": "The weather is turning colder for all of us in the Northern Hemisphere, but that fact is especially significant for Ukrainians.",
+  "topics": [
+   "World"
+  ],
+  "tagged_by": "keywords"
+ },
+ "dfc11093-d5ed-483f-9e33-138b71434fe3": {
+  "id": "dfc11093-d5ed-483f-9e33-138b71434fe3",
+  "show": "It's Been a Minute",
+  "date": "2026-11-20T08:00:00Z",
+  "title": "How to stay positive in the dating trenches",
+  "description": null,
+  "page": "https://www.npr.org/2026/11/20/nx-s1-6040300/how-to-stay-positive-in-the-dating-trenches",
+  "audio": "https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510317/npr.simplecastaudio.com/d26aaa31-0a11-46ca-a4ae-a682d381c8c1/episodes/dc4ed56a-9dd2-48a7-a5ba-51d6241a2d1b/audio/128/default.mp3?awCollectionId=d26aaa31-0a11-46ca-a4ae-a682d381c8c1&awEpisodeId=dc4ed56a-9dd2-48a7-a5ba-51d6241a2d1b&feed=eQwWJH5j&t=podcast&e=nx-s1-6040300&p=510317&d=1689&size=27025284",
+  "secs": 1689,
+  "story_id": "nx-s1-6040300",
+  "summary": "Need some help in the romance department?",
+  "topics": [
+   "World"
+  ],
+  "tagged_by": "keywords"
+ },
+ "0100ed7c-0637-4956-81cf-48c0ef86486e": {
+  "id": "0100ed7c-0637-4956-81cf-48c0ef86486e",
+  "show": "Code Switch",
+  "date": "2026-11-20T08:04:59Z",
+  "title": "Who gets to be “white”?",
+  "description": null,
+  "page": "https://www.npr.org/2026/11/20/nx-s1-6047355/who-gets-to-be-white",
+  "audio": "https://prfx.byspotify.com/e/play.podtrac.com/npr-510312/npr.simplecastaudio.com/acf40eb5-ab43-4086-ae17-f1ef04b15913/episodes/f3300d16-321f-4009-ae40-3717d7f590e9/audio/128/default.mp3?awCollectionId=acf40eb5-ab43-4086-ae17-f1ef04b15913&awEpisodeId=f3300d16-321f-4009-ae40-3717d7f590e9&feed=KTjArdE7&t=podcast&e=nx-s1-6047355&p=510312&d=1223&size=19568498",
+  "secs": 1223,
+  "story_id": "nx-s1-6047355",
+  "summary": "After an overwhelming midterm victory for Democrats, one demographic very notably did not shift blue with the others — white voters overall went red by four points.",
+  "topics": [
+   "Politics",
+   "Culture"
+  ],
+  "tagged_by": "keywords"
+ },
+ "dacff5df-f118-4226-ae3e-afbf1e99dcff": {
+  "id": "dacff5df-f118-4226-ae3e-afbf1e99dcff",
+  "show": "Book of the Day",
+  "date": "2026-11-20T08:00:00Z",
+  "title": "Setting pushes 'A Bad Deal in Mormon Land' and 'Monsters of Ohio' to wacky places",
+  "description": null,
+  "page": "https://www.npr.org/2026/11/20/nx-s1-6047813/nprs-book-of-the-day-a-bad-deal-in-mormon-land-monsters-of-ohio",
+  "audio": "https://prfx.byspotify.com/e/play.podtrac.com/npr-510364/npr.simplecastaudio.com/c3f326c7-02ae-4df0-b95a-b35e58973e1a/episodes/58c404bb-cb8e-414a-ae1c-f0cbb9371af7/audio/128/default.mp3?awCollectionId=c3f326c7-02ae-4df0-b95a-b35e58973e1a&awEpisodeId=58c404bb-cb8e-414a-ae1c-f0cbb9371af7&feed=tZrJMl4P&t=podcast&e=nx-s1-6047813&p=510364&d=1154&size=18470496",
+  "secs": 1154,
+  "story_id": "nx-s1-6047813",
+  "summary": "In new releases A Bad Deal in Mormon Land by T.I.M.",
+  "topics": [
+   "World"
+  ],
+  "tagged_by": "keywords"
+ },
+ "31b09a13-a344-4e53-9b2c-820e9984b983": {
+  "id": "31b09a13-a344-4e53-9b2c-820e9984b983",
+  "show": "TED Radio Hour",
+  "date": "2026-11-20T08:00:00Z",
+  "title": "Uncovering the mysteries of the animal kingdom",
+  "description": null,
+  "page": "https://www.npr.org/2026/11/20/nx-s1-6047049/uncovering-the-mysteries-of-the-animal-kingdom",
+  "audio": "https://prfx.byspotify.com/e/play.podtrac.com/npr-510298/npr.simplecastaudio.com/e19460b8-b905-4bd2-9062-cea3c0ab9405/episodes/2ebf8e4e-1080-455b-866b-1c46bae026af/audio/128/default.mp3?awCollectionId=e19460b8-b905-4bd2-9062-cea3c0ab9405&awEpisodeId=2ebf8e4e-1080-455b-866b-1c46bae026af&feed=gGUt_fS1&t=podcast&e=nx-s1-6047049&p=510298&d=2977&size=47639449",
+  "secs": 2977,
+  "story_id": "nx-s1-6047049",
+  "summary": "From the bugs in our backyards to prehistoric reptiles, animal biology and behavior are full of puzzles and conundrums.",
+  "topics": [
+   "World"
+  ],
+  "tagged_by": "keywords"
  }
 }
