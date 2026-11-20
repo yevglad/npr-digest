@@ -1,0 +1,478 @@
+{
+ "generated": "2026-11-20T01:17:00Z",
+ "window_days": 2,
+ "segments": [
+  {
+   "show": "Morning Edition",
+   "date": "2026-11-19T06:20:42-05:00",
+   "page": "https://www.npr.org/2026/11/19/nx-s1-6045750/katherine-clark-hakeem-jeffries-house-democrats",
+   "audio": null,
+   "secs": null,
+   "title": "Incoming House majority leader Katherine Clark stresses Democratic unity",
+   "summary": "Clark on the incoming Democratic majority's agenda and the divisions it has to manage.",
+   "topics": [
+    "Politics"
+   ]
+  },
+  {
+   "show": "Morning Edition",
+   "date": "2026-11-19T06:20:37-05:00",
+   "page": "https://www.npr.org/2026/11/19/nx-s1-6046487/gregory-meeks-trump-xi-putin-summit",
+   "audio": null,
+   "secs": null,
+   "title": "Top House Democrat questions what Trump accomplished in Xi-Putin summit",
+   "summary": "Rep. Gregory Meeks on U.S. alliances after the summit, and Chinese espionage in the Nvidia scandal.",
+   "topics": [
+    "Politics",
+    "World"
+   ]
+  },
+  {
+   "show": "Morning Edition",
+   "date": "2026-11-19T05:00:00-05:00",
+   "page": "https://www.npr.org/2026/11/19/nx-s1-6042558/anthropic-ipo-breaks-records-100-billion",
+   "audio": null,
+   "secs": null,
+   "title": "Investors scramble for a piece of Anthropic in blockbuster IPO",
+   "summary": "Anthropic's shares jump on their first day of Nasdaq trading after a record raise.",
+   "topics": [
+    "Tech & AI",
+    "Economy"
+   ]
+  },
+  {
+   "show": "Morning Edition",
+   "date": "2026-11-19T04:46:29-05:00",
+   "page": "https://www.npr.org/2026/11/19/nx-s1-6042289/morning-news-brief",
+   "audio": null,
+   "secs": null,
+   "title": "Morning news brief",
+   "summary": "The Trump\u2013Xi\u2013Putin meeting, Jeffries nominated for speaker, and Anthropic's IPO.",
+   "topics": [
+    "Politics",
+    "World",
+    "Tech & AI"
+   ]
+  },
+  {
+   "show": "Morning Edition",
+   "date": "2026-11-19T04:46:24-05:00",
+   "page": "https://www.npr.org/2026/11/19/nx-s1-6044206/irans-attacks-on-ships-in-the-strait-of-hormuz-escalate",
+   "audio": null,
+   "secs": null,
+   "title": "Iran's attacks on ships in the Strait of Hormuz escalate",
+   "summary": "Iran goes on the offensive at sea and with airstrikes around the Persian Gulf.",
+   "topics": [
+    "World"
+   ]
+  },
+  {
+   "show": "Morning Edition",
+   "date": "2026-11-19T04:45:50-05:00",
+   "page": "https://www.npr.org/2026/11/19/nx-s1-6042913/as-some-states-move-away-from-the-death-penalty-florida-prepares-to-set-new-record",
+   "audio": null,
+   "secs": null,
+   "title": "Florida prepares to set a new execution record",
+   "summary": "Florida's 20th execution of the year, while other states move away from capital punishment.",
+   "topics": [
+    "Justice"
+   ]
+  },
+  {
+   "show": "Morning Edition",
+   "date": "2026-11-19T04:45:41-05:00",
+   "page": "https://www.npr.org/2026/11/19/nx-s1-6035863/ben-shapiro-on-conservative-media-and-the-future-of-the-republican-party",
+   "audio": null,
+   "secs": null,
+   "title": "Ben Shapiro on conservative media and the GOP's future",
+   "summary": "Steve Inskeep's interview with the conservative commentator.",
+   "topics": [
+    "Politics"
+   ]
+  },
+  {
+   "show": "Morning Edition",
+   "date": "2026-11-19T04:45:32-05:00",
+   "page": "https://www.npr.org/2026/11/19/nx-s1-6045760/after-13-year-wait-grand-theft-auto-vi-hits-store-shelves",
+   "audio": null,
+   "secs": null,
+   "title": "After a 13-year wait, Grand Theft Auto VI arrives",
+   "summary": "Why the launch has players taking time off work.",
+   "topics": [
+    "Culture"
+   ]
+  },
+  {
+   "show": "Morning Edition",
+   "date": "2026-11-19T04:45:26-05:00",
+   "page": "https://www.npr.org/2026/11/19/nx-s1-6045884/international-court-of-justice-issues-ruling-on-myanmar-genocide-case",
+   "audio": null,
+   "secs": null,
+   "title": "ICJ rules on the Myanmar genocide case",
+   "summary": "The court finds Myanmar committed genocide against the Rohingya; Myanmar denies it.",
+   "topics": [
+    "World",
+    "Justice"
+   ]
+  },
+  {
+   "show": "Morning Edition",
+   "date": "2026-11-19T04:44:40-05:00",
+   "page": "https://www.npr.org/2026/11/18/nx-s1-6040432/trump-xi-and-putin-shenzhen-china-russia-usa",
+   "audio": null,
+   "secs": null,
+   "title": "Trump, Xi and Putin meet as global alliances hang in the balance",
+   "summary": "The Shenzhen trilateral: Ukraine, Iran and nuclear arms on the agenda.",
+   "topics": [
+    "World"
+   ]
+  },
+  {
+   "show": "All Things Considered",
+   "date": "2026-11-19T18:07:17-05:00",
+   "page": "https://www.npr.org/2026/11/19/nx-s1-6043791/for-some-patients-psychedelic-treatment-brings-new-troubles-in-its-aftermath",
+   "audio": null,
+   "secs": null,
+   "title": "For some patients, psychedelic treatment brings new troubles",
+   "summary": "Researchers push for more attention to the minority with lasting problems afterward.",
+   "topics": [
+    "Science & health"
+   ]
+  },
+  {
+   "show": "All Things Considered",
+   "date": "2026-11-19T17:56:08-05:00",
+   "page": "https://www.npr.org/2026/11/19/nx-s1-6045926/myanmar-committed-genocide-against-its-rohingya-muslim-minority-court-rules",
+   "audio": null,
+   "secs": null,
+   "title": "Myanmar committed genocide against the Rohingya, court rules",
+   "summary": "The evening's report on the landmark ICJ judgment.",
+   "topics": [
+    "World",
+    "Justice"
+   ]
+  },
+  {
+   "show": "All Things Considered",
+   "date": "2026-11-19T17:46:43-05:00",
+   "page": "https://www.npr.org/2026/11/19/nx-s1-6027766/a-new-concerto-highlights-an-instrument-usually-in-the-background-the-timpani",
+   "audio": null,
+   "secs": null,
+   "title": "A new concerto for the timpani",
+   "summary": "The Seattle Symphony premieres a rare solo showcase for the drums.",
+   "topics": [
+    "Culture"
+   ]
+  },
+  {
+   "show": "All Things Considered",
+   "date": "2026-11-19T17:45:59-05:00",
+   "page": "https://www.npr.org/2026/11/19/nx-s1-6046185/the-ai-boom-is-the-biggest-gold-rush-san-franciscos-seen-yet",
+   "audio": null,
+   "secs": null,
+   "title": "The AI boom is San Francisco's biggest gold rush yet",
+   "summary": "Bloomberg's Ben Steverman on how AI wealth is reshaping the Bay Area.",
+   "topics": [
+    "Tech & AI",
+    "Economy"
+   ]
+  },
+  {
+   "show": "All Things Considered",
+   "date": "2026-11-19T17:45:51-05:00",
+   "page": "https://www.npr.org/2026/11/19/nx-s1-6037536/how-non-player-characters-in-grand-theft-auto-vi-help-create-its-big-world",
+   "audio": null,
+   "secs": null,
+   "title": "How GTA VI's background characters build its world",
+   "summary": "On \"barks\", the throwaway lines that make game worlds feel alive.",
+   "topics": [
+    "Culture"
+   ]
+  },
+  {
+   "show": "All Things Considered",
+   "date": "2026-11-19T17:45:48-05:00",
+   "page": "https://www.npr.org/2026/11/19/nx-s1-6029776/on-her-latest-album-snoh-aalegra-remembers-a-legendary-love",
+   "audio": null,
+   "secs": null,
+   "title": "Snoh Aalegra on her album Legendary Love",
+   "summary": "The singer on the relationship behind the record and her influences.",
+   "topics": [
+    "Culture"
+   ]
+  },
+  {
+   "show": "All Things Considered",
+   "date": "2026-11-19T17:03:28-05:00",
+   "page": "https://www.npr.org/2026/11/19/nx-s1-6023392-e1/the-cost-of-college-is-confusing-some-schools-are-trying-to-change-that",
+   "audio": null,
+   "secs": null,
+   "title": "Colleges try to make their real cost less confusing",
+   "summary": "Schools working to clear up what students actually pay.",
+   "topics": [
+    "Economy"
+   ]
+  },
+  {
+   "show": "All Things Considered",
+   "date": "2026-11-19T17:03:22-05:00",
+   "page": "https://www.npr.org/2026/11/19/nx-s1-5969904/in-elsinore-andrew-scott-plays-actor-dying-from-aids-as-he-plays-hamlet",
+   "audio": null,
+   "secs": null,
+   "title": "Andrew Scott on playing Ian Charleson in Elsinore",
+   "summary": "Ailsa Chang talks with Scott about the actor's final Hamlet.",
+   "topics": [
+    "Culture"
+   ]
+  },
+  {
+   "show": "All Things Considered",
+   "date": "2026-11-19T16:59:57-05:00",
+   "page": "https://www.npr.org/2026/11/19/nx-s1-6045773/why-the-u-s-air-traffic-control-system-still-relies-on-an-antique-network",
+   "audio": null,
+   "secs": null,
+   "title": "Why air traffic control still runs on an 'antique' network",
+   "summary": "After last week's nationwide ground stop: why the old equipment is so hard to replace.",
+   "topics": [
+    "Tech & AI"
+   ]
+  },
+  {
+   "show": "All Things Considered",
+   "date": "2026-11-19T16:46:24-05:00",
+   "page": "https://www.npr.org/2026/11/19/nx-s1-6044771/for-new-members-of-congress-getting-a-prime-office-is-a-game-of-chance",
+   "audio": null,
+   "secs": null,
+   "title": "For new members of Congress, a prime office comes down to luck",
+   "summary": "Orientation wraps with the office lottery.",
+   "topics": [
+    "Politics"
+   ]
+  },
+  {
+   "show": "Up First",
+   "date": "2026-11-19T18:00:00Z",
+   "page": null,
+   "audio": "https://npr.simplecastaudio.com/d52bee4a-b10a-40f8-9417-45064e6b8632/episodes/34cda4cf-7f57-4f56-b7a1-8b512ab7f3b9/audio/128/default.mp3",
+   "secs": 2349,
+   "title": "Newsmakers: Ben Shapiro reassesses the president he campaigned for",
+   "summary": "The long-form interview: tariffs, corruption allegations and the Iran war.",
+   "topics": [
+    "Politics"
+   ]
+  },
+  {
+   "show": "Up First",
+   "date": "2026-11-19T11:03:18Z",
+   "page": "https://www.npr.org/2026/11/19/nx-s1-6047056/trump-trilateral-summit-in-china-house-democratic-leadership-anthropic-ipo",
+   "audio": "https://npr.simplecastaudio.com/d52bee4a-b10a-40f8-9417-45064e6b8632/episodes/d5a5447c-a547-45a6-8612-df73d1b9b56e/audio/128/default.mp3",
+   "secs": 772,
+   "title": "Trilateral summit in China, House Democratic leadership, Anthropic IPO",
+   "summary": "No breakthrough with Xi and Putin; Democrats line up investigations; a record IPO.",
+   "topics": [
+    "World",
+    "Politics",
+    "Tech & AI"
+   ]
+  },
+  {
+   "show": "Up First",
+   "date": "2026-11-18T10:55:31Z",
+   "page": "https://www.npr.org/2026/11/18/nx-s1-6045399/trump-xi-putin-meeting-nvidia-board-rejects-haungs-return-computer-system-outages",
+   "audio": "https://npr.simplecastaudio.com/d52bee4a-b10a-40f8-9417-45064e6b8632/episodes/207319f2-4e0d-45f8-b821-5b8f59592950/audio/128/default.mp3",
+   "secs": 807,
+   "title": "Trump\u2013Xi\u2013Putin meeting, Nvidia board rejects Huang's return, system outages",
+   "summary": "Trade and tech disputes in China, Nvidia's leadership standoff, and a run of outages.",
+   "topics": [
+    "World",
+    "Tech & AI"
+   ]
+  },
+  {
+   "show": "Fresh Air",
+   "date": "2026-11-19T19:03:02Z",
+   "page": "https://www.npr.org/2026/11/19/nx-s1-6047463/mississippi-is-a-reflection-of-the-nation-scott-coloms-historic-win",
+   "audio": "https://npr.simplecastaudio.com/49850946-31c1-4953-8129-0d718420c400/episodes/18c7a8cf-3232-45dd-876b-d1bfa4cbbd49/audio/128/default.mp3",
+   "secs": 2714,
+   "title": "'Mississippi is a reflection of the nation': Scott Colom's historic win",
+   "summary": "Eddie Glaude and Kiese Laymon on what Mississippi's new Democratic senator means beyond politics.",
+   "topics": [
+    "Politics"
+   ]
+  },
+  {
+   "show": "Fresh Air",
+   "date": "2026-11-18T18:49:09Z",
+   "page": "https://www.npr.org/2026/11/18/nx-s1-6045673/opera-countertenor-anthony-roth-costanzo-sings-with-joyful-catharsis",
+   "audio": "https://npr.simplecastaudio.com/49850946-31c1-4953-8129-0d718420c400/episodes/9a53b20d-38b4-4dd8-a4d0-8d89f58bc69f/audio/128/default.mp3",
+   "secs": 2694,
+   "title": "Countertenor Anthony Roth Costanzo",
+   "summary": "Terry Gross talks with the singer about his career and the history of the castrati.",
+   "topics": [
+    "Culture"
+   ]
+  },
+  {
+   "show": "Consider This",
+   "date": "2026-11-19T23:22:28Z",
+   "page": "https://www.npr.org/2026/11/19/nx-s1-6047634/anthropic-has-made-a-lot-of-money-hows-that-changing-the-city-where-its-based",
+   "audio": "https://npr.simplecastaudio.com/2a4a748e-0a2f-495a-8208-99765f0dad47/episodes/267c08f3-f73f-4c9f-9f54-31fc27d0d95c/audio/128/default.mp3",
+   "secs": 518,
+   "title": "How Anthropic's money is changing San Francisco",
+   "summary": "What a wave of AI wealth is doing to the city.",
+   "topics": [
+    "Tech & AI",
+    "Economy"
+   ]
+  },
+  {
+   "show": "Consider This",
+   "date": "2026-11-18T22:27:25Z",
+   "page": "https://www.npr.org/2026/11/18/nx-s1-6045707/why-does-it-feel-like-our-technology-is-breaking",
+   "audio": "https://npr.simplecastaudio.com/2a4a748e-0a2f-495a-8208-99765f0dad47/episodes/844eef8c-b9e3-4db9-86d1-86cb23ee1317/audio/128/default.mp3",
+   "secs": 557,
+   "title": "Why does it feel like our technology is breaking?",
+   "summary": "A cluster of failures and what they reveal about aging digital infrastructure.",
+   "topics": [
+    "Tech & AI"
+   ]
+  },
+  {
+   "show": "Short Wave",
+   "date": "2026-11-18T08:00:00Z",
+   "page": "https://www.npr.org/2026/11/18/nx-s1-6034426/sanfilippo-syndrome-gene-therapy",
+   "audio": "https://npr.simplecastaudio.com/72da6803-9aa4-4e2e-a973-3bc436f0e9fa/episodes/8d27e9f5-844d-4899-89e9-99a92c6c96bd/audio/128/default.mp3",
+   "secs": 893,
+   "title": "How a viral video boosted a new gene therapy",
+   "summary": "A family's push for a treatment for Sanfilippo syndrome, a rare childhood disease.",
+   "topics": [
+    "Science & health"
+   ]
+  },
+  {
+   "show": "Planet Money",
+   "date": "2026-11-18T08:00:00Z",
+   "page": "https://www.npr.org/2026/11/18/nx-s1-6044772/data-center-debt-deals-investment",
+   "audio": "https://npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/b19ce1fb-95ca-4339-9f74-93cd72d20032/audio/128/default.mp3",
+   "secs": 1108,
+   "title": "Two ways big bets on data centers might affect you",
+   "summary": "How your stocks and bond funds may be financing the AI build-out.",
+   "topics": [
+    "Economy",
+    "Tech & AI"
+   ]
+  },
+  {
+   "show": "The Indicator",
+   "date": "2026-11-19T08:00:00Z",
+   "page": "https://www.npr.org/2026/11/19/nx-s1-6045922/why-the-good-old-days-of-american-manufacturing-are-long-gone",
+   "audio": "https://npr.simplecastaudio.com/0a4e8d3b-fe23-4948-9e39-20fcf16f9331/episodes/009ca4ad-89b5-4cc6-ba28-884277eaf1ad/audio/128/default.mp3",
+   "secs": 534,
+   "title": "Why the 'good old days' of American manufacturing are gone",
+   "summary": "Harvard's Willy Shih on why the promised revival hasn't come, and what could.",
+   "topics": [
+    "Economy"
+   ]
+  },
+  {
+   "show": "The Indicator",
+   "date": "2026-11-18T08:00:00Z",
+   "page": "https://www.npr.org/2026/11/18/nx-s1-6044776/we-got-this-economics-podcast-before-gta-vi",
+   "audio": "https://npr.simplecastaudio.com/0a4e8d3b-fe23-4948-9e39-20fcf16f9331/episodes/054f5a9a-87bc-479d-a6a4-7ad9e2f9ce8f/audio/128/default.mp3",
+   "secs": 529,
+   "title": "The economics of GTA VI",
+   "summary": "Why the game is a phenomenon and how it plans to keep earning for years.",
+   "topics": [
+    "Economy",
+    "Culture"
+   ]
+  },
+  {
+   "show": "NPR Politics Podcast",
+   "date": "2026-11-19T21:00:24Z",
+   "page": "https://www.npr.org/2026/11/19/nx-s1-6047326/this-relic-of-u-s-politics-may-be-on-its-way-out",
+   "audio": "https://npr.simplecastaudio.com/81c2d960-75d6-4dba-9f07-0bfade0db7ce/episodes/d05aba54-e99c-443b-93cc-696bed7751e1/audio/128/default.mp3",
+   "secs": 1182,
+   "title": "This relic of U.S. politics may be on its way out",
+   "summary": "The effort to sidestep the Electoral College gains momentum, and how it would work.",
+   "topics": [
+    "Politics"
+   ]
+  },
+  {
+   "show": "NPR Politics Podcast",
+   "date": "2026-11-18T21:06:21Z",
+   "page": "https://www.npr.org/2026/11/18/nx-s1-6045676/dems-win-another-senate-seat",
+   "audio": "https://npr.simplecastaudio.com/81c2d960-75d6-4dba-9f07-0bfade0db7ce/episodes/59c350ee-f68c-4059-97ef-d5d4c0cab5ea/audio/128/default.mp3",
+   "secs": 1109,
+   "title": "Dems win another Senate seat",
+   "summary": "Mary Peltola wins in Alaska; Jeffries nominated for speaker.",
+   "topics": [
+    "Politics"
+   ]
+  },
+  {
+   "show": "Here & Now",
+   "date": "2026-11-19T20:00:00Z",
+   "page": "https://www.npr.org/2026/11/19/nx-s1-6047550/how-the-tax-code-lets-the-rich-off-the-hook",
+   "audio": "https://npr.simplecastaudio.com/a14b69c2-63a5-430e-bbf8-8c76275e14cd/episodes/13fdf2bb-abe4-4723-a716-8964cda95dfc/audio/128/default.mp3",
+   "secs": 1300,
+   "title": "How the tax code lets the rich off the hook",
+   "summary": "Tax scholar Ray Madoff on what could follow California's failed billionaire tax; plus Anthropic.",
+   "topics": [
+    "Economy",
+    "Politics",
+    "Tech & AI"
+   ]
+  },
+  {
+   "show": "Here & Now",
+   "date": "2026-11-18T20:29:55Z",
+   "page": "https://www.npr.org/2026/11/18/nx-s1-6045869/could-the-recent-tech-outages-be-a-good-thing",
+   "audio": "https://npr.simplecastaudio.com/a14b69c2-63a5-430e-bbf8-8c76275e14cd/episodes/d0a037bf-6c16-41f2-a30e-1fb746f78b59/audio/128/default.mp3",
+   "secs": 1727,
+   "title": "Could the recent tech outages be a good thing?",
+   "summary": "Chris Krebs on why the string of outages may not be coordinated, and what they show.",
+   "topics": [
+    "Tech & AI"
+   ]
+  },
+  {
+   "show": "Pop Culture Happy Hour",
+   "date": "2026-11-19T08:00:00Z",
+   "page": "https://www.npr.org/2026/11/19/nx-s1-6044244/i-play-rocky-is-an-underdog-story-about-an-underdog-story",
+   "audio": "https://npr.simplecastaudio.com/f75261d2-0860-4d61-91c1-a78a2b997ff2/episodes/05b5987b-ca7a-4711-b32e-b0f44c5782fd/audio/128/default.mp3",
+   "secs": 1241,
+   "title": "I Play Rocky",
+   "summary": "The panel on the film about how a young Stallone wrote his breakthrough.",
+   "topics": [
+    "Culture"
+   ]
+  },
+  {
+   "show": "Pop Culture Happy Hour",
+   "date": "2026-11-18T08:00:00Z",
+   "page": "https://www.npr.org/2026/11/18/nx-s1-6043854/a-civil-rights-struggle-takes-center-stage-in-being-heumann",
+   "audio": "https://npr.simplecastaudio.com/f75261d2-0860-4d61-91c1-a78a2b997ff2/episodes/9d025c15-0672-4f32-b48e-fbf9dcaee628/audio/128/default.mp3",
+   "secs": 1284,
+   "title": "Being Heumann",
+   "summary": "A biopic of disability-rights leader Judy Heumann and the 1970s sit-in.",
+   "topics": [
+    "Culture"
+   ]
+  },
+  {
+   "show": "Throughline",
+   "date": "2026-11-19T08:04:59Z",
+   "page": "https://www.npr.org/2026/11/19/nx-s1-6045898/edward-said-and-the-question-of-palestine",
+   "audio": "https://npr.simplecastaudio.com/923a8c19-6266-45f0-88de-3997479f3ca3/episodes/15323f85-7b98-4da3-ac36-48e6a3ad1d75/audio/128/default.mp3",
+   "secs": 3104,
+   "title": "Edward Said and the question of Palestine",
+   "summary": "The history behind Said's influence, and its echo in this year's politics.",
+   "topics": [
+    "World",
+    "Culture"
+   ]
+  }
+ ]
+}

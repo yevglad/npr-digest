@@ -1,0 +1,27 @@
+{
+  "_note": "Feed IDs verified working on 2026-11-19. Morning Edition and All Things Considered feeds only hold their latest ~10 segments, so fetch them more than once a day (see the workflow schedule).",
+  "window_days": 7,
+  "timezone": "America/New_York",
+  "topics": ["Politics", "World", "Tech & AI", "Economy", "Culture", "Science & health", "Justice"],
+  "shows": [
+    {"name": "Morning Edition",        "url": "https://feeds.npr.org/3/rss.xml"},
+    {"name": "All Things Considered",  "url": "https://feeds.npr.org/2/rss.xml"},
+    {"name": "Up First",               "url": "https://feeds.npr.org/510318/podcast.xml"},
+    {"name": "Fresh Air",              "url": "https://feeds.npr.org/381444908/podcast.xml"},
+    {"name": "Consider This",          "url": "https://feeds.npr.org/510355/podcast.xml"},
+    {"name": "Short Wave",             "url": "https://feeds.npr.org/510351/podcast.xml"},
+    {"name": "Planet Money",           "url": "https://feeds.npr.org/510289/podcast.xml"},
+    {"name": "The Indicator",          "url": "https://feeds.npr.org/510325/podcast.xml"},
+    {"name": "NPR Politics Podcast",   "url": "https://feeds.npr.org/510310/podcast.xml"},
+    {"name": "Here & Now",             "url": "https://feeds.npr.org/510051/podcast.xml"},
+    {"name": "Pop Culture Happy Hour", "url": "https://feeds.npr.org/510282/podcast.xml"},
+    {"name": "Throughline",            "url": "https://feeds.npr.org/510333/podcast.xml"},
+    {"name": "State of the World",     "url": "https://feeds.npr.org/510366/podcast.xml"},
+    {"name": "It's Been a Minute",     "url": "https://feeds.npr.org/510317/podcast.xml"},
+    {"name": "Code Switch",            "url": "https://feeds.npr.org/510312/podcast.xml"},
+    {"name": "Life Kit",               "url": "https://feeds.npr.org/510338/podcast.xml"},
+    {"name": "Book of the Day",        "url": "https://feeds.npr.org/510364/podcast.xml"},
+    {"name": "TED Radio Hour",         "url": "https://feeds.npr.org/510298/podcast.xml"},
+    {"name": "Embedded",               "url": "https://feeds.npr.org/510311/podcast.xml"}
+  ]
+}

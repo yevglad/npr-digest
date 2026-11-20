@@ -1,0 +1,1 @@
+anthropic>=2.11,<3   # 2.11 checked: messages.create(output_config={effort, format}); 3.x may break it
