@@ -462,24 +462,6 @@
   ],
   "tagged_by": "keywords"
  },
- "8ebf2da0-c17a-47d4-a9ae-ec737bcb0ad6": {
-  "id": "8ebf2da0-c17a-47d4-a9ae-ec737bcb0ad6",
-  "show": "Up First",
-  "date": "2026-11-14T14:02:26Z",
-  "title": "Air Travel Ground Stop, Starship Rocket Launch, ExxonMobil Eyes Return to Venezuela",
-  "description": null,
-  "page": "https://www.npr.org/2026/11/14/nx-s1-6040235/air-travel-ground-stop-starship-rocket-launch-exxonmobil-eyes-return-to-venezuela",
-  "audio": "https://prfx.byspotify.com/e/play.podtrac.com/npr-510318/npr.simplecastaudio.com/d52bee4a-b10a-40f8-9417-45064e6b8632/episodes/066a47b2-34d3-4129-89d4-d37944c4dca7/audio/128/default.mp3?awCollectionId=d52bee4a-b10a-40f8-9417-45064e6b8632&awEpisodeId=066a47b2-34d3-4129-89d4-d37944c4dca7&feed=HMwRVgVt&t=podcast&e=nx-s1-6040235&p=510318&d=857&size=13722897",
-  "secs": 857,
-  "story_id": "nx-s1-6040235",
-  "transcript": null,
-  "summary": "Federal officials say telecommunication outages were to blame for the nationwide ground stop that paralyzed air travel on Friday, but offered few details about what caused the issues.",
-  "topics": [
-   "Politics",
-   "Tech & AI"
-  ],
-  "tagged_by": "keywords"
- },
  "6dffe80b-4e88-4e48-b127-c200018e38dd": {
   "id": "6dffe80b-4e88-4e48-b127-c200018e38dd",
   "show": "Fresh Air",
@@ -656,23 +638,6 @@
    "Politics",
    "World",
    "Tech & AI"
-  ],
-  "tagged_by": "keywords"
- },
- "b85d7bfd-6f2d-47a2-93ad-e1da7a28bc9b": {
-  "id": "b85d7bfd-6f2d-47a2-93ad-e1da7a28bc9b",
-  "show": "Consider This",
-  "date": "2026-11-14T19:49:52Z",
-  "title": "What we can learn by listening to special education teachers",
-  "description": null,
-  "page": "https://www.npr.org/2026/11/14/nx-s1-6040473/what-we-can-learn-by-listening-to-special-education-teachers",
-  "audio": "https://prfx.byspotify.com/e/play.podtrac.com/npr-510355/npr.simplecastaudio.com/2a4a748e-0a2f-495a-8208-99765f0dad47/episodes/99db61c2-3f71-432d-b6da-a03c4d019343/audio/128/default.mp3?awCollectionId=2a4a748e-0a2f-495a-8208-99765f0dad47&awEpisodeId=99db61c2-3f71-432d-b6da-a03c4d019343&feed=4XF9Dp_o&t=podcast&e=nx-s1-6040473&p=510355&d=543&size=8704461",
-  "secs": 543,
-  "story_id": "nx-s1-6040473",
-  "transcript": null,
-  "summary": "There is a shortage of special education teachers across the country - and it’s only growing.",
-  "topics": [
-   "Justice"
   ],
   "tagged_by": "keywords"
  },
@@ -2017,6 +1982,39 @@
   "topics": [
    "Politics",
    "World"
+  ],
+  "tagged_by": "keywords"
+ },
+ "2c519c0b-ab80-4271-8b51-3cdcc8438b97": {
+  "id": "2c519c0b-ab80-4271-8b51-3cdcc8438b97",
+  "show": "Up First",
+  "date": "2026-11-22T08:00:00Z",
+  "title": "The booming cash advance industry trapping America’s small businesses",
+  "description": null,
+  "page": "https://www.npr.org/2026/11/22/nx-s1-6048657/the-booming-cash-advance-industry-trapping-americas-small-businesses",
+  "audio": "https://prfx.byspotify.com/e/play.podtrac.com/npr-510318/npr.simplecastaudio.com/d52bee4a-b10a-40f8-9417-45064e6b8632/episodes/babf6e5c-0668-400e-9daf-98fb2d1eacb0/audio/128/default.mp3?awCollectionId=d52bee4a-b10a-40f8-9417-45064e6b8632&awEpisodeId=babf6e5c-0668-400e-9daf-98fb2d1eacb0&feed=HMwRVgVt&t=podcast&e=nx-s1-6048657&p=510318&d=2199&size=35193483",
+  "secs": 2199,
+  "story_id": "nx-s1-6048657",
+  "summary": "What would you do if a financial deal you believed was a lifeline blew up your life?",
+  "topics": [
+   "World"
+  ],
+  "tagged_by": "keywords"
+ },
+ "cbd42230-bf5b-4b07-a569-e8a54cb6b037": {
+  "id": "cbd42230-bf5b-4b07-a569-e8a54cb6b037",
+  "show": "Consider This",
+  "date": "2026-11-22T20:45:37Z",
+  "title": "Villagers say they, not Jared Kushner, own land earmarked for luxury resort",
+  "description": null,
+  "page": "https://www.npr.org/2026/11/22/nx-s1-6050277/villagers-say-they-not-jared-kushner-own-land-earmarked-for-luxury-resort",
+  "audio": "https://prfx.byspotify.com/e/play.podtrac.com/npr-510355/npr.simplecastaudio.com/2a4a748e-0a2f-495a-8208-99765f0dad47/episodes/24ced488-3d11-41f5-81a1-1548c9ebc663/audio/128/default.mp3?awCollectionId=2a4a748e-0a2f-495a-8208-99765f0dad47&awEpisodeId=24ced488-3d11-41f5-81a1-1548c9ebc663&feed=4XF9Dp_o&t=podcast&e=nx-s1-6050277&p=510355&d=786&size=12577689",
+  "secs": 786,
+  "story_id": "nx-s1-6050277",
+  "summary": "President Trump's son-in-law Jared Kushner has plans to build a luxury resort on the Albanian coast.",
+  "topics": [
+   "Politics",
+   "Justice"
   ],
   "tagged_by": "keywords"
  }
