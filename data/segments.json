@@ -676,24 +676,6 @@
   ],
   "tagged_by": "keywords"
  },
- "7d93aeb3-1a5f-415b-bccb-92c6885fe448": {
-  "id": "7d93aeb3-1a5f-415b-bccb-92c6885fe448",
-  "show": "Consider This",
-  "date": "2026-11-13T22:30:10Z",
-  "title": "Can Jensen Huang's departure help Nvidia's competitors catch up?",
-  "description": null,
-  "page": "https://www.npr.org/2026/11/13/nx-s1-6040280/can-jensen-huangs-departure-help-nvidias-competitors-catch-up",
-  "audio": "https://prfx.byspotify.com/e/play.podtrac.com/npr-510355/npr.simplecastaudio.com/2a4a748e-0a2f-495a-8208-99765f0dad47/episodes/23ddc80f-ae9a-4976-938b-d3ffb376fd39/audio/128/default.mp3?awCollectionId=2a4a748e-0a2f-495a-8208-99765f0dad47&awEpisodeId=23ddc80f-ae9a-4976-938b-d3ffb376fd39&feed=4XF9Dp_o&t=podcast&e=nx-s1-6040280&p=510355&d=535&size=8566953",
-  "secs": 535,
-  "story_id": "nx-s1-6040280",
-  "transcript": null,
-  "summary": "Nvidia has long been the kingpin of the semiconductor industry – a company whose huge technological bets paid off, making its microchips the most in-demand in the world.",
-  "topics": [
-   "Tech & AI",
-   "Justice"
-  ],
-  "tagged_by": "keywords"
- },
  "d45ca6a9-2a9b-4364-9269-649b1b515894": {
   "id": "d45ca6a9-2a9b-4364-9269-649b1b515894",
   "show": "Short Wave",
@@ -762,25 +744,6 @@
    "Tech & AI",
    "Economy",
    "Culture"
-  ],
-  "tagged_by": "keywords"
- },
- "1d0454cc-1590-4928-8613-39678c23a5d5": {
-  "id": "1d0454cc-1590-4928-8613-39678c23a5d5",
-  "show": "Planet Money",
-  "date": "2026-11-13T23:49:12Z",
-  "title": "Are wildfires making the future uninsurable?",
-  "description": null,
-  "page": "https://www.npr.org/2026/11/13/nx-s1-6040434/california-wildfires-home-insurance",
-  "audio": "https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/4bb23a81-c77c-46d0-a3bc-f001ff4783d0/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=4bb23a81-c77c-46d0-a3bc-f001ff4783d0&feed=hvWWWzRv&t=podcast&e=nx-s1-6040434&p=510289&d=2470&size=39525630",
-  "secs": 2470,
-  "story_id": "nx-s1-6040434",
-  "transcript": null,
-  "summary": "Over the past decade, increasingly catastrophic wildfires have wrought unprecedented destruction and upended the basic math of the insurance industry.",
-  "topics": [
-   "Economy",
-   "Culture",
-   "Science & health"
   ],
   "tagged_by": "keywords"
  },
@@ -1154,23 +1117,6 @@
   "story_id": "nx-s1-6043119",
   "transcript": null,
   "summary": "American Eagle ran an ad for jeans last year starring Sydney Sweeney, that caused a bit of a controversy.",
-  "topics": [
-   "World"
-  ],
-  "tagged_by": "keywords"
- },
- "e34e1aa0-7629-4c2e-8be3-227a63030885": {
-  "id": "e34e1aa0-7629-4c2e-8be3-227a63030885",
-  "show": "State of the World",
-  "date": "2026-11-13T22:51:00Z",
-  "title": "Pope Leo is welcomed back to Peru, a country he called home",
-  "description": null,
-  "page": "https://www.npr.org/2026/11/13/nx-s1-6040437/pope-leo-welcomed-back-to-peru-the-country-he-called-home",
-  "audio": "https://prfx.byspotify.com/e/play.podtrac.com/npr-510366/npr.simplecastaudio.com/0c99070d-d4e9-4006-ac06-39c904ab327e/episodes/f0d55b73-c40b-4785-a4e9-de6b8b037292/audio/128/default.mp3?awCollectionId=0c99070d-d4e9-4006-ac06-39c904ab327e&awEpisodeId=f0d55b73-c40b-4785-a4e9-de6b8b037292&feed=eZ65RO4U&t=podcast&e=nx-s1-6040437&p=510366&d=313&size=5010538",
-  "secs": 313,
-  "story_id": "nx-s1-6040437",
-  "transcript": null,
-  "summary": "The Chicago-born pope has been touring South America, concluding with a visit to Peru.",
   "topics": [
    "World"
   ],
@@ -1940,6 +1886,137 @@
    "Politics",
    "Tech & AI",
    "Economy"
+  ],
+  "tagged_by": "keywords"
+ },
+ "https://www.npr.org/2026/11/21/nx-s1-6049146/whats-next-after-a-brutal-stock-plunge-we-might-have-seen-coming": {
+  "id": "https://www.npr.org/2026/11/21/nx-s1-6049146/whats-next-after-a-brutal-stock-plunge-we-might-have-seen-coming",
+  "show": "All Things Considered",
+  "date": "2026-11-21T22:01:43Z",
+  "title": "What's next after a brutal stock plunge we might have seen coming",
+  "description": null,
+  "page": "https://www.npr.org/2026/11/21/nx-s1-6049146/whats-next-after-a-brutal-stock-plunge-we-might-have-seen-coming",
+  "audio": null,
+  "secs": null,
+  "story_id": "nx-s1-6049146",
+  "summary": "Stocks tanked this week as investors grew wary of tech investments that have seen years of growth.",
+  "topics": [
+   "Tech & AI",
+   "Economy"
+  ],
+  "tagged_by": "keywords"
+ },
+ "https://www.npr.org/2026/11/21/nx-s1-6048741/what-did-xi-jinping-get-from-the-bear-hug-with-trump-at-the-shenzhen-summit": {
+  "id": "https://www.npr.org/2026/11/21/nx-s1-6048741/what-did-xi-jinping-get-from-the-bear-hug-with-trump-at-the-shenzhen-summit",
+  "show": "All Things Considered",
+  "date": "2026-11-21T22:01:42Z",
+  "title": "What did Xi Jinping get from the bear hug with Trump at the Shenzhen summit?",
+  "description": null,
+  "page": "https://www.npr.org/2026/11/21/nx-s1-6048741/what-did-xi-jinping-get-from-the-bear-hug-with-trump-at-the-shenzhen-summit",
+  "audio": null,
+  "secs": null,
+  "story_id": "nx-s1-6048741",
+  "summary": "NPR's Rob Schmitz speaks with Robert Daly, director of the program on US China relations at University of Maryland's School of Public Policy, about President Trump's trip to China this week.",
+  "topics": [
+   "Politics",
+   "World"
+  ],
+  "tagged_by": "keywords"
+ },
+ "https://www.npr.org/2026/11/21/nx-s1-6048599/google-employees-protest-ai-in-schools-policy": {
+  "id": "https://www.npr.org/2026/11/21/nx-s1-6048599/google-employees-protest-ai-in-schools-policy",
+  "show": "All Things Considered",
+  "date": "2026-11-21T22:01:40Z",
+  "title": "Google employees protest AI in schools policy",
+  "description": null,
+  "page": "https://www.npr.org/2026/11/21/nx-s1-6048599/google-employees-protest-ai-in-schools-policy",
+  "audio": null,
+  "secs": null,
+  "story_id": "nx-s1-6048599",
+  "summary": "More than 550 Google employees signed a petition to allow schools access to Search without AI.",
+  "topics": [
+   "Tech & AI"
+  ],
+  "tagged_by": "keywords"
+ },
+ "https://www.npr.org/2026/11/21/nx-s1-6047730/deadlocked-again-u-n-climate-talks-in-turkey-go-into-overtime": {
+  "id": "https://www.npr.org/2026/11/21/nx-s1-6047730/deadlocked-again-u-n-climate-talks-in-turkey-go-into-overtime",
+  "show": "All Things Considered",
+  "date": "2026-11-21T22:01:38Z",
+  "title": "Deadlocked again? U.N. climate talks in Turkey go into overtime",
+  "description": null,
+  "page": "https://www.npr.org/2026/11/21/nx-s1-6047730/deadlocked-again-u-n-climate-talks-in-turkey-go-into-overtime",
+  "audio": null,
+  "secs": null,
+  "story_id": "nx-s1-6047730",
+  "summary": "United Nations climate talks are heading into super overtime this weekend in Turkey.",
+  "topics": [
+   "Science & health"
+  ],
+  "tagged_by": "keywords"
+ },
+ "https://www.npr.org/2026/11/21/nx-s1-6047629/inside-a-grand-theft-auto-6-soundtrack-release-party-in-miami": {
+  "id": "https://www.npr.org/2026/11/21/nx-s1-6047629/inside-a-grand-theft-auto-6-soundtrack-release-party-in-miami",
+  "show": "All Things Considered",
+  "date": "2026-11-21T22:01:36Z",
+  "title": "Inside a Grand Theft Auto 6 soundtrack release party in Miami",
+  "description": null,
+  "page": "https://www.npr.org/2026/11/21/nx-s1-6047629/inside-a-grand-theft-auto-6-soundtrack-release-party-in-miami",
+  "audio": null,
+  "secs": null,
+  "story_id": "nx-s1-6047629",
+  "summary": "Music is a major part of the video game Grand Theft Auto.",
+  "topics": [
+   "Culture"
+  ],
+  "tagged_by": "keywords"
+ },
+ "https://www.npr.org/2026/11/21/nx-s1-6044647/highlights-and-challenges-from-covering-an-historic-month-in-south-america": {
+  "id": "https://www.npr.org/2026/11/21/nx-s1-6044647/highlights-and-challenges-from-covering-an-historic-month-in-south-america",
+  "show": "All Things Considered",
+  "date": "2026-11-21T22:01:35Z",
+  "title": "Highlights and challenges from covering an historic month in South America",
+  "description": null,
+  "page": "https://www.npr.org/2026/11/21/nx-s1-6044647/highlights-and-challenges-from-covering-an-historic-month-in-south-america",
+  "audio": null,
+  "secs": null,
+  "story_id": "nx-s1-6044647",
+  "summary": "NPR's South America Correspondent discusses her work covering an historic election upset and a papal visit.",
+  "topics": [
+   "Politics"
+  ],
+  "tagged_by": "keywords"
+ },
+ "https://www.npr.org/2026/11/21/nx-s1-6029328/fuschia-dunlops-sichuan-cooking-tips": {
+  "id": "https://www.npr.org/2026/11/21/nx-s1-6029328/fuschia-dunlops-sichuan-cooking-tips",
+  "show": "All Things Considered",
+  "date": "2026-11-21T22:01:33Z",
+  "title": "Fuschia Dunlop's Sichuan cooking tips",
+  "description": null,
+  "page": "https://www.npr.org/2026/11/21/nx-s1-6029328/fuschia-dunlops-sichuan-cooking-tips",
+  "audio": null,
+  "secs": null,
+  "story_id": "nx-s1-6029328",
+  "summary": "Fuschia Dunlop, author and Sichuan food celebrity, shows NPR's Rob Schmitz how to make 'strange flavor sauce' and talks about bringing Sichuan cooking to people outside and inside China.",
+  "topics": [
+   "World"
+  ],
+  "tagged_by": "keywords"
+ },
+ "https://www.npr.org/2026/11/21/nx-s1-6012085/a-grieving-family-in-lebanon-returns-to-their-village": {
+  "id": "https://www.npr.org/2026/11/21/nx-s1-6012085/a-grieving-family-in-lebanon-returns-to-their-village",
+  "show": "All Things Considered",
+  "date": "2026-11-21T22:01:32Z",
+  "title": "A grieving family in Lebanon returns to their village",
+  "description": null,
+  "page": "https://www.npr.org/2026/11/21/nx-s1-6012085/a-grieving-family-in-lebanon-returns-to-their-village",
+  "audio": null,
+  "secs": null,
+  "story_id": "nx-s1-6012085",
+  "summary": "In Southern Lebanon, the Army is taking over after Israeli forces withdraw.",
+  "topics": [
+   "Politics",
+   "World"
   ],
   "tagged_by": "keywords"
  }
