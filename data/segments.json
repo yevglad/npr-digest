@@ -445,23 +445,6 @@
   ],
   "tagged_by": "keywords"
  },
- "e3e79779-80a0-4257-a7bf-9d47f0cc85d7": {
-  "id": "e3e79779-80a0-4257-a7bf-9d47f0cc85d7",
-  "show": "Up First",
-  "date": "2026-11-15T08:30:00Z",
-  "title": "What universal free childcare is costing New Mexico",
-  "description": null,
-  "page": "https://www.npr.org/2026/11/15/nx-s1-6040239/what-universal-free-childcare-is-costing-new-mexico",
-  "audio": "https://prfx.byspotify.com/e/play.podtrac.com/npr-510318/npr.simplecastaudio.com/d52bee4a-b10a-40f8-9417-45064e6b8632/episodes/08d4e782-4f72-49fa-8410-d9ab7bb21a88/audio/128/default.mp3?awCollectionId=d52bee4a-b10a-40f8-9417-45064e6b8632&awEpisodeId=08d4e782-4f72-49fa-8410-d9ab7bb21a88&feed=HMwRVgVt&t=podcast&e=nx-s1-6040239&p=510318&d=1556&size=24904163",
-  "secs": 1556,
-  "story_id": "nx-s1-6040239",
-  "transcript": null,
-  "summary": "A year ago, New Mexico became the first state to offer universal free childcare.",
-  "topics": [
-   "Economy"
-  ],
-  "tagged_by": "keywords"
- },
  "6dffe80b-4e88-4e48-b127-c200018e38dd": {
   "id": "6dffe80b-4e88-4e48-b127-c200018e38dd",
   "show": "Fresh Air",
@@ -2015,6 +1998,221 @@
   "topics": [
    "Politics",
    "Justice"
+  ],
+  "tagged_by": "keywords"
+ },
+ "https://www.npr.org/2026/11/22/nx-s1-6034981/some-kids-movies-are-even-better-when-you-see-them-as-an-adult": {
+  "id": "https://www.npr.org/2026/11/22/nx-s1-6034981/some-kids-movies-are-even-better-when-you-see-them-as-an-adult",
+  "show": "All Things Considered",
+  "date": "2026-11-22T22:42:31Z",
+  "title": "Some kids movies are even better when you see them as an adult",
+  "description": null,
+  "page": "https://www.npr.org/2026/11/22/nx-s1-6034981/some-kids-movies-are-even-better-when-you-see-them-as-an-adult",
+  "audio": null,
+  "secs": null,
+  "story_id": "nx-s1-6034981",
+  "summary": "Kids movies often hold riches that only adults can appreciate.",
+  "topics": [
+   "Culture"
+  ],
+  "tagged_by": "keywords"
+ },
+ "https://www.npr.org/2026/11/22/nx-s1-6043839/lael-neale-brings-1980s-omnichord-back-to-life-on-new-album-as-killers-do": {
+  "id": "https://www.npr.org/2026/11/22/nx-s1-6043839/lael-neale-brings-1980s-omnichord-back-to-life-on-new-album-as-killers-do",
+  "show": "All Things Considered",
+  "date": "2026-11-22T22:42:29Z",
+  "title": "Lael Neale brings 1980's omnichord back to life on new album, 'As Killers Do'",
+  "description": null,
+  "page": "https://www.npr.org/2026/11/22/nx-s1-6043839/lael-neale-brings-1980s-omnichord-back-to-life-on-new-album-as-killers-do",
+  "audio": null,
+  "secs": null,
+  "story_id": "nx-s1-6043839",
+  "summary": "NPR's Rob Schmitz speaks with Lael Neale about her new album, As Killers Do.",
+  "topics": [
+   "Tech & AI",
+   "Culture"
+  ],
+  "tagged_by": "keywords"
+ },
+ "https://www.npr.org/2026/11/22/nx-s1-6037724/how-rivals-ted-kennedy-and-mitt-romney-united-on-health-care": {
+  "id": "https://www.npr.org/2026/11/22/nx-s1-6037724/how-rivals-ted-kennedy-and-mitt-romney-united-on-health-care",
+  "show": "All Things Considered",
+  "date": "2026-11-22T22:42:28Z",
+  "title": "How rivals Ted Kennedy and Mitt Romney united on health care",
+  "description": null,
+  "page": "https://www.npr.org/2026/11/22/nx-s1-6037724/how-rivals-ted-kennedy-and-mitt-romney-united-on-health-care",
+  "audio": null,
+  "secs": null,
+  "story_id": "nx-s1-6037724",
+  "summary": "NPR's Rob Schmitz speaks with Ian Coss, host of the The Big Dig Season 4: Mitt & Ted, a healthcare story , about how political foes joined together to pass landmark health care legislation.",
+  "topics": [
+   "Science & health"
+  ],
+  "tagged_by": "keywords"
+ },
+ "https://www.npr.org/2026/11/22/nx-s1-6050248/what-its-like-at-a-climate-conference-as-talks-collapse": {
+  "id": "https://www.npr.org/2026/11/22/nx-s1-6050248/what-its-like-at-a-climate-conference-as-talks-collapse",
+  "show": "All Things Considered",
+  "date": "2026-11-22T22:40:23Z",
+  "title": "What it's like at a climate conference as talks collapse",
+  "description": null,
+  "page": "https://www.npr.org/2026/11/22/nx-s1-6050248/what-its-like-at-a-climate-conference-as-talks-collapse",
+  "audio": null,
+  "secs": null,
+  "story_id": "nx-s1-6050248",
+  "summary": "After two weeks of negotiations, international climate talks fail to reach an agreement.",
+  "topics": [
+   "World",
+   "Science & health"
+  ],
+  "tagged_by": "keywords"
+ },
+ "https://www.npr.org/2026/11/22/nx-s1-6050236/ukraine-war-spilling-into-nato-territory": {
+  "id": "https://www.npr.org/2026/11/22/nx-s1-6050236/ukraine-war-spilling-into-nato-territory",
+  "show": "All Things Considered",
+  "date": "2026-11-22T22:40:22Z",
+  "title": "Ukraine war spilling into NATO territory",
+  "description": null,
+  "page": "https://www.npr.org/2026/11/22/nx-s1-6050236/ukraine-war-spilling-into-nato-territory",
+  "audio": null,
+  "secs": null,
+  "story_id": "nx-s1-6050236",
+  "summary": "The war between Russia and Ukraine once again creeps onto European territory – from attacks on ships to missiles in Poland and fresh allegations of Russian operations inside Denmark.",
+  "topics": [
+   "World",
+   "Culture"
+  ],
+  "tagged_by": "keywords"
+ },
+ "https://www.npr.org/2026/11/22/nx-s1-6048751/rising-costs-leave-consumers-looking-for-thanksgiving-bargains": {
+  "id": "https://www.npr.org/2026/11/22/nx-s1-6048751/rising-costs-leave-consumers-looking-for-thanksgiving-bargains",
+  "show": "All Things Considered",
+  "date": "2026-11-22T22:40:20Z",
+  "title": "Rising costs leave consumers looking for Thanksgiving bargains",
+  "description": null,
+  "page": "https://www.npr.org/2026/11/22/nx-s1-6048751/rising-costs-leave-consumers-looking-for-thanksgiving-bargains",
+  "audio": null,
+  "secs": null,
+  "story_id": "nx-s1-6048751",
+  "summary": "It's Thanksgiving week and you may have seen that turkey and gravy are more expensive.",
+  "topics": [
+   "Economy"
+  ],
+  "tagged_by": "keywords"
+ },
+ "https://www.npr.org/2026/11/22/nx-s1-6038939/philly-festival-goers-say-pickles-are-a-real-big-dill": {
+  "id": "https://www.npr.org/2026/11/22/nx-s1-6038939/philly-festival-goers-say-pickles-are-a-real-big-dill",
+  "show": "All Things Considered",
+  "date": "2026-11-22T22:40:19Z",
+  "title": "Philly festival-goers say pickles are a real big dill",
+  "description": null,
+  "page": "https://www.npr.org/2026/11/22/nx-s1-6038939/philly-festival-goers-say-pickles-are-a-real-big-dill",
+  "audio": null,
+  "secs": null,
+  "story_id": "nx-s1-6038939",
+  "summary": "Influencer and pickle enthusiast Dan Pancoast gives a first hand account of the festivities at the \"The Big Dill\" festival in Philadelphia.",
+  "topics": [
+   "World"
+  ],
+  "tagged_by": "keywords"
+ },
+ "https://www.npr.org/2026/11/22/nx-s1-6012022/luxury-development-planned-on-land-some-albanians-say-is-theirs-not-jared-kushners": {
+  "id": "https://www.npr.org/2026/11/22/nx-s1-6012022/luxury-development-planned-on-land-some-albanians-say-is-theirs-not-jared-kushners",
+  "show": "All Things Considered",
+  "date": "2026-11-22T22:39:47Z",
+  "title": "Luxury development planned on land some Albanians say is theirs, not Jared Kushner's",
+  "description": null,
+  "page": "https://www.npr.org/2026/11/22/nx-s1-6012022/luxury-development-planned-on-land-some-albanians-say-is-theirs-not-jared-kushners",
+  "audio": null,
+  "secs": null,
+  "story_id": "nx-s1-6012022",
+  "summary": "A company working for President Trump's son-in-law Jared Kushner purchased 300 acres of Albanian land for more than $130 million in April.",
+  "topics": [
+   "Politics"
+  ],
+  "tagged_by": "keywords"
+ },
+ "1a53cf9b-907d-4fd7-baa7-7fff7ef5210d": {
+  "id": "1a53cf9b-907d-4fd7-baa7-7fff7ef5210d",
+  "show": "Short Wave",
+  "date": "2026-11-23T08:00:00Z",
+  "title": "Your favorite apple is a cloned ovary – and other apple facts",
+  "description": null,
+  "page": "https://www.npr.org/2026/11/23/nx-s1-6050315/apple-orchard-harvest-ovary-clone",
+  "audio": "https://prfx.byspotify.com/e/play.podtrac.com/npr-510351/npr.simplecastaudio.com/72da6803-9aa4-4e2e-a973-3bc436f0e9fa/episodes/799b2c97-989d-4a8d-916f-cf393258e6b1/audio/128/default.mp3?awCollectionId=72da6803-9aa4-4e2e-a973-3bc436f0e9fa&awEpisodeId=799b2c97-989d-4a8d-916f-cf393258e6b1&feed=F0qJcgXZ&t=podcast&e=nx-s1-6050315&p=510351&d=892&size=14277529",
+  "secs": 892,
+  "story_id": "nx-s1-6050315",
+  "summary": "What’s your favorite apple?",
+  "topics": [
+   "World"
+  ],
+  "tagged_by": "keywords"
+ },
+ "48c0daf9-915f-48fd-8566-3501cb73c548": {
+  "id": "48c0daf9-915f-48fd-8566-3501cb73c548",
+  "show": "The Indicator",
+  "date": "2026-11-23T08:00:00Z",
+  "title": "How American money is changing Europe's defense strategy",
+  "description": null,
+  "page": "https://www.npr.org/2026/11/23/nx-s1-6048592/how-american-money-is-changing-europes-defense-strategy",
+  "audio": "https://prfx.byspotify.com/e/play.podtrac.com/npr-510325/npr.simplecastaudio.com/0a4e8d3b-fe23-4948-9e39-20fcf16f9331/episodes/684789e8-f22c-4d22-b71b-2e4288fcdc59/audio/128/default.mp3?awCollectionId=0a4e8d3b-fe23-4948-9e39-20fcf16f9331&awEpisodeId=684789e8-f22c-4d22-b71b-2e4288fcdc59&feed=IFy3imsg&t=podcast&e=nx-s1-6048592&p=510325&d=548&size=8776811",
+  "secs": 548,
+  "story_id": "nx-s1-6048592",
+  "summary": "European Union countries are boosting their defense spending while billions of dollars in private American investment pour in.",
+  "topics": [
+   "World",
+   "Economy",
+   "Culture"
+  ],
+  "tagged_by": "keywords"
+ },
+ "de37edfa-b5e1-47da-bee3-366b77297419": {
+  "id": "de37edfa-b5e1-47da-bee3-366b77297419",
+  "show": "It's Been a Minute",
+  "date": "2026-11-23T08:00:00Z",
+  "title": "Why the music industry feels so “fake”",
+  "description": null,
+  "page": "https://www.npr.org/2026/11/23/nx-s1-6043091/why-the-music-industry-feels-so-fake",
+  "audio": "https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510317/npr.simplecastaudio.com/d26aaa31-0a11-46ca-a4ae-a682d381c8c1/episodes/b64c2a17-af2f-451b-9b1c-9aa9cc6f773f/audio/128/default.mp3?awCollectionId=d26aaa31-0a11-46ca-a4ae-a682d381c8c1&awEpisodeId=b64c2a17-af2f-451b-9b1c-9aa9cc6f773f&feed=eQwWJH5j&t=podcast&e=nx-s1-6043091&p=510317&d=3290&size=52654959",
+  "secs": 3290,
+  "story_id": "nx-s1-6043091",
+  "summary": "What does “authentic” music actually sound like?",
+  "topics": [
+   "Politics",
+   "Tech & AI",
+   "Economy"
+  ],
+  "tagged_by": "keywords"
+ },
+ "e5d3763d-6a83-4404-8007-293cf6cf2fc1": {
+  "id": "e5d3763d-6a83-4404-8007-293cf6cf2fc1",
+  "show": "Life Kit",
+  "date": "2026-11-23T08:05:06Z",
+  "title": "Video chatting with kids is chaos. It can be so much better",
+  "description": null,
+  "page": "https://www.npr.org/2026/11/23/nx-s1-6049553/video-chatting-with-kids-is-chaos-it-can-be-so-much-better",
+  "audio": "https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510338/npr.simplecastaudio.com/8ae5a040-e346-4b89-ba6b-625f91f1fbd4/episodes/bc7f285b-9adb-4cc4-9072-245b1395540a/audio/128/default.mp3?awCollectionId=8ae5a040-e346-4b89-ba6b-625f91f1fbd4&awEpisodeId=bc7f285b-9adb-4cc4-9072-245b1395540a&feed=XkY2SBZJ&t=podcast&e=nx-s1-6049553&p=510338&d=1159&size=18553295",
+  "secs": 1159,
+  "story_id": "nx-s1-6049553",
+  "summary": "Staying in touch with far-flung family members and friends is an important part of building a strong support network.",
+  "topics": [
+   "Science & health"
+  ],
+  "tagged_by": "keywords"
+ },
+ "e95cac77-b4bf-4222-9de5-d4fb745312e6": {
+  "id": "e95cac77-b4bf-4222-9de5-d4fb745312e6",
+  "show": "Book of the Day",
+  "date": "2026-11-23T08:00:00Z",
+  "title": "Rachel Maddow on why the DOJ is on the brink of collapse",
+  "description": null,
+  "page": "https://www.npr.org/2026/11/23/nx-s1-6050782/nprs-book-of-the-day-rachel-maddow-department-of-fate",
+  "audio": "https://prfx.byspotify.com/e/play.podtrac.com/npr-510364/npr.simplecastaudio.com/c3f326c7-02ae-4df0-b95a-b35e58973e1a/episodes/9207cb49-de46-4197-8ac3-9f93f91bbc97/audio/128/default.mp3?awCollectionId=c3f326c7-02ae-4df0-b95a-b35e58973e1a&awEpisodeId=9207cb49-de46-4197-8ac3-9f93f91bbc97&feed=tZrJMl4P&t=podcast&e=nx-s1-6050782&p=510364&d=462&size=7393741",
+  "secs": 462,
+  "story_id": "nx-s1-6050782",
+  "summary": "Rachel Maddow is out with a new book called Department of Fate , which argues the Department of Justice is the most consequential American institution and one on the brink of collapse.",
+  "topics": [
+   "Culture"
   ],
   "tagged_by": "keywords"
  }
