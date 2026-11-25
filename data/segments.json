@@ -392,7 +392,7 @@
   "id": "48903ab9-29f1-4b6d-bfaa-70e296e7c345",
   "show": "Up First",
   "date": "2026-11-18T10:55:31Z",
-  "title": "Trump-Xi-Putin Meeting, Nvidia Board Rejects Haung's Return, Computer System Outages",
+  "title": "Trump-Xi-Putin Meeting, Nvidia Board Rejects Huang's Return, Computer System Outages",
   "description": null,
   "page": "https://www.npr.org/2026/11/18/nx-s1-6045399/trump-xi-putin-meeting-nvidia-board-rejects-haungs-return-computer-system-outages",
   "audio": "https://prfx.byspotify.com/e/play.podtrac.com/npr-510318/npr.simplecastaudio.com/d52bee4a-b10a-40f8-9417-45064e6b8632/episodes/207319f2-4e0d-45f8-b821-5b8f59592950/audio/128/default.mp3?awCollectionId=d52bee4a-b10a-40f8-9417-45064e6b8632&awEpisodeId=207319f2-4e0d-45f8-b821-5b8f59592950&feed=HMwRVgVt&t=podcast&e=nx-s1-6045399&p=510318&d=807&size=12919581",
@@ -400,25 +400,6 @@
   "story_id": "nx-s1-6045399",
   "transcript": null,
   "summary": "President Trump meets Xi Jinping in China as the two countries remain locked in disputes over trade, rare earths and advanced technology, before Vladimir Putin joins them for a three-way summit aimed",
-  "topics": [
-   "Politics",
-   "World",
-   "Tech & AI"
-  ],
-  "tagged_by": "keywords"
- },
- "e850ca68-c500-40cc-9c14-8fdd29ed828c": {
-  "id": "e850ca68-c500-40cc-9c14-8fdd29ed828c",
-  "show": "Up First",
-  "date": "2026-11-17T10:46:57Z",
-  "title": "FAA Tech Upgrade Update, Trump Asia Agenda, Petition To Reinstate Huang At Nvidia",
-  "description": null,
-  "page": "https://www.npr.org/2026/11/17/nx-s1-6043667/faa-tech-upgrade-update-trump-asia-agenda-petition-to-reinstate-huang-at-nvidia",
-  "audio": "https://prfx.byspotify.com/e/play.podtrac.com/npr-510318/npr.simplecastaudio.com/d52bee4a-b10a-40f8-9417-45064e6b8632/episodes/6430874a-e7f0-4e59-b9c4-75eb2181f32d/audio/128/default.mp3?awCollectionId=d52bee4a-b10a-40f8-9417-45064e6b8632&awEpisodeId=6430874a-e7f0-4e59-b9c4-75eb2181f32d&feed=HMwRVgVt&t=podcast&e=nx-s1-6043667&p=510318&d=774&size=12388773",
-  "secs": 774,
-  "story_id": "nx-s1-6043667",
-  "transcript": null,
-  "summary": "Another technology problem disrupted United Airlines flights on Monday night as President Trump pushes Congress for more money to modernize the nation’s air traffic control system and Democrats questi",
   "topics": [
    "Politics",
    "World",
@@ -461,23 +442,6 @@
   ],
   "tagged_by": "keywords"
  },
- "e1346c49-7cc1-4601-ba02-f2fce46ed531": {
-  "id": "e1346c49-7cc1-4601-ba02-f2fce46ed531",
-  "show": "Fresh Air",
-  "date": "2026-11-17T19:47:29Z",
-  "title": "LeVar Burton",
-  "description": null,
-  "page": "https://www.npr.org/2026/11/17/nx-s1-6044273/levar-burton",
-  "audio": "https://prfx.byspotify.com/e/play.podtrac.com/npr-381444908/npr.simplecastaudio.com/49850946-31c1-4953-8129-0d718420c400/episodes/dd6d333b-e4a0-412c-954b-53b72c390deb/audio/128/default.mp3?awCollectionId=49850946-31c1-4953-8129-0d718420c400&awEpisodeId=dd6d333b-e4a0-412c-954b-53b72c390deb&feed=jBsBZBHh&t=podcast&e=nx-s1-6044273&p=381444908&d=2651&size=42425033",
-  "secs": 2651,
-  "story_id": "nx-s1-6044273",
-  "transcript": null,
-  "summary": "The longtime host of Reading Rainbow is telling his own story.",
-  "topics": [
-   "World"
-  ],
-  "tagged_by": "keywords"
- },
  "15ae595d-b19c-40e9-a397-05ed97bba20f": {
   "id": "15ae595d-b19c-40e9-a397-05ed97bba20f",
   "show": "Consider This",
@@ -511,24 +475,6 @@
   "summary": "Within a few days, a rapid succession of tech failures disrupted the lives of millions of people.",
   "topics": [
    "Tech & AI",
-   "Justice"
-  ],
-  "tagged_by": "keywords"
- },
- "e1a5a1be-10ee-4cde-a5e7-6933f42ca45a": {
-  "id": "e1a5a1be-10ee-4cde-a5e7-6933f42ca45a",
-  "show": "Consider This",
-  "date": "2026-11-17T23:03:39Z",
-  "title": "In the U.S., measles is back. Here's what that means",
-  "description": null,
-  "page": "https://www.npr.org/2026/11/17/nx-s1-6044298/in-the-u-s-measles-is-back-heres-what-that-means",
-  "audio": "https://prfx.byspotify.com/e/play.podtrac.com/npr-510355/npr.simplecastaudio.com/2a4a748e-0a2f-495a-8208-99765f0dad47/episodes/8b2dc5e5-8fda-495e-bdb8-4831da5c0f12/audio/128/default.mp3?awCollectionId=2a4a748e-0a2f-495a-8208-99765f0dad47&awEpisodeId=8b2dc5e5-8fda-495e-bdb8-4831da5c0f12&feed=4XF9Dp_o&t=podcast&e=nx-s1-6044298&p=510355&d=590&size=9456789",
-  "secs": 590,
-  "story_id": "nx-s1-6044298",
-  "transcript": null,
-  "summary": "The Pan American Health Organization announced on Tuesday that measles is no longer considered eliminated in the U.S.",
-  "topics": [
-   "Science & health",
    "Justice"
   ],
   "tagged_by": "keywords"
@@ -641,24 +587,6 @@
   ],
   "tagged_by": "keywords"
  },
- "e570ae5b-6e88-4ce4-bd0e-d97bc765fa80": {
-  "id": "e570ae5b-6e88-4ce4-bd0e-d97bc765fa80",
-  "show": "NPR Politics Podcast",
-  "date": "2026-11-17T21:04:49Z",
-  "title": "How much can a Democratic Congress do on the economy?",
-  "description": null,
-  "page": "https://www.npr.org/2026/11/17/nx-s1-6043788/how-much-can-a-democratic-congress-do-on-the-economy",
-  "audio": "https://prfx.byspotify.com/e/play.podtrac.com/npr-510310/npr.simplecastaudio.com/81c2d960-75d6-4dba-9f07-0bfade0db7ce/episodes/48722c98-a8dc-4561-9783-f42f80483a23/audio/128/default.mp3?awCollectionId=81c2d960-75d6-4dba-9f07-0bfade0db7ce&awEpisodeId=48722c98-a8dc-4561-9783-f42f80483a23&feed=iDPaKWvZ&t=podcast&e=nx-s1-6043788&p=510310&d=948&size=15179486",
-  "secs": 948,
-  "story_id": "nx-s1-6043788",
-  "transcript": null,
-  "summary": "Democrats celebrated a big win in the midterms, taking control of both houses of Congress on messages largely centered around affordability.",
-  "topics": [
-   "Politics",
-   "Economy"
-  ],
-  "tagged_by": "keywords"
- },
  "e1f89db4-694d-4d23-935e-282d17ce19ab": {
   "id": "e1f89db4-694d-4d23-935e-282d17ce19ab",
   "show": "Here & Now",
@@ -693,24 +621,6 @@
   "topics": [
    "Tech & AI",
    "Economy"
-  ],
-  "tagged_by": "keywords"
- },
- "a5394fd6-d32b-4823-beae-c08a729813c0": {
-  "id": "a5394fd6-d32b-4823-beae-c08a729813c0",
-  "show": "Here & Now",
-  "date": "2026-11-17T20:00:00Z",
-  "title": "Life in Cuba feels like a 'zombie movie'",
-  "description": null,
-  "page": "https://www.npr.org/2026/11/17/nx-s1-6044280/life-in-cuba-feels-like-a-zombie-movie",
-  "audio": "https://prfx.byspotify.com/e/play.podtrac.com/npr-510051/npr.simplecastaudio.com/a14b69c2-63a5-430e-bbf8-8c76275e14cd/episodes/8795500e-c841-41ac-9897-c67278c99ea3/audio/128/default.mp3?awCollectionId=a14b69c2-63a5-430e-bbf8-8c76275e14cd&awEpisodeId=8795500e-c841-41ac-9897-c67278c99ea3&feed=XciAg_Eg&t=podcast&e=nx-s1-6044280&p=510051&d=1299&size=20796044",
-  "secs": 1299,
-  "story_id": "nx-s1-6044280",
-  "transcript": null,
-  "summary": "Cuba is plagued by chronic shortages of food, medicine and fuel, due in part to U.S.",
-  "topics": [
-   "Politics",
-   "Culture"
   ],
   "tagged_by": "keywords"
  },
@@ -799,24 +709,6 @@
   "topics": [
    "World",
    "Culture"
-  ],
-  "tagged_by": "keywords"
- },
- "18271ad7-c841-4fdd-9ebe-7544735ccd28": {
-  "id": "18271ad7-c841-4fdd-9ebe-7544735ccd28",
-  "show": "State of the World",
-  "date": "2026-11-17T21:07:12Z",
-  "title": "Can student exchange programs mend the relationship between the U.S. and China?",
-  "description": null,
-  "page": "https://www.npr.org/2026/11/17/nx-s1-6044657/can-student-exchange-programs-mend-the-relationship-between-the-u-s-and-china",
-  "audio": "https://prfx.byspotify.com/e/play.podtrac.com/npr-510366/npr.simplecastaudio.com/0c99070d-d4e9-4006-ac06-39c904ab327e/episodes/ad24d15c-c073-4870-a353-dedd0878d68f/audio/128/default.mp3?awCollectionId=0c99070d-d4e9-4006-ac06-39c904ab327e&awEpisodeId=ad24d15c-c073-4870-a353-dedd0878d68f&feed=eZ65RO4U&t=podcast&e=nx-s1-6044657&p=510366&d=328&size=5261314",
-  "secs": 328,
-  "story_id": "nx-s1-6044657",
-  "transcript": null,
-  "summary": "President Trump and Chinese leader Xi Jinping are due to meet in the southern Chinese city of Shenzhen this week.",
-  "topics": [
-   "Politics",
-   "World"
   ],
   "tagged_by": "keywords"
  },
@@ -2936,6 +2828,432 @@
   "summary": "Marcus Samuelsson, a James Beard award-winning chef and Food Network personality, is out with a new cookbook all about decentering meat: Back to Green, written with Jamila Robinson.",
   "topics": [
    "Culture"
+  ],
+  "tagged_by": "keywords"
+ },
+ "https://www.npr.org/2026/11/25/nx-s1-6052467/lawmakers-seek-answers-on-the-national-security-as-nvidia-ceo-returns": {
+  "id": "https://www.npr.org/2026/11/25/nx-s1-6052467/lawmakers-seek-answers-on-the-national-security-as-nvidia-ceo-returns",
+  "show": "Morning Edition",
+  "date": "2026-11-25T11:50:51Z",
+  "title": "Lawmakers seek answers on the national security as Nvidia CEO returns",
+  "description": null,
+  "page": "https://www.npr.org/2026/11/25/nx-s1-6052467/lawmakers-seek-answers-on-the-national-security-as-nvidia-ceo-returns",
+  "audio": null,
+  "secs": null,
+  "story_id": "nx-s1-6052467",
+  "summary": "Lawmakers from both parties are escalating calls to tighten controls on advanced AI chips, as national security questions persist in the wake of Jensen Huang's return as Nvidia CEO.",
+  "topics": [
+   "Tech & AI"
+  ],
+  "tagged_by": "keywords"
+ },
+ "https://www.npr.org/2026/11/25/nx-s1-6052417/nvidia-jensen-huang-reaction-republicans-congress-investigation": {
+  "id": "https://www.npr.org/2026/11/25/nx-s1-6052417/nvidia-jensen-huang-reaction-republicans-congress-investigation",
+  "show": "Morning Edition",
+  "date": "2026-11-25T11:50:05Z",
+  "title": "Republican wants FBI and CIA answers before questioning Nvidia chief",
+  "description": null,
+  "page": "https://www.npr.org/2026/11/25/nx-s1-6052417/nvidia-jensen-huang-reaction-republicans-congress-investigation",
+  "audio": null,
+  "secs": null,
+  "story_id": "nx-s1-6052417",
+  "summary": "\"The public is rightly concerned,\" says the Republican lawmaker, who wants to know what the FBI and CIA knew about potential national security threats and whether Jensen Huang was warned.",
+  "topics": [
+   "Politics",
+   "Tech & AI"
+  ],
+  "tagged_by": "keywords"
+ },
+ "https://www.npr.org/2026/11/25/nx-s1-6053213/the-u-s-government-is-investigating-iranian-ties-to-as-many-as-50-hacked-commercial": {
+  "id": "https://www.npr.org/2026/11/25/nx-s1-6053213/the-u-s-government-is-investigating-iranian-ties-to-as-many-as-50-hacked-commercial",
+  "show": "Morning Edition",
+  "date": "2026-11-25T11:49:56Z",
+  "title": "U.S. government investigating Iranian ties to as many as 50 hacked commercial vessels",
+  "description": null,
+  "page": "https://www.npr.org/2026/11/25/nx-s1-6053213/the-u-s-government-is-investigating-iranian-ties-to-as-many-as-50-hacked-commercial",
+  "audio": null,
+  "secs": null,
+  "story_id": "nx-s1-6053213",
+  "summary": "A U.S. official tells NPR the government is investigating cyberattacks against as many as 50 commercial ships, with Iran as the potential culprit.",
+  "topics": [
+   "World",
+   "Tech & AI"
+  ],
+  "tagged_by": "keywords"
+ },
+ "https://www.npr.org/2026/11/25/nx-s1-6047115/morning-news-brief": {
+  "id": "https://www.npr.org/2026/11/25/nx-s1-6047115/morning-news-brief",
+  "show": "Morning Edition",
+  "date": "2026-11-25T09:44:37Z",
+  "title": "Morning news brief",
+  "description": null,
+  "page": "https://www.npr.org/2026/11/25/nx-s1-6047115/morning-news-brief",
+  "audio": null,
+  "secs": null,
+  "story_id": "nx-s1-6047115",
+  "summary": "The Army plans to destroy nearly five tons of lead-based explosives in Iowa, Kilmar Ábrego García has voluntarily left the U.S., Lawmakers raise concerns as Jensen Huang returns as Nvidia's CEO.",
+  "topics": [
+   "Tech & AI"
+  ],
+  "tagged_by": "keywords"
+ },
+ "https://www.npr.org/2026/11/25/nx-s1-5828897/director-david-fincher-discusses-the-further-mis-adventures-of-cliff-booth": {
+  "id": "https://www.npr.org/2026/11/25/nx-s1-5828897/director-david-fincher-discusses-the-further-mis-adventures-of-cliff-booth",
+  "show": "Morning Edition",
+  "date": "2026-11-25T09:44:31Z",
+  "title": "Director David Fincher discusses 'The Further Mis-Adventures of Cliff Booth'",
+  "description": null,
+  "page": "https://www.npr.org/2026/11/25/nx-s1-5828897/director-david-fincher-discusses-the-further-mis-adventures-of-cliff-booth",
+  "audio": null,
+  "secs": null,
+  "story_id": "nx-s1-5828897",
+  "summary": "NPR's A Martinez speaks with director David Fincher about Brad Pitt's return to his Oscar-winning role in \"Once Upon a Time in Hollywood.\" The sequel is \"The Further Mis-Adventures of Cliff Booth.\"",
+  "topics": [
+   "World"
+  ],
+  "tagged_by": "keywords"
+ },
+ "https://www.npr.org/2026/11/25/nx-s1-6048722/millions-of-americans-expected-to-fly-this-thanksgiving": {
+  "id": "https://www.npr.org/2026/11/25/nx-s1-6048722/millions-of-americans-expected-to-fly-this-thanksgiving",
+  "show": "Morning Edition",
+  "date": "2026-11-25T09:44:27Z",
+  "title": "Millions of Americans expected to fly this Thanksgiving",
+  "description": null,
+  "page": "https://www.npr.org/2026/11/25/nx-s1-6048722/millions-of-americans-expected-to-fly-this-thanksgiving",
+  "audio": null,
+  "secs": null,
+  "story_id": "nx-s1-6048722",
+  "summary": "Millions of Americans are expected to hop on a plane to visit friends or family this Thanksgiving.",
+  "topics": [
+   "Economy"
+  ],
+  "tagged_by": "keywords"
+ },
+ "https://www.npr.org/2026/11/25/nx-s1-6051590/california-facing-flooding-threat-this-week": {
+  "id": "https://www.npr.org/2026/11/25/nx-s1-6051590/california-facing-flooding-threat-this-week",
+  "show": "Morning Edition",
+  "date": "2026-11-25T09:44:19Z",
+  "title": "California facing flooding threat this week",
+  "description": null,
+  "page": "https://www.npr.org/2026/11/25/nx-s1-6051590/california-facing-flooding-threat-this-week",
+  "audio": null,
+  "secs": null,
+  "story_id": "nx-s1-6051590",
+  "summary": "NPR's A Martínez asks Patrick Barnard of the Center for Coastal Climate Resilience at UC Santa Cruz about the flooding threat in California this week.",
+  "topics": [
+   "Science & health"
+  ],
+  "tagged_by": "keywords"
+ },
+ "https://www.npr.org/2026/11/25/nx-s1-6044653/what-to-know-about-this-years-thanksgiving-matchups": {
+  "id": "https://www.npr.org/2026/11/25/nx-s1-6044653/what-to-know-about-this-years-thanksgiving-matchups",
+  "show": "Morning Edition",
+  "date": "2026-11-25T09:44:11Z",
+  "title": "What to know about this year's Thanksgiving matchups",
+  "description": null,
+  "page": "https://www.npr.org/2026/11/25/nx-s1-6044653/what-to-know-about-this-years-thanksgiving-matchups",
+  "audio": null,
+  "secs": null,
+  "story_id": "nx-s1-6044653",
+  "summary": "Michel Martin speaks with John Breech from CBS Sports about this year's Thanksgiving eve and Thanksgiving Day matchups.",
+  "topics": [
+   "World"
+  ],
+  "tagged_by": "keywords"
+ },
+ "https://www.npr.org/2026/11/25/nx-s1-6044226/food-critic-on-what-to-consider-when-hosting-thanksgiving-at-a-restaurant": {
+  "id": "https://www.npr.org/2026/11/25/nx-s1-6044226/food-critic-on-what-to-consider-when-hosting-thanksgiving-at-a-restaurant",
+  "show": "Morning Edition",
+  "date": "2026-11-25T09:44:00Z",
+  "title": "Food critic on what to consider when hosting Thanksgiving at a restaurant",
+  "description": null,
+  "page": "https://www.npr.org/2026/11/25/nx-s1-6044226/food-critic-on-what-to-consider-when-hosting-thanksgiving-at-a-restaurant",
+  "audio": null,
+  "secs": null,
+  "story_id": "nx-s1-6044226",
+  "summary": "NPR's Steve Inskeep speaks with Washington Post food critic Elazar Sontag about what to consider when gathering for Thanksgiving at a restaurant.",
+  "topics": [
+   "World"
+  ],
+  "tagged_by": "keywords"
+ },
+ "https://www.npr.org/2026/11/25/nx-s1-6052435/dancing-with-the-stars-crowns-new-winner-in-finale": {
+  "id": "https://www.npr.org/2026/11/25/nx-s1-6052435/dancing-with-the-stars-crowns-new-winner-in-finale",
+  "show": "Morning Edition",
+  "date": "2026-11-25T09:41:11Z",
+  "title": "'Dancing with the Stars' crowns new winner in finale",
+  "description": null,
+  "page": "https://www.npr.org/2026/11/25/nx-s1-6052435/dancing-with-the-stars-crowns-new-winner-in-finale",
+  "audio": null,
+  "secs": null,
+  "story_id": "nx-s1-6052435",
+  "summary": "ABC's Dancing with the Stars wrapped up Season 35 and crowned its new winner Tuesday evening.",
+  "topics": [
+   "World"
+  ],
+  "tagged_by": "keywords"
+ },
+ "https://www.npr.org/2026/11/25/nx-s1-6053915/how-jensen-huangs-return-as-nvidias-ceo-is-going-over-in-china": {
+  "id": "https://www.npr.org/2026/11/25/nx-s1-6053915/how-jensen-huangs-return-as-nvidias-ceo-is-going-over-in-china",
+  "show": "All Things Considered",
+  "date": "2026-11-25T23:01:09Z",
+  "title": "How Jensen Huang's return as NVIDIA's CEO is going over in China",
+  "description": null,
+  "page": "https://www.npr.org/2026/11/25/nx-s1-6053915/how-jensen-huangs-return-as-nvidias-ceo-is-going-over-in-china",
+  "audio": null,
+  "secs": null,
+  "story_id": "nx-s1-6053915",
+  "summary": "In China, Jensen Huang's return as Nvidia CEO is being met with a mixed reaction – as Beijing weighs whether it wants the US company's chips at all.",
+  "topics": [
+   "World",
+   "Tech & AI"
+  ],
+  "tagged_by": "keywords"
+ },
+ "https://www.npr.org/2026/11/25/nx-s1-6053912/kilmar-abrego-garcia-is-in-spain-after-long-running-deportation-battle": {
+  "id": "https://www.npr.org/2026/11/25/nx-s1-6053912/kilmar-abrego-garcia-is-in-spain-after-long-running-deportation-battle",
+  "show": "All Things Considered",
+  "date": "2026-11-25T23:00:08Z",
+  "title": "Kilmar Abrego Garcia is in Spain after long-running deportation battle",
+  "description": null,
+  "page": "https://www.npr.org/2026/11/25/nx-s1-6053912/kilmar-abrego-garcia-is-in-spain-after-long-running-deportation-battle",
+  "audio": null,
+  "secs": null,
+  "story_id": "nx-s1-6053912",
+  "summary": "Over the past year, the Trump administration sought to re-deport Kilmar Abrego Garcia, after immigration officials admitted that the first attempt was by mistake.",
+  "topics": [
+   "Politics"
+  ],
+  "tagged_by": "keywords"
+ },
+ "https://www.npr.org/2026/11/25/nx-s1-6053959/the-white-house-is-proposing-new-tariffs-on-more-than-a-dozen-countries": {
+  "id": "https://www.npr.org/2026/11/25/nx-s1-6053959/the-white-house-is-proposing-new-tariffs-on-more-than-a-dozen-countries",
+  "show": "All Things Considered",
+  "date": "2026-11-25T22:55:28Z",
+  "title": "The White House is proposing new tariffs on more than a dozen countries",
+  "description": null,
+  "page": "https://www.npr.org/2026/11/25/nx-s1-6053959/the-white-house-is-proposing-new-tariffs-on-more-than-a-dozen-countries",
+  "audio": null,
+  "secs": null,
+  "story_id": "nx-s1-6053959",
+  "summary": "The White House is proposing new tariffs on goods from 14 of the U.S.'s biggest trading partners, including Japan, the EU and China – as high as 40% in China's case.",
+  "topics": [
+   "Politics",
+   "World"
+  ],
+  "tagged_by": "keywords"
+ },
+ "https://www.npr.org/2026/11/25/nx-s1-6053208/the-west-coast-is-bracing-as-some-of-the-years-highest-tides-hit": {
+  "id": "https://www.npr.org/2026/11/25/nx-s1-6053208/the-west-coast-is-bracing-as-some-of-the-years-highest-tides-hit",
+  "show": "All Things Considered",
+  "date": "2026-11-25T22:51:56Z",
+  "title": "The west coast is bracing as some of the year's highest tides hit",
+  "description": null,
+  "page": "https://www.npr.org/2026/11/25/nx-s1-6053208/the-west-coast-is-bracing-as-some-of-the-years-highest-tides-hit",
+  "audio": null,
+  "secs": null,
+  "story_id": "nx-s1-6053208",
+  "summary": "Some of the highest tides of the year are happening this week on the West Coast.",
+  "topics": [
+   "World"
+  ],
+  "tagged_by": "keywords"
+ },
+ "https://www.npr.org/2026/11/25/nx-s1-6047471/what-life-is-like-in-kyiv-under-near-daily-bombardments": {
+  "id": "https://www.npr.org/2026/11/25/nx-s1-6047471/what-life-is-like-in-kyiv-under-near-daily-bombardments",
+  "show": "All Things Considered",
+  "date": "2026-11-25T22:51:54Z",
+  "title": "What life is like in Kyiv under near-daily bombardments",
+  "description": null,
+  "page": "https://www.npr.org/2026/11/25/nx-s1-6047471/what-life-is-like-in-kyiv-under-near-daily-bombardments",
+  "audio": null,
+  "secs": null,
+  "story_id": "nx-s1-6047471",
+  "summary": "Ukrainian President Volodymyr Zelenskyy says his country has gathered intelligence on Russia's upcoming battle plans.",
+  "topics": [
+   "World"
+  ],
+  "tagged_by": "keywords"
+ },
+ "https://www.npr.org/2026/11/25/nx-s1-6026477/teens-from-across-the-u-s-perform-as-the-macys-great-american-marching-band": {
+  "id": "https://www.npr.org/2026/11/25/nx-s1-6026477/teens-from-across-the-u-s-perform-as-the-macys-great-american-marching-band",
+  "show": "All Things Considered",
+  "date": "2026-11-25T22:08:05Z",
+  "title": "Teens from across the U.S. perform as the Macy's Great American Marching Band",
+  "description": null,
+  "page": "https://www.npr.org/2026/11/25/nx-s1-6026477/teens-from-across-the-u-s-perform-as-the-macys-great-american-marching-band",
+  "audio": null,
+  "secs": null,
+  "story_id": "nx-s1-6026477",
+  "summary": "Macy's is celebrating the 100th edition of its famous Thanksgiving Day Parade.",
+  "topics": [
+   "World"
+  ],
+  "tagged_by": "keywords"
+ },
+ "https://www.npr.org/2026/11/25/nx-s1-6044265/from-sfo-to-jfk-a-primer-on-three-letter-airport-codes": {
+  "id": "https://www.npr.org/2026/11/25/nx-s1-6044265/from-sfo-to-jfk-a-primer-on-three-letter-airport-codes",
+  "show": "All Things Considered",
+  "date": "2026-11-25T22:05:42Z",
+  "title": "From SFO to JFK, a primer on three-letter airport codes",
+  "description": null,
+  "page": "https://www.npr.org/2026/11/25/nx-s1-6044265/from-sfo-to-jfk-a-primer-on-three-letter-airport-codes",
+  "audio": null,
+  "secs": null,
+  "story_id": "nx-s1-6044265",
+  "summary": "How did commercial airports get those three-letter codes — and why is Dulles known as IAD?",
+  "topics": [
+   "World"
+  ],
+  "tagged_by": "keywords"
+ },
+ "https://www.npr.org/2026/11/25/nx-s1-6053958/inflation-is-still-hot-fueled-in-part-by-the-ai-boom": {
+  "id": "https://www.npr.org/2026/11/25/nx-s1-6053958/inflation-is-still-hot-fueled-in-part-by-the-ai-boom",
+  "show": "All Things Considered",
+  "date": "2026-11-25T22:04:36Z",
+  "title": "Inflation is still hot, fueled in part by the AI boom",
+  "description": null,
+  "page": "https://www.npr.org/2026/11/25/nx-s1-6053958/inflation-is-still-hot-fueled-in-part-by-the-ai-boom",
+  "audio": null,
+  "secs": null,
+  "story_id": "nx-s1-6053958",
+  "summary": "The U.S. economy grew at a rapid clip during the summer and early fall, due in part to the artificial intelligence boom.",
+  "topics": [
+   "Tech & AI",
+   "Economy"
+  ],
+  "tagged_by": "keywords"
+ },
+ "https://www.npr.org/2026/11/25/nx-s1-6053216/how-to-talk-ai-around-the-thanksgiving-table": {
+  "id": "https://www.npr.org/2026/11/25/nx-s1-6053216/how-to-talk-ai-around-the-thanksgiving-table",
+  "show": "All Things Considered",
+  "date": "2026-11-25T21:33:59Z",
+  "title": "How to talk AI around the Thanksgiving table",
+  "description": null,
+  "page": "https://www.npr.org/2026/11/25/nx-s1-6053216/how-to-talk-ai-around-the-thanksgiving-table",
+  "audio": null,
+  "secs": null,
+  "story_id": "nx-s1-6053216",
+  "summary": "You're gathered with family this Thanksgiving when the topic of AI comes up.",
+  "topics": [
+   "Tech & AI"
+  ],
+  "tagged_by": "keywords"
+ },
+ "https://www.npr.org/2026/11/25/nx-s1-6044178/with-millions-going-home-for-thanksgiving-its-the-super-bowl-of-air-travel": {
+  "id": "https://www.npr.org/2026/11/25/nx-s1-6044178/with-millions-going-home-for-thanksgiving-its-the-super-bowl-of-air-travel",
+  "show": "All Things Considered",
+  "date": "2026-11-25T21:33:14Z",
+  "title": "With millions going home for Thanksgiving, it's the 'Super Bowl' of air travel",
+  "description": null,
+  "page": "https://www.npr.org/2026/11/25/nx-s1-6044178/with-millions-going-home-for-thanksgiving-its-the-super-bowl-of-air-travel",
+  "audio": null,
+  "secs": null,
+  "story_id": "nx-s1-6044178",
+  "summary": "Winter storms are kicking up as tens of millions travel for the Thanksgiving holiday.",
+  "topics": [
+   "World"
+  ],
+  "tagged_by": "keywords"
+ },
+ "02ca882f-26a6-48b4-b5cb-36c93a193ee8": {
+  "id": "02ca882f-26a6-48b4-b5cb-36c93a193ee8",
+  "show": "Up First",
+  "date": "2026-11-25T11:03:03Z",
+  "title": "Army Explosives Detonation In Iowa, Abrego Garcia Leaves The US, Congress And Nvidia",
+  "description": null,
+  "page": "https://www.npr.org/2026/11/25/nx-s1-6053785/army-explosives-detonation-in-iowa-abrego-garcia-leaves-the-us-congress-and-nvidia",
+  "audio": "https://prfx.byspotify.com/e/play.podtrac.com/npr-510318/npr.simplecastaudio.com/d52bee4a-b10a-40f8-9417-45064e6b8632/episodes/801857a0-f121-4480-9603-6098df5bb7b2/audio/128/default.mp3?awCollectionId=d52bee4a-b10a-40f8-9417-45064e6b8632&awEpisodeId=801857a0-f121-4480-9603-6098df5bb7b2&feed=HMwRVgVt&t=podcast&e=nx-s1-6053785&p=510318&d=741&size=11862143",
+  "secs": 741,
+  "story_id": "nx-s1-6053785",
+  "summary": "The Army is set to destroy thousands of pounds of unstable explosives in Iowa after several delays, as residents prepare for the potential spread of toxic lead dust.",
+  "topics": [
+   "Politics",
+   "World",
+   "Tech & AI"
+  ],
+  "tagged_by": "keywords"
+ },
+ "46ba6d39-68f2-48ac-9d2c-3d71b0bcc381": {
+  "id": "46ba6d39-68f2-48ac-9d2c-3d71b0bcc381",
+  "show": "Fresh Air",
+  "date": "2026-11-25T18:57:37Z",
+  "title": "Apache Chef Nephi Craig",
+  "description": null,
+  "page": "https://www.npr.org/2026/11/25/nx-s1-6052478/apache-chef-nephi-craig",
+  "audio": "https://prfx.byspotify.com/e/play.podtrac.com/npr-381444908/npr.simplecastaudio.com/49850946-31c1-4953-8129-0d718420c400/episodes/9268a1d1-f49d-4bfa-9c0f-a5f988ff720f/audio/128/default.mp3?awCollectionId=49850946-31c1-4953-8129-0d718420c400&awEpisodeId=9268a1d1-f49d-4bfa-9c0f-a5f988ff720f&feed=jBsBZBHh&t=podcast&e=nx-s1-6052478&p=381444908&d=2694&size=43118825",
+  "secs": 2694,
+  "story_id": "nx-s1-6052478",
+  "summary": "White Mountain Apache chef Nephi Craig had an unconventional culinary path: from a reservation to a fine dining restaurant to cooking for 7,800 inmates while in county jail.",
+  "topics": [
+   "Culture"
+  ],
+  "tagged_by": "keywords"
+ },
+ "3c1c9fd5-2bf3-48e3-8404-ea93e37ac04e": {
+  "id": "3c1c9fd5-2bf3-48e3-8404-ea93e37ac04e",
+  "show": "Consider This",
+  "date": "2026-11-25T23:05:59Z",
+  "title": "AI could soon improve itself. Researchers say that’s a nightmare",
+  "description": null,
+  "page": "https://www.npr.org/2026/11/25/nx-s1-6054127/ai-could-soon-improve-itself-researchers-say-thats-a-nightmare",
+  "audio": "https://prfx.byspotify.com/e/play.podtrac.com/npr-510355/npr.simplecastaudio.com/2a4a748e-0a2f-495a-8208-99765f0dad47/episodes/261b862d-4229-475f-974d-26c8b2312738/audio/128/default.mp3?awCollectionId=2a4a748e-0a2f-495a-8208-99765f0dad47&awEpisodeId=261b862d-4229-475f-974d-26c8b2312738&feed=4XF9Dp_o&t=podcast&e=nx-s1-6054127&p=510355&d=598&size=9581341",
+  "secs": 598,
+  "story_id": "nx-s1-6054127",
+  "summary": "What happens when AI models can improve themselves?",
+  "topics": [
+   "Tech & AI",
+   "Justice"
+  ],
+  "tagged_by": "keywords"
+ },
+ "b5641e06-1097-485c-a7f8-a468f817e656": {
+  "id": "b5641e06-1097-485c-a7f8-a468f817e656",
+  "show": "NPR Politics Podcast",
+  "date": "2026-11-25T20:00:01Z",
+  "title": "What to talk about this Thanksgiving (other than politics)",
+  "description": null,
+  "page": "https://www.npr.org/2026/11/25/nx-s1-6052460/what-to-talk-about-this-thanksgiving-other-than-politics",
+  "audio": "https://prfx.byspotify.com/e/play.podtrac.com/npr-510310/npr.simplecastaudio.com/81c2d960-75d6-4dba-9f07-0bfade0db7ce/episodes/ebf9175b-dc3f-4424-a6f0-f8613f4c22cb/audio/128/default.mp3?awCollectionId=81c2d960-75d6-4dba-9f07-0bfade0db7ce&awEpisodeId=ebf9175b-dc3f-4424-a6f0-f8613f4c22cb&feed=iDPaKWvZ&t=podcast&e=nx-s1-6052460&p=510310&d=1344&size=21504879",
+  "secs": 1344,
+  "story_id": "nx-s1-6052460",
+  "summary": "There's a time and a place to debate politics.",
+  "topics": [
+   "Politics"
+  ],
+  "tagged_by": "keywords"
+ },
+ "3015ee6a-fb91-494f-adad-f29406501e08": {
+  "id": "3015ee6a-fb91-494f-adad-f29406501e08",
+  "show": "Here & Now",
+  "date": "2026-11-25T20:00:07Z",
+  "title": "Will Congress finally tackle government corruption?",
+  "description": null,
+  "page": "https://www.npr.org/2026/11/25/nx-s1-6054058/will-congress-finally-tackle-government-corruption",
+  "audio": "https://prfx.byspotify.com/e/play.podtrac.com/npr-510051/npr.simplecastaudio.com/a14b69c2-63a5-430e-bbf8-8c76275e14cd/episodes/44ca1b57-5f0b-46a8-a2df-7e2c9a6cc86c/audio/128/default.mp3?awCollectionId=a14b69c2-63a5-430e-bbf8-8c76275e14cd&awEpisodeId=44ca1b57-5f0b-46a8-a2df-7e2c9a6cc86c&feed=XciAg_Eg&t=podcast&e=nx-s1-6054058&p=510051&d=1896&size=30336798",
+  "secs": 1896,
+  "story_id": "nx-s1-6054058",
+  "summary": "The scandal surrounding Nvidia CEO Jensen Huang has raised more questions about government corruption, just weeks after midterm voters cited graft as an issue that drove them to the polls.",
+  "topics": [
+   "Politics",
+   "Tech & AI",
+   "Culture"
+  ],
+  "tagged_by": "keywords"
+ },
+ "d6d070b9-a682-4ef9-8c0f-557961df009d": {
+  "id": "d6d070b9-a682-4ef9-8c0f-557961df009d",
+  "show": "State of the World",
+  "date": "2026-11-25T20:14:40Z",
+  "title": "Saving Iraq's troubled marshlands puts an environmentalist's life under threat",
+  "description": null,
+  "page": "https://www.npr.org/2026/11/25/nx-s1-6054131/saving-iraqs-troubled-marshlands-puts-an-environmentalists-life-under-threat",
+  "audio": "https://prfx.byspotify.com/e/play.podtrac.com/npr-510366/npr.simplecastaudio.com/0c99070d-d4e9-4006-ac06-39c904ab327e/episodes/d6be45fd-d3b1-417c-9700-d6b155ab4585/audio/128/default.mp3?awCollectionId=0c99070d-d4e9-4006-ac06-39c904ab327e&awEpisodeId=d6be45fd-d3b1-417c-9700-d6b155ab4585&feed=eZ65RO4U&t=podcast&e=nx-s1-6054131&p=510366&d=497&size=7956733",
+  "secs": 497,
+  "story_id": "nx-s1-6054131",
+  "summary": "Iraqi environmentalist Jassim al-Asadi has devoted most of his life to the preservation of Iraq’s troubled wetlands.",
+  "topics": [
+   "World"
   ],
   "tagged_by": "keywords"
  }
