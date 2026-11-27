@@ -1,482 +1,4 @@
 {
- "https://www.npr.org/2026/11/19/nx-s1-6045750/katherine-clark-hakeem-jeffries-house-democrats": {
-  "id": "https://www.npr.org/2026/11/19/nx-s1-6045750/katherine-clark-hakeem-jeffries-house-democrats",
-  "show": "Morning Edition",
-  "date": "2026-11-19T11:20:42Z",
-  "title": "Incoming House majority leader Katherine Clark stresses Democratic unity",
-  "description": null,
-  "page": "https://www.npr.org/2026/11/19/nx-s1-6045750/katherine-clark-hakeem-jeffries-house-democrats",
-  "audio": null,
-  "secs": null,
-  "story_id": "nx-s1-6045750",
-  "transcript": null,
-  "summary": "As Democrats prepare to take control of the House, incoming majority leader Katherine Clark discusses the party's ambitious agenda and divisions within its ranks.",
-  "topics": [
-   "Politics"
-  ],
-  "tagged_by": "keywords"
- },
- "https://www.npr.org/2026/11/19/nx-s1-6046487/gregory-meeks-trump-xi-putin-summit": {
-  "id": "https://www.npr.org/2026/11/19/nx-s1-6046487/gregory-meeks-trump-xi-putin-summit",
-  "show": "Morning Edition",
-  "date": "2026-11-19T11:20:37Z",
-  "title": "Top House Democrat questions what Trump accomplished in Xi-Putin summit",
-  "description": null,
-  "page": "https://www.npr.org/2026/11/19/nx-s1-6046487/gregory-meeks-trump-xi-putin-summit",
-  "audio": null,
-  "secs": null,
-  "story_id": "nx-s1-6046487",
-  "transcript": null,
-  "summary": "Rep. Gregory Meeks raises concerns about U.S.",
-  "topics": [
-   "Politics",
-   "World",
-   "Tech & AI"
-  ],
-  "tagged_by": "keywords"
- },
- "https://www.npr.org/2026/11/19/nx-s1-6042558/anthropic-ipo-breaks-records-100-billion": {
-  "id": "https://www.npr.org/2026/11/19/nx-s1-6042558/anthropic-ipo-breaks-records-100-billion",
-  "show": "Morning Edition",
-  "date": "2026-11-19T10:00:00Z",
-  "title": "Investors scramble for a piece of AI giant Anthropic in blockbuster IPO",
-  "description": null,
-  "page": "https://www.npr.org/2026/11/19/nx-s1-6042558/anthropic-ipo-breaks-records-100-billion",
-  "audio": null,
-  "secs": null,
-  "story_id": "nx-s1-6042558",
-  "transcript": null,
-  "summary": "Shares in the maker of the popular Claude artificial intelligence model leapt in first day of trading on the Nasdaq Thursday.",
-  "topics": [
-   "Tech & AI",
-   "Economy"
-  ],
-  "tagged_by": "keywords"
- },
- "https://www.npr.org/2026/11/19/nx-s1-6042289/morning-news-brief": {
-  "id": "https://www.npr.org/2026/11/19/nx-s1-6042289/morning-news-brief",
-  "show": "Morning Edition",
-  "date": "2026-11-19T09:46:29Z",
-  "title": "Morning news brief",
-  "description": null,
-  "page": "https://www.npr.org/2026/11/19/nx-s1-6042289/morning-news-brief",
-  "audio": null,
-  "secs": null,
-  "story_id": "nx-s1-6042289",
-  "transcript": null,
-  "summary": "President Trump meets with China's Xi and Russia's Putin, House Democrats nominate Hakeem Jeffries as next speaker of the House, AI giant Anthropic raises more than $100 billion in record-setting IPO.",
-  "topics": [
-   "Politics",
-   "World",
-   "Tech & AI"
-  ],
-  "tagged_by": "keywords"
- },
- "https://www.npr.org/2026/11/19/nx-s1-6044206/irans-attacks-on-ships-in-the-strait-of-hormuz-escalate": {
-  "id": "https://www.npr.org/2026/11/19/nx-s1-6044206/irans-attacks-on-ships-in-the-strait-of-hormuz-escalate",
-  "show": "Morning Edition",
-  "date": "2026-11-19T09:46:24Z",
-  "title": "Iran's attacks on ships in the Strait of Hormuz escalate",
-  "description": null,
-  "page": "https://www.npr.org/2026/11/19/nx-s1-6044206/irans-attacks-on-ships-in-the-strait-of-hormuz-escalate",
-  "audio": null,
-  "secs": null,
-  "story_id": "nx-s1-6044206",
-  "transcript": null,
-  "summary": "Iran takes the offensive with attacks on ships in the Strait of Hormuz and airstrikes on several countries around the Persian Gulf.",
-  "topics": [
-   "World"
-  ],
-  "tagged_by": "keywords"
- },
- "https://www.npr.org/2026/11/19/nx-s1-6042913/as-some-states-move-away-from-the-death-penalty-florida-prepares-to-set-new-record": {
-  "id": "https://www.npr.org/2026/11/19/nx-s1-6042913/as-some-states-move-away-from-the-death-penalty-florida-prepares-to-set-new-record",
-  "show": "Morning Edition",
-  "date": "2026-11-19T09:45:50Z",
-  "title": "As some states move away from the death penalty, Florida prepares to set new record",
-  "description": null,
-  "page": "https://www.npr.org/2026/11/19/nx-s1-6042913/as-some-states-move-away-from-the-death-penalty-florida-prepares-to-set-new-record",
-  "audio": null,
-  "secs": null,
-  "story_id": "nx-s1-6042913",
-  "transcript": null,
-  "summary": "Florida is set to have its 20th execution of the year Thursday.",
-  "topics": [
-   "Justice"
-  ],
-  "tagged_by": "keywords"
- },
- "https://www.npr.org/2026/11/19/nx-s1-6035863/ben-shapiro-on-conservative-media-and-the-future-of-the-republican-party": {
-  "id": "https://www.npr.org/2026/11/19/nx-s1-6035863/ben-shapiro-on-conservative-media-and-the-future-of-the-republican-party",
-  "show": "Morning Edition",
-  "date": "2026-11-19T09:45:41Z",
-  "title": "Ben Shapiro on conservative media and the future of the Republican Party",
-  "description": null,
-  "page": "https://www.npr.org/2026/11/19/nx-s1-6035863/ben-shapiro-on-conservative-media-and-the-future-of-the-republican-party",
-  "audio": null,
-  "secs": null,
-  "story_id": "nx-s1-6035863",
-  "transcript": null,
-  "summary": "NPR's Steve Inskeep sits down with conservative commentator Ben Shapiro to discuss the future of the Republican party.",
-  "topics": [
-   "Politics"
-  ],
-  "tagged_by": "keywords"
- },
- "https://www.npr.org/2026/11/19/nx-s1-6045760/after-13-year-wait-grand-theft-auto-vi-hits-store-shelves": {
-  "id": "https://www.npr.org/2026/11/19/nx-s1-6045760/after-13-year-wait-grand-theft-auto-vi-hits-store-shelves",
-  "show": "Morning Edition",
-  "date": "2026-11-19T09:45:32Z",
-  "title": "After 13-year wait, Grand Theft Auto VI hits store shelves",
-  "description": null,
-  "page": "https://www.npr.org/2026/11/19/nx-s1-6045760/after-13-year-wait-grand-theft-auto-vi-hits-store-shelves",
-  "audio": null,
-  "secs": null,
-  "story_id": "nx-s1-6045760",
-  "transcript": null,
-  "summary": "Millions of gamers are picking up Grand Theft Auto VI, the latest in a best-selling video game series -- many even taking time off work to play.",
-  "topics": [
-   "Culture"
-  ],
-  "tagged_by": "keywords"
- },
- "https://www.npr.org/2026/11/19/nx-s1-6045884/international-court-of-justice-issues-ruling-on-myanmar-genocide-case": {
-  "id": "https://www.npr.org/2026/11/19/nx-s1-6045884/international-court-of-justice-issues-ruling-on-myanmar-genocide-case",
-  "show": "Morning Edition",
-  "date": "2026-11-19T09:45:26Z",
-  "title": "International Court of Justice issues ruling on Myanmar genocide case",
-  "description": null,
-  "page": "https://www.npr.org/2026/11/19/nx-s1-6045884/international-court-of-justice-issues-ruling-on-myanmar-genocide-case",
-  "audio": null,
-  "secs": null,
-  "story_id": "nx-s1-6045884",
-  "transcript": null,
-  "summary": "The court ruled that Myanmar committed genocide against its Rohingya Muslim minority – a landmark judgment that marks a turning point in international justice.",
-  "topics": [
-   "World",
-   "Justice"
-  ],
-  "tagged_by": "keywords"
- },
- "https://www.npr.org/2026/11/18/nx-s1-6040432/trump-xi-and-putin-shenzhen-china-russia-usa": {
-  "id": "https://www.npr.org/2026/11/18/nx-s1-6040432/trump-xi-and-putin-shenzhen-china-russia-usa",
-  "show": "Morning Edition",
-  "date": "2026-11-19T09:44:40Z",
-  "title": "Trump, Xi and Putin meet as global alliances hang in the balance",
-  "description": null,
-  "page": "https://www.npr.org/2026/11/18/nx-s1-6040432/trump-xi-and-putin-shenzhen-china-russia-usa",
-  "audio": null,
-  "secs": null,
-  "story_id": "nx-s1-6040432",
-  "transcript": null,
-  "summary": "President Trump, China's Xi Jinping and Russia's Vladimir Putin have gathered in Shenzhen, China, for a historic trilateral meeting, with Ukraine, Iran and nuclear disarmament on the agenda.",
-  "topics": [
-   "Politics",
-   "World"
-  ],
-  "tagged_by": "keywords"
- },
- "https://www.npr.org/2026/11/19/nx-s1-6043791/for-some-patients-psychedelic-treatment-brings-new-troubles-in-its-aftermath": {
-  "id": "https://www.npr.org/2026/11/19/nx-s1-6043791/for-some-patients-psychedelic-treatment-brings-new-troubles-in-its-aftermath",
-  "show": "All Things Considered",
-  "date": "2026-11-19T23:07:17Z",
-  "title": "For some patients, psychedelic treatment brings new troubles in its aftermath",
-  "description": null,
-  "page": "https://www.npr.org/2026/11/19/nx-s1-6043791/for-some-patients-psychedelic-treatment-brings-new-troubles-in-its-aftermath",
-  "audio": null,
-  "secs": null,
-  "story_id": "nx-s1-6043791",
-  "transcript": null,
-  "summary": "Psychedelics could transform mental health care, but some advocates and researchers say there needs to be more focus on the minority of people with persistent troubles after using these drugs.",
-  "topics": [
-   "Science & health"
-  ],
-  "tagged_by": "keywords"
- },
- "https://www.npr.org/2026/11/19/nx-s1-6045926/myanmar-committed-genocide-against-its-rohingya-muslim-minority-court-rules": {
-  "id": "https://www.npr.org/2026/11/19/nx-s1-6045926/myanmar-committed-genocide-against-its-rohingya-muslim-minority-court-rules",
-  "show": "All Things Considered",
-  "date": "2026-11-19T22:56:08Z",
-  "title": "Myanmar committed genocide against its Rohingya Muslim minority, court rules",
-  "description": null,
-  "page": "https://www.npr.org/2026/11/19/nx-s1-6045926/myanmar-committed-genocide-against-its-rohingya-muslim-minority-court-rules",
-  "audio": null,
-  "secs": null,
-  "story_id": "nx-s1-6045926",
-  "transcript": null,
-  "summary": "The International Court of Justice has ruled that Myanmar committed genocide against its Rohingya Muslim minority — a landmark judgment that marks a turning point in international justice.",
-  "topics": [
-   "World",
-   "Justice"
-  ],
-  "tagged_by": "keywords"
- },
- "https://www.npr.org/2026/11/19/nx-s1-6027766/a-new-concerto-highlights-an-instrument-usually-in-the-background-the-timpani": {
-  "id": "https://www.npr.org/2026/11/19/nx-s1-6027766/a-new-concerto-highlights-an-instrument-usually-in-the-background-the-timpani",
-  "show": "All Things Considered",
-  "date": "2026-11-19T22:46:43Z",
-  "title": "A new concerto highlights an instrument usually in the background: the timpani",
-  "description": null,
-  "page": "https://www.npr.org/2026/11/19/nx-s1-6027766/a-new-concerto-highlights-an-instrument-usually-in-the-background-the-timpani",
-  "audio": null,
-  "secs": null,
-  "story_id": "nx-s1-6027766",
-  "transcript": null,
-  "summary": "The Seattle Symphony is premiering a new concerto that spotlights a solo performance of an instrument pretty rarely featured in such solos: the timpani.",
-  "topics": [
-   "Culture"
-  ],
-  "tagged_by": "keywords"
- },
- "https://www.npr.org/2026/11/19/nx-s1-6046185/the-ai-boom-is-the-biggest-gold-rush-san-franciscos-seen-yet": {
-  "id": "https://www.npr.org/2026/11/19/nx-s1-6046185/the-ai-boom-is-the-biggest-gold-rush-san-franciscos-seen-yet",
-  "show": "All Things Considered",
-  "date": "2026-11-19T22:45:59Z",
-  "title": "The AI boom is the biggest gold rush San Francisco's seen yet",
-  "description": null,
-  "page": "https://www.npr.org/2026/11/19/nx-s1-6046185/the-ai-boom-is-the-biggest-gold-rush-san-franciscos-seen-yet",
-  "audio": null,
-  "secs": null,
-  "story_id": "nx-s1-6046185",
-  "transcript": null,
-  "summary": "NPR's Sacha Pfeiffer talks with Ben Steverman of Bloomberg about how the incredible amount of wealth generated by AI startups is transforming the San Francisco Bay Area.",
-  "topics": [
-   "Tech & AI",
-   "Economy",
-   "Science & health"
-  ],
-  "tagged_by": "keywords"
- },
- "https://www.npr.org/2026/11/19/nx-s1-6037536/how-non-player-characters-in-grand-theft-auto-vi-help-create-its-big-world": {
-  "id": "https://www.npr.org/2026/11/19/nx-s1-6037536/how-non-player-characters-in-grand-theft-auto-vi-help-create-its-big-world",
-  "show": "All Things Considered",
-  "date": "2026-11-19T22:45:51Z",
-  "title": "How non-player characters in 'Grand Theft Auto VI' help create its big world",
-  "description": null,
-  "page": "https://www.npr.org/2026/11/19/nx-s1-6037536/how-non-player-characters-in-grand-theft-auto-vi-help-create-its-big-world",
-  "audio": null,
-  "secs": null,
-  "story_id": "nx-s1-6037536",
-  "transcript": null,
-  "summary": "In video games, \"barks\" are short lines of dialogue given to various characters in the world.",
-  "topics": [
-   "Culture"
-  ],
-  "tagged_by": "keywords"
- },
- "https://www.npr.org/2026/11/19/nx-s1-6029776/on-her-latest-album-snoh-aalegra-remembers-a-legendary-love": {
-  "id": "https://www.npr.org/2026/11/19/nx-s1-6029776/on-her-latest-album-snoh-aalegra-remembers-a-legendary-love",
-  "show": "All Things Considered",
-  "date": "2026-11-19T22:45:48Z",
-  "title": "On her latest album, Snoh Aalegra remembers a 'Legendary Love'",
-  "description": null,
-  "page": "https://www.npr.org/2026/11/19/nx-s1-6029776/on-her-latest-album-snoh-aalegra-remembers-a-legendary-love",
-  "audio": null,
-  "secs": null,
-  "story_id": "nx-s1-6029776",
-  "transcript": null,
-  "summary": "NPR's Sacha Pfeiffer talks with singer Snoh Aalegra about her new album Legendary Love , the relationship that inspired it and her many influences.",
-  "topics": [
-   "Culture"
-  ],
-  "tagged_by": "keywords"
- },
- "https://www.npr.org/2026/11/19/nx-s1-6023392-e1/the-cost-of-college-is-confusing-some-schools-are-trying-to-change-that": {
-  "id": "https://www.npr.org/2026/11/19/nx-s1-6023392-e1/the-cost-of-college-is-confusing-some-schools-are-trying-to-change-that",
-  "show": "All Things Considered",
-  "date": "2026-11-19T22:03:28Z",
-  "title": "The cost of college is confusing. Some schools are trying to change that",
-  "description": null,
-  "page": "https://www.npr.org/2026/11/19/nx-s1-6023392-e1/the-cost-of-college-is-confusing-some-schools-are-trying-to-change-that",
-  "audio": null,
-  "secs": null,
-  "story_id": "nx-s1-6023392-e1",
-  "transcript": null,
-  "summary": "A growing number of colleges are trying to reduce widespread public confusion about what college actually costs.",
-  "topics": [
-   "Economy"
-  ],
-  "tagged_by": "keywords"
- },
- "https://www.npr.org/2026/11/19/nx-s1-5969904/in-elsinore-andrew-scott-plays-actor-dying-from-aids-as-he-plays-hamlet": {
-  "id": "https://www.npr.org/2026/11/19/nx-s1-5969904/in-elsinore-andrew-scott-plays-actor-dying-from-aids-as-he-plays-hamlet",
-  "show": "All Things Considered",
-  "date": "2026-11-19T22:03:22Z",
-  "title": "In Elsinore, Andrew Scott plays actor dying from AIDS as he plays Hamlet",
-  "description": null,
-  "page": "https://www.npr.org/2026/11/19/nx-s1-5969904/in-elsinore-andrew-scott-plays-actor-dying-from-aids-as-he-plays-hamlet",
-  "audio": null,
-  "secs": null,
-  "story_id": "nx-s1-5969904",
-  "transcript": null,
-  "summary": "NPR's Ailsa Chang talks with Andrew Scott about starring as the late actor Ian Charleson in the movie Elsinore and about what his final performance as Hamlet meant.",
-  "topics": [
-   "Culture"
-  ],
-  "tagged_by": "keywords"
- },
- "https://www.npr.org/2026/11/19/nx-s1-6045773/why-the-u-s-air-traffic-control-system-still-relies-on-an-antique-network": {
-  "id": "https://www.npr.org/2026/11/19/nx-s1-6045773/why-the-u-s-air-traffic-control-system-still-relies-on-an-antique-network",
-  "show": "All Things Considered",
-  "date": "2026-11-19T21:59:57Z",
-  "title": "Why the U.S. air traffic control system still relies on an 'antique' network",
-  "description": null,
-  "page": "https://www.npr.org/2026/11/19/nx-s1-6045773/why-the-u-s-air-traffic-control-system-still-relies-on-an-antique-network",
-  "audio": null,
-  "secs": null,
-  "story_id": "nx-s1-6045773",
-  "transcript": null,
-  "summary": "Friday's nationwide ground stop was a stark reminder that the U.S.'s air traffic control systems are old and fragile.",
-  "topics": [
-   "World"
-  ],
-  "tagged_by": "keywords"
- },
- "https://www.npr.org/2026/11/19/nx-s1-6044771/for-new-members-of-congress-getting-a-prime-office-is-a-game-of-chance": {
-  "id": "https://www.npr.org/2026/11/19/nx-s1-6044771/for-new-members-of-congress-getting-a-prime-office-is-a-game-of-chance",
-  "show": "All Things Considered",
-  "date": "2026-11-19T21:46:24Z",
-  "title": "For new members of Congress, getting a prime office is a game of chance",
-  "description": null,
-  "page": "https://www.npr.org/2026/11/19/nx-s1-6044771/for-new-members-of-congress-getting-a-prime-office-is-a-game-of-chance",
-  "audio": null,
-  "secs": null,
-  "story_id": "nx-s1-6044771",
-  "transcript": null,
-  "summary": "Orientation for incoming House members is coming to a close.",
-  "topics": [
-   "Politics",
-   "Culture"
-  ],
-  "tagged_by": "keywords"
- },
- "e924f1b3-7876-468d-936a-176487ce137f": {
-  "id": "e924f1b3-7876-468d-936a-176487ce137f",
-  "show": "Up First",
-  "date": "2026-11-19T18:00:00Z",
-  "title": "Ben Shapiro reassesses the president he campaigned for | Newsmakers",
-  "description": null,
-  "page": null,
-  "audio": "https://prfx.byspotify.com/e/play.podtrac.com/npr-510318/npr.simplecastaudio.com/d52bee4a-b10a-40f8-9417-45064e6b8632/episodes/34cda4cf-7f57-4f56-b7a1-8b512ab7f3b9/audio/128/default.mp3?awCollectionId=d52bee4a-b10a-40f8-9417-45064e6b8632&awEpisodeId=34cda4cf-7f57-4f56-b7a1-8b512ab7f3b9&feed=HMwRVgVt&t=podcast&e=nx-s1-6047447&p=510318&d=2349&size=37611774",
-  "secs": 2349,
-  "story_id": "nx-s1-6047447",
-  "transcript": null,
-  "summary": "Conservative host Ben Shapiro says he is holding to his conservative values in the unstable era of President Trump.",
-  "topics": [
-   "Politics",
-   "World",
-   "Science & health"
-  ],
-  "tagged_by": "keywords"
- },
- "813c8e2f-9634-42eb-a0a3-8608eb8c9dfb": {
-  "id": "813c8e2f-9634-42eb-a0a3-8608eb8c9dfb",
-  "show": "Up First",
-  "date": "2026-11-19T11:03:18Z",
-  "title": "Trump Trilateral Summit In China, House Democratic Leadership, Anthropic IPO",
-  "description": null,
-  "page": "https://www.npr.org/2026/11/19/nx-s1-6047056/trump-trilateral-summit-in-china-house-democratic-leadership-anthropic-ipo",
-  "audio": "https://prfx.byspotify.com/e/play.podtrac.com/npr-510318/npr.simplecastaudio.com/d52bee4a-b10a-40f8-9417-45064e6b8632/episodes/d5a5447c-a547-45a6-8612-df73d1b9b56e/audio/128/default.mp3?awCollectionId=d52bee4a-b10a-40f8-9417-45064e6b8632&awEpisodeId=d5a5447c-a547-45a6-8612-df73d1b9b56e&feed=HMwRVgVt&t=podcast&e=nx-s1-6047056&p=510318&d=772&size=12362858",
-  "secs": 772,
-  "story_id": "nx-s1-6047056",
-  "transcript": null,
-  "summary": "President Trump met with Xi Jinping and Vladimir Putin together for the first time, but the meeting produced no major breakthrough as tensions remain over Ukraine, technology and Taiwan.",
-  "topics": [
-   "Politics",
-   "World",
-   "Tech & AI"
-  ],
-  "tagged_by": "keywords"
- },
- "6dffe80b-4e88-4e48-b127-c200018e38dd": {
-  "id": "6dffe80b-4e88-4e48-b127-c200018e38dd",
-  "show": "Fresh Air",
-  "date": "2026-11-19T19:03:02Z",
-  "title": "'Mississippi is a reflection of the nation': Scott Colom's historic win",
-  "description": null,
-  "page": "https://www.npr.org/2026/11/19/nx-s1-6047463/mississippi-is-a-reflection-of-the-nation-scott-coloms-historic-win",
-  "audio": "https://prfx.byspotify.com/e/play.podtrac.com/npr-381444908/npr.simplecastaudio.com/49850946-31c1-4953-8129-0d718420c400/episodes/18c7a8cf-3232-45dd-876b-d1bfa4cbbd49/audio/128/default.mp3?awCollectionId=49850946-31c1-4953-8129-0d718420c400&awEpisodeId=18c7a8cf-3232-45dd-876b-d1bfa4cbbd49&feed=jBsBZBHh&t=podcast&e=nx-s1-6047463&p=381444908&d=2714&size=43434385",
-  "secs": 2714,
-  "story_id": "nx-s1-6047463",
-  "transcript": null,
-  "summary": "Scott Colom's Senate victory in Mississippi surprised much of the country.",
-  "topics": [
-   "Politics"
-  ],
-  "tagged_by": "keywords"
- },
- "15ae595d-b19c-40e9-a397-05ed97bba20f": {
-  "id": "15ae595d-b19c-40e9-a397-05ed97bba20f",
-  "show": "Consider This",
-  "date": "2026-11-19T23:22:28Z",
-  "title": "Anthropic has made a lot of money. How's that changing the city where it's based?",
-  "description": null,
-  "page": "https://www.npr.org/2026/11/19/nx-s1-6047634/anthropic-has-made-a-lot-of-money-hows-that-changing-the-city-where-its-based",
-  "audio": "https://prfx.byspotify.com/e/play.podtrac.com/npr-510355/npr.simplecastaudio.com/2a4a748e-0a2f-495a-8208-99765f0dad47/episodes/267c08f3-f73f-4c9f-9f54-31fc27d0d95c/audio/128/default.mp3?awCollectionId=2a4a748e-0a2f-495a-8208-99765f0dad47&awEpisodeId=267c08f3-f73f-4c9f-9f54-31fc27d0d95c&feed=4XF9Dp_o&t=podcast&e=nx-s1-6047634&p=510355&d=518&size=8309072",
-  "secs": 518,
-  "story_id": "nx-s1-6047634",
-  "transcript": null,
-  "summary": "Anthropic has raised a lot of money.",
-  "topics": [
-   "Tech & AI",
-   "Economy",
-   "Justice"
-  ],
-  "tagged_by": "keywords"
- },
- "6814f197-17e0-4d0c-8662-27042ab05c79": {
-  "id": "6814f197-17e0-4d0c-8662-27042ab05c79",
-  "show": "NPR Politics Podcast",
-  "date": "2026-11-19T21:00:24Z",
-  "title": "This relic of U.S. politics may be on its way out",
-  "description": null,
-  "page": "https://www.npr.org/2026/11/19/nx-s1-6047326/this-relic-of-u-s-politics-may-be-on-its-way-out",
-  "audio": "https://prfx.byspotify.com/e/play.podtrac.com/npr-510310/npr.simplecastaudio.com/81c2d960-75d6-4dba-9f07-0bfade0db7ce/episodes/d05aba54-e99c-443b-93cc-696bed7751e1/audio/128/default.mp3?awCollectionId=81c2d960-75d6-4dba-9f07-0bfade0db7ce&awEpisodeId=d05aba54-e99c-443b-93cc-696bed7751e1&feed=iDPaKWvZ&t=podcast&e=nx-s1-6047326&p=510310&d=1182&size=18916459",
-  "secs": 1182,
-  "story_id": "nx-s1-6047326",
-  "transcript": null,
-  "summary": "Electors from each state gather after a presidential election to decide which candidate gets state's electoral votes.",
-  "topics": [
-   "Politics"
-  ],
-  "tagged_by": "keywords"
- },
- "e1f89db4-694d-4d23-935e-282d17ce19ab": {
-  "id": "e1f89db4-694d-4d23-935e-282d17ce19ab",
-  "show": "Here & Now",
-  "date": "2026-11-19T20:00:00Z",
-  "title": "How the tax code lets the rich off the hook",
-  "description": null,
-  "page": "https://www.npr.org/2026/11/19/nx-s1-6047550/how-the-tax-code-lets-the-rich-off-the-hook",
-  "audio": "https://prfx.byspotify.com/e/play.podtrac.com/npr-510051/npr.simplecastaudio.com/a14b69c2-63a5-430e-bbf8-8c76275e14cd/episodes/13fdf2bb-abe4-4723-a716-8964cda95dfc/audio/128/default.mp3?awCollectionId=a14b69c2-63a5-430e-bbf8-8c76275e14cd&awEpisodeId=13fdf2bb-abe4-4723-a716-8964cda95dfc&feed=XciAg_Eg&t=podcast&e=nx-s1-6047550&p=510051&d=1300&size=20806492",
-  "secs": 1300,
-  "story_id": "nx-s1-6047550",
-  "transcript": null,
-  "summary": "With Democrats set to regain power in Congress next year, there is renewed talk of taxing the rich.",
-  "topics": [
-   "Politics",
-   "Tech & AI",
-   "Economy"
-  ],
-  "tagged_by": "keywords"
- },
- "685b9a2a-0078-49b6-8cc9-ea6b5d121ace": {
-  "id": "685b9a2a-0078-49b6-8cc9-ea6b5d121ace",
-  "show": "State of the World",
-  "date": "2026-11-19T21:30:36Z",
-  "title": "Why has El Salvador sent troops to Haiti?",
-  "description": null,
-  "page": "https://www.npr.org/2026/11/19/nx-s1-6047725/why-has-el-salvador-sent-troops-to-haiti",
-  "audio": "https://prfx.byspotify.com/e/play.podtrac.com/npr-510366/npr.simplecastaudio.com/0c99070d-d4e9-4006-ac06-39c904ab327e/episodes/6a56e742-a145-44a6-ac8d-f802c78599e4/audio/128/default.mp3?awCollectionId=0c99070d-d4e9-4006-ac06-39c904ab327e&awEpisodeId=6a56e742-a145-44a6-ac8d-f802c78599e4&feed=eZ65RO4U&t=podcast&e=nx-s1-6047725&p=510366&d=310&size=4961220",
-  "secs": 310,
-  "story_id": "nx-s1-6047725",
-  "transcript": null,
-  "summary": "Haiti, the western hemisphere’s most impoverished country has experienced setback after setback including natural disasters and political instability.",
-  "topics": [
-   "Culture"
-  ],
-  "tagged_by": "keywords"
- },
  "https://www.npr.org/2026/11/20/nx-s1-6043190/fight-over-funding-for-iran-war-could-put-the-government-at-risk-of-a-shutdown": {
   "id": "https://www.npr.org/2026/11/20/nx-s1-6043190/fight-over-funding-for-iran-war-could-put-the-government-at-risk-of-a-shutdown",
   "show": "Morning Edition",
@@ -3589,6 +3111,430 @@
   "summary": "What makes some relationships thrive while others fizzle?",
   "topics": [
    "Politics"
+  ],
+  "tagged_by": "keywords"
+ },
+ "https://www.npr.org/2026/11/27/nx-s1-6054856/communities-along-the-east-coast-recover-from-thanksgiving-storm": {
+  "id": "https://www.npr.org/2026/11/27/nx-s1-6054856/communities-along-the-east-coast-recover-from-thanksgiving-storm",
+  "show": "Morning Edition",
+  "date": "2026-11-27T11:42:29Z",
+  "title": "Communities along the East Coast recover from Thanksgiving storm",
+  "description": null,
+  "page": "https://www.npr.org/2026/11/27/nx-s1-6054856/communities-along-the-east-coast-recover-from-thanksgiving-storm",
+  "audio": null,
+  "secs": null,
+  "story_id": "nx-s1-6054856",
+  "summary": "Storms hit the East Coast hard on Thanksgiving.",
+  "topics": [
+   "World"
+  ],
+  "tagged_by": "keywords"
+ },
+ "https://www.npr.org/2026/11/27/nx-s1-6054884/thanksgiving-weather-black-friday": {
+  "id": "https://www.npr.org/2026/11/27/nx-s1-6054884/thanksgiving-weather-black-friday",
+  "show": "Morning Edition",
+  "date": "2026-11-27T10:59:36Z",
+  "title": "From Thanksgiving blackouts to Black Friday, a holiday hit by wild weather and economic woes",
+  "description": null,
+  "page": "https://www.npr.org/2026/11/27/nx-s1-6054884/thanksgiving-weather-black-friday",
+  "audio": null,
+  "secs": null,
+  "story_id": "nx-s1-6054884",
+  "summary": "A storm battered much of the country on Thursday, knocking out power to thousands of homes and disrupting travel.",
+  "topics": [
+   "Economy"
+  ],
+  "tagged_by": "keywords"
+ },
+ "https://www.npr.org/2026/11/27/nx-s1-6050867/prevent-dementia-alzheimers-your-turn": {
+  "id": "https://www.npr.org/2026/11/27/nx-s1-6050867/prevent-dementia-alzheimers-your-turn",
+  "show": "Morning Edition",
+  "date": "2026-11-27T10:00:00Z",
+  "title": "12 strategies to cut your risk of dementia. Take this quiz to start",
+  "description": null,
+  "page": "https://www.npr.org/2026/11/27/nx-s1-6050867/prevent-dementia-alzheimers-your-turn",
+  "audio": null,
+  "secs": null,
+  "story_id": "nx-s1-6050867",
+  "summary": "Here's something you can do as you gather with family and friends this holiday season: Take a free, five-minute quiz to assess your brain health.",
+  "topics": [
+   "Science & health"
+  ],
+  "tagged_by": "keywords"
+ },
+ "https://www.npr.org/2026/11/27/nx-s1-6047116/morning-news-brief": {
+  "id": "https://www.npr.org/2026/11/27/nx-s1-6047116/morning-news-brief",
+  "show": "Morning Edition",
+  "date": "2026-11-27T09:47:08Z",
+  "title": "Morning news brief",
+  "description": null,
+  "page": "https://www.npr.org/2026/11/27/nx-s1-6047116/morning-news-brief",
+  "audio": null,
+  "secs": null,
+  "story_id": "nx-s1-6047116",
+  "summary": "Thanksgiving storm pummels the East Coast, Americans expected to spend record amount on Black Friday, Israeli rival factions consider deals in race to form a new government.",
+  "topics": [
+   "World"
+  ],
+  "tagged_by": "keywords"
+ },
+ "https://www.npr.org/2026/11/27/nx-s1-6043127/comedian-demetri-martin-debuts-new-album-and-tour-standup-comedy-for-christmas": {
+  "id": "https://www.npr.org/2026/11/27/nx-s1-6043127/comedian-demetri-martin-debuts-new-album-and-tour-standup-comedy-for-christmas",
+  "show": "Morning Edition",
+  "date": "2026-11-27T09:46:56Z",
+  "title": "Comedian Demetri Martin debuts new album and tour, 'Standup Comedy for Christmas'",
+  "description": null,
+  "page": "https://www.npr.org/2026/11/27/nx-s1-6043127/comedian-demetri-martin-debuts-new-album-and-tour-standup-comedy-for-christmas",
+  "audio": null,
+  "secs": null,
+  "story_id": "nx-s1-6043127",
+  "summary": "Standup comedian Demetri Martin is debuting a new comedy album and tour, \"Standup Comedy for Christmas.\"",
+  "topics": [
+   "Culture"
+  ],
+  "tagged_by": "keywords"
+ },
+ "https://www.npr.org/2026/11/27/nx-s1-6050907/as-un-secretary-generals-last-day-approaches-search-for-his-replacement-continues": {
+  "id": "https://www.npr.org/2026/11/27/nx-s1-6050907/as-un-secretary-generals-last-day-approaches-search-for-his-replacement-continues",
+  "show": "Morning Edition",
+  "date": "2026-11-27T09:46:13Z",
+  "title": "As UN Secretary General's last day approaches, search for his replacement continues",
+  "description": null,
+  "page": "https://www.npr.org/2026/11/27/nx-s1-6050907/as-un-secretary-generals-last-day-approaches-search-for-his-replacement-continues",
+  "audio": null,
+  "secs": null,
+  "story_id": "nx-s1-6050907",
+  "summary": "The UN Secretary General's term ends this year, but the big powers at the UN have been unable to agree on a replacement.",
+  "topics": [
+   "Science & health"
+  ],
+  "tagged_by": "keywords"
+ },
+ "https://www.npr.org/2026/11/27/nx-s1-6054055/the-strategy-behind-those-black-friday-deals": {
+  "id": "https://www.npr.org/2026/11/27/nx-s1-6054055/the-strategy-behind-those-black-friday-deals",
+  "show": "Morning Edition",
+  "date": "2026-11-27T09:46:04Z",
+  "title": "The strategy behind those Black Friday deals",
+  "description": null,
+  "page": "https://www.npr.org/2026/11/27/nx-s1-6054055/the-strategy-behind-those-black-friday-deals",
+  "audio": null,
+  "secs": null,
+  "story_id": "nx-s1-6054055",
+  "summary": "We get the inside scoop in how a Black Friday discount deal comes together.",
+  "topics": [
+   "World"
+  ],
+  "tagged_by": "keywords"
+ },
+ "https://www.npr.org/2026/11/27/nx-s1-6052399/california-voters-pass-billionaires-measure-to-bankroll-his-own-medical-lab": {
+  "id": "https://www.npr.org/2026/11/27/nx-s1-6052399/california-voters-pass-billionaires-measure-to-bankroll-his-own-medical-lab",
+  "show": "Morning Edition",
+  "date": "2026-11-27T09:45:53Z",
+  "title": "California voters pass billionaire's measure to bankroll his own medical lab",
+  "description": null,
+  "page": "https://www.npr.org/2026/11/27/nx-s1-6052399/california-voters-pass-billionaires-measure-to-bankroll-his-own-medical-lab",
+  "audio": null,
+  "secs": null,
+  "story_id": "nx-s1-6052399",
+  "summary": "California voters passed a ballot measure backed by a billionaire to fund $8.4 billion in immunology research.",
+  "topics": [
+   "Science & health"
+  ],
+  "tagged_by": "keywords"
+ },
+ "https://www.npr.org/2026/11/27/nx-s1-6047460/record-spending-expected-on-black-friday": {
+  "id": "https://www.npr.org/2026/11/27/nx-s1-6047460/record-spending-expected-on-black-friday",
+  "show": "Morning Edition",
+  "date": "2026-11-27T09:45:48Z",
+  "title": "Record spending expected on Black Friday",
+  "description": null,
+  "page": "https://www.npr.org/2026/11/27/nx-s1-6047460/record-spending-expected-on-black-friday",
+  "audio": null,
+  "secs": null,
+  "story_id": "nx-s1-6047460",
+  "summary": "Americans are expected to spend more money on Black Friday than any other day this year.",
+  "topics": [
+   "Economy"
+  ],
+  "tagged_by": "keywords"
+ },
+ "https://www.npr.org/2026/11/27/nx-s1-6054846/why-americans-are-still-black-friday-shopping-despite-strained-wallets": {
+  "id": "https://www.npr.org/2026/11/27/nx-s1-6054846/why-americans-are-still-black-friday-shopping-despite-strained-wallets",
+  "show": "Morning Edition",
+  "date": "2026-11-27T09:45:35Z",
+  "title": "Why Americans are still Black Friday shopping despite strained wallets",
+  "description": null,
+  "page": "https://www.npr.org/2026/11/27/nx-s1-6054846/why-americans-are-still-black-friday-shopping-despite-strained-wallets",
+  "audio": null,
+  "secs": null,
+  "story_id": "nx-s1-6054846",
+  "summary": "NPR's A Martinez asks Georgia Tech Professor Chris Gaffney why Americans continue to spend during the holidays, despite trouble spots in the economy.",
+  "topics": [
+   "Tech & AI",
+   "Economy"
+  ],
+  "tagged_by": "keywords"
+ },
+ "https://www.npr.org/2026/11/27/nx-s1-6053049/sudans-lost-generation-war-is-stealing-a-generation-of-childhood": {
+  "id": "https://www.npr.org/2026/11/27/nx-s1-6053049/sudans-lost-generation-war-is-stealing-a-generation-of-childhood",
+  "show": "All Things Considered",
+  "date": "2026-11-27T22:54:53Z",
+  "title": "Sudan's lost generation: War is stealing a generation of childhood",
+  "description": null,
+  "page": "https://www.npr.org/2026/11/27/nx-s1-6053049/sudans-lost-generation-war-is-stealing-a-generation-of-childhood",
+  "audio": null,
+  "secs": null,
+  "story_id": "nx-s1-6053049",
+  "summary": "Three years of war have stolen childhood from millions of children in Sudan, leaving them displaced, hungry and fighting for survival instead of learning in a classroom.",
+  "topics": [
+   "Science & health"
+  ],
+  "tagged_by": "keywords"
+ },
+ "https://www.npr.org/2026/11/27/nx-s1-6051369/a-postcard-from-philadelphias-wild-forested-trail-system": {
+  "id": "https://www.npr.org/2026/11/27/nx-s1-6051369/a-postcard-from-philadelphias-wild-forested-trail-system",
+  "show": "All Things Considered",
+  "date": "2026-11-27T22:53:49Z",
+  "title": "A postcard from Philadelphia's wild, forested trail system",
+  "description": null,
+  "page": "https://www.npr.org/2026/11/27/nx-s1-6051369/a-postcard-from-philadelphias-wild-forested-trail-system",
+  "audio": null,
+  "secs": null,
+  "story_id": "nx-s1-6051369",
+  "summary": "NPR's Brian Mann sends an audio postcard from a hike through Philadelphia's wild, forested trail system, which winds through dense gritty neighborhoods.",
+  "topics": [
+   "World"
+  ],
+  "tagged_by": "keywords"
+ },
+ "https://www.npr.org/2026/11/27/nx-s1-5837917/a-new-biography-of-frank-capra-tells-the-story-of-making-its-a-wonderful-life": {
+  "id": "https://www.npr.org/2026/11/27/nx-s1-5837917/a-new-biography-of-frank-capra-tells-the-story-of-making-its-a-wonderful-life",
+  "show": "All Things Considered",
+  "date": "2026-11-27T22:52:52Z",
+  "title": "A new biography of Frank Capra tells the story of making 'It's a Wonderful Life'",
+  "description": null,
+  "page": "https://www.npr.org/2026/11/27/nx-s1-5837917/a-new-biography-of-frank-capra-tells-the-story-of-making-its-a-wonderful-life",
+  "audio": null,
+  "secs": null,
+  "story_id": "nx-s1-5837917",
+  "summary": "NPR's Scott Detrow speaks with Sam Wasson about his new biography of legendary director Frank Capra.",
+  "topics": [
+   "World"
+  ],
+  "tagged_by": "keywords"
+ },
+ "https://www.npr.org/2026/11/27/nx-s1-6048749/with-abbott-out-what-does-the-future-look-like-for-data-centers-in-texas": {
+  "id": "https://www.npr.org/2026/11/27/nx-s1-6048749/with-abbott-out-what-does-the-future-look-like-for-data-centers-in-texas",
+  "show": "All Things Considered",
+  "date": "2026-11-27T22:20:33Z",
+  "title": "With Abbott out, what does the future look like for data centers in Texas?",
+  "description": null,
+  "page": "https://www.npr.org/2026/11/27/nx-s1-6048749/with-abbott-out-what-does-the-future-look-like-for-data-centers-in-texas",
+  "audio": null,
+  "secs": null,
+  "story_id": "nx-s1-6048749",
+  "summary": "Texas has been one of the most welcoming states for data centers, but that might change with a new governor coming in.",
+  "topics": [
+   "Tech & AI"
+  ],
+  "tagged_by": "keywords"
+ },
+ "https://www.npr.org/2026/11/27/nx-s1-6026490/contrary-to-popular-belief-foot-traffic-and-spending-at-malls-is-up": {
+  "id": "https://www.npr.org/2026/11/27/nx-s1-6026490/contrary-to-popular-belief-foot-traffic-and-spending-at-malls-is-up",
+  "show": "All Things Considered",
+  "date": "2026-11-27T22:08:13Z",
+  "title": "Contrary to popular belief, foot traffic and spending at malls is up",
+  "description": null,
+  "page": "https://www.npr.org/2026/11/27/nx-s1-6026490/contrary-to-popular-belief-foot-traffic-and-spending-at-malls-is-up",
+  "audio": null,
+  "secs": null,
+  "story_id": "nx-s1-6026490",
+  "summary": "This is the biggest shopping weekend for the American mall, which — despite widespread belief to the contrary — is not dying.",
+  "topics": [
+   "World"
+  ],
+  "tagged_by": "keywords"
+ },
+ "https://www.npr.org/2026/11/27/nx-s1-6045833/postmortem-of-ai-ads": {
+  "id": "https://www.npr.org/2026/11/27/nx-s1-6045833/postmortem-of-ai-ads",
+  "show": "All Things Considered",
+  "date": "2026-11-27T21:58:19Z",
+  "title": "Postmortem of AI ads",
+  "description": null,
+  "page": "https://www.npr.org/2026/11/27/nx-s1-6045833/postmortem-of-ai-ads",
+  "audio": null,
+  "secs": null,
+  "story_id": "nx-s1-6045833",
+  "summary": "The data AI companies have been accumulating in this cycle will help serve future ads to hyper-specific audiences.",
+  "topics": [
+   "Tech & AI"
+  ],
+  "tagged_by": "keywords"
+ },
+ "https://www.npr.org/2026/11/27/nx-s1-5996810/peter-gabriel-is-no-longer-worried-if-hes-cool": {
+  "id": "https://www.npr.org/2026/11/27/nx-s1-5996810/peter-gabriel-is-no-longer-worried-if-hes-cool",
+  "show": "All Things Considered",
+  "date": "2026-11-27T21:57:34Z",
+  "title": "Peter Gabriel is no longer worried if he's 'cool'",
+  "description": null,
+  "page": "https://www.npr.org/2026/11/27/nx-s1-5996810/peter-gabriel-is-no-longer-worried-if-hes-cool",
+  "audio": null,
+  "secs": null,
+  "story_id": "nx-s1-5996810",
+  "summary": "NPR's Ailsa Chang speaks with British singer-songwriter Peter Gabriel about his latest album, o\\i .",
+  "topics": [
+   "Culture"
+  ],
+  "tagged_by": "keywords"
+ },
+ "https://www.npr.org/2026/11/27/nx-s1-6052419/writer-elizabeth-alexander-on-how-she-copes-with-fear": {
+  "id": "https://www.npr.org/2026/11/27/nx-s1-6052419/writer-elizabeth-alexander-on-how-she-copes-with-fear",
+  "show": "All Things Considered",
+  "date": "2026-11-27T21:54:34Z",
+  "title": "Writer Elizabeth Alexander on how she copes with fear",
+  "description": null,
+  "page": "https://www.npr.org/2026/11/27/nx-s1-6052419/writer-elizabeth-alexander-on-how-she-copes-with-fear",
+  "audio": null,
+  "secs": null,
+  "story_id": "nx-s1-6052419",
+  "summary": "On Wild Card, famous guests answer questions that we don't always talk about.",
+  "topics": [
+   "World"
+  ],
+  "tagged_by": "keywords"
+ },
+ "https://www.npr.org/2026/11/27/nx-s1-6054177/some-american-farmers-are-betting-big-on-ostrich-meat": {
+  "id": "https://www.npr.org/2026/11/27/nx-s1-6054177/some-american-farmers-are-betting-big-on-ostrich-meat",
+  "show": "All Things Considered",
+  "date": "2026-11-27T21:52:31Z",
+  "title": "Some American farmers are betting big on ostrich meat",
+  "description": null,
+  "page": "https://www.npr.org/2026/11/27/nx-s1-6054177/some-american-farmers-are-betting-big-on-ostrich-meat",
+  "audio": null,
+  "secs": null,
+  "story_id": "nx-s1-6054177",
+  "summary": "As beef prices rise, some Ostrich farmers are looking toward the big bird as a substitute.",
+  "topics": [
+   "World"
+  ],
+  "tagged_by": "keywords"
+ },
+ "https://www.npr.org/2026/11/27/nx-s1-6047583/survivors-of-sexual-abuse-told-lawmakers-about-their-experiences-on-roblox": {
+  "id": "https://www.npr.org/2026/11/27/nx-s1-6047583/survivors-of-sexual-abuse-told-lawmakers-about-their-experiences-on-roblox",
+  "show": "All Things Considered",
+  "date": "2026-11-27T21:47:52Z",
+  "title": "Survivors of sexual abuse told lawmakers about their experiences on Roblox",
+  "description": null,
+  "page": "https://www.npr.org/2026/11/27/nx-s1-6047583/survivors-of-sexual-abuse-told-lawmakers-about-their-experiences-on-roblox",
+  "audio": null,
+  "secs": null,
+  "story_id": "nx-s1-6047583",
+  "summary": "Survivors and experts testified to a Senate Judiciary subcommittee on how predators groom children on the gaming platform Roblox.",
+  "topics": [
+   "Politics",
+   "Justice"
+  ],
+  "tagged_by": "keywords"
+ },
+ "e588b8ca-3657-4ad5-ac24-f8b957208140": {
+  "id": "e588b8ca-3657-4ad5-ac24-f8b957208140",
+  "show": "Up First",
+  "date": "2026-11-27T10:50:27Z",
+  "title": "Thanksgiving Storm Aftermath, Black Friday Economy, Eisenkot's Coalition Talks",
+  "description": null,
+  "page": "https://www.npr.org/2026/11/27/nx-s1-6055516/thanksgiving-storm-aftermath-black-friday-economy-eisenkots-coalition-talks",
+  "audio": "https://prfx.byspotify.com/e/play.podtrac.com/npr-510318/npr.simplecastaudio.com/d52bee4a-b10a-40f8-9417-45064e6b8632/episodes/a275f0a7-48cf-4f04-96fe-c3202580075b/audio/128/default.mp3?awCollectionId=d52bee4a-b10a-40f8-9417-45064e6b8632&awEpisodeId=a275f0a7-48cf-4f04-96fe-c3202580075b&feed=HMwRVgVt&t=podcast&e=nx-s1-6055516&p=510318&d=743&size=11896835",
+  "secs": 743,
+  "story_id": "nx-s1-6055516",
+  "summary": "Powerful storms left nearly a million customers without power on Thanksgiving and disrupted travel across much of the country, but conditions are expected to improve heading into the weekend.",
+  "topics": [
+   "World",
+   "Tech & AI",
+   "Economy"
+  ],
+  "tagged_by": "keywords"
+ },
+ "0a4d5e3c-a7e0-49e1-b04a-97c5a5ce311b": {
+  "id": "0a4d5e3c-a7e0-49e1-b04a-97c5a5ce311b",
+  "show": "Fresh Air",
+  "date": "2026-11-27T10:00:00Z",
+  "title": "Robert Pattinson",
+  "description": null,
+  "page": "https://www.npr.org/2026/11/27/nx-s1-6053000/robert-pattinson",
+  "audio": "https://prfx.byspotify.com/e/play.podtrac.com/npr-381444908/npr.simplecastaudio.com/49850946-31c1-4953-8129-0d718420c400/episodes/dae4e706-1580-42d3-9831-30fa9c6acf8e/audio/128/default.mp3?awCollectionId=49850946-31c1-4953-8129-0d718420c400&awEpisodeId=dae4e706-1580-42d3-9831-30fa9c6acf8e&feed=jBsBZBHh&t=podcast&e=nx-s1-6053000&p=381444908&d=2808&size=44929027",
+  "secs": 2808,
+  "story_id": "nx-s1-6053000",
+  "summary": "Robert Pattinson has been chosen as the next James Bond, so we’re revisiting his interview with Terry Gross from 2019.",
+  "topics": [
+   "Politics",
+   "Culture"
+  ],
+  "tagged_by": "keywords"
+ },
+ "5cada1e7-1b94-4d63-88c7-56d677e2628f": {
+  "id": "5cada1e7-1b94-4d63-88c7-56d677e2628f",
+  "show": "Consider This",
+  "date": "2026-11-27T16:38:13Z",
+  "title": "Is Hollywood saving its best films of 2026 for last?",
+  "description": null,
+  "page": "https://www.npr.org/2026/11/27/nx-s1-6054078/is-hollywood-saving-its-best-films-of-2026-for-last",
+  "audio": "https://prfx.byspotify.com/e/play.podtrac.com/npr-510355/npr.simplecastaudio.com/2a4a748e-0a2f-495a-8208-99765f0dad47/episodes/d8448b8a-b13c-4988-a302-272750772e18/audio/128/default.mp3?awCollectionId=2a4a748e-0a2f-495a-8208-99765f0dad47&awEpisodeId=d8448b8a-b13c-4988-a302-272750772e18&feed=4XF9Dp_o&t=podcast&e=nx-s1-6054078&p=510355&d=598&size=9579250",
+  "secs": 598,
+  "story_id": "nx-s1-6054078",
+  "summary": "The box office has had an historic 2026.",
+  "topics": [
+   "Culture",
+   "Justice"
+  ],
+  "tagged_by": "keywords"
+ },
+ "c1a4114a-d661-4e44-8e4b-6f0c0833878c": {
+  "id": "c1a4114a-d661-4e44-8e4b-6f0c0833878c",
+  "show": "Planet Money",
+  "date": "2026-11-27T22:00:00Z",
+  "title": "The economics of podcasting and NPR+",
+  "description": null,
+  "page": "https://www.npr.org/2026/11/27/nx-s1-6053171/the-economics-of-podcasting-and-npr",
+  "audio": "https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/0e664c82-59be-42a0-a5df-6a001ae5216e/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=0e664c82-59be-42a0-a5df-6a001ae5216e&feed=hvWWWzRv&t=podcast&e=nx-s1-6053171&p=510289&d=1451&size=23220602",
+  "secs": 1451,
+  "story_id": "nx-s1-6053171",
+  "summary": "NPR launched NPR+ to give podcast listeners (a.k.a.",
+  "topics": [
+   "Economy",
+   "Culture"
+  ],
+  "tagged_by": "keywords"
+ },
+ "25b42087-151d-4bf2-9ac5-6a0fb9aca3e1": {
+  "id": "25b42087-151d-4bf2-9ac5-6a0fb9aca3e1",
+  "show": "Here & Now",
+  "date": "2026-11-27T17:00:00Z",
+  "title": "Who should you tip this holiday season?",
+  "description": null,
+  "page": "https://www.npr.org/2026/11/27/nx-s1-6054108/who-should-you-tip-this-holiday-season",
+  "audio": "https://prfx.byspotify.com/e/play.podtrac.com/npr-510051/npr.simplecastaudio.com/a14b69c2-63a5-430e-bbf8-8c76275e14cd/episodes/49e8b3b0-9af3-45ac-a231-1a1e42d7755d/audio/128/default.mp3?awCollectionId=a14b69c2-63a5-430e-bbf8-8c76275e14cd&awEpisodeId=49e8b3b0-9af3-45ac-a231-1a1e42d7755d&feed=XciAg_Eg&t=podcast&e=nx-s1-6054108&p=510051&d=1918&size=30688740",
+  "secs": 1918,
+  "story_id": "nx-s1-6054108",
+  "summary": "A large part of the winter holiday season is about expressing gratitude, and one way of doing that is through gifting.",
+  "topics": [
+   "Culture"
+  ],
+  "tagged_by": "keywords"
+ },
+ "96d1b2c3-613a-4620-b3a5-260ff9c11476": {
+  "id": "96d1b2c3-613a-4620-b3a5-260ff9c11476",
+  "show": "State of the World",
+  "date": "2026-11-27T19:00:00Z",
+  "title": "What happens when the AI construction boom lands in one of Spain’s driest regions?",
+  "description": null,
+  "page": "https://www.npr.org/2026/11/27/nx-s1-6054165/what-happens-when-the-ai-construction-boom-lands-in-one-of-spains-driest-regions",
+  "audio": "https://prfx.byspotify.com/e/play.podtrac.com/npr-510366/npr.simplecastaudio.com/0c99070d-d4e9-4006-ac06-39c904ab327e/episodes/d2b7cc7e-bcac-4f2a-b457-3ad7aea16151/audio/128/default.mp3?awCollectionId=0c99070d-d4e9-4006-ac06-39c904ab327e&awEpisodeId=d2b7cc7e-bcac-4f2a-b457-3ad7aea16151&feed=eZ65RO4U&t=podcast&e=nx-s1-6054165&p=510366&d=360&size=5771643",
+  "secs": 360,
+  "story_id": "nx-s1-6054165",
+  "summary": "Regional authorities in northeastern Spain are paving the way for massive construction sites — the kind needed to build sprawling new data centers.",
+  "topics": [
+   "Tech & AI",
+   "Economy"
   ],
   "tagged_by": "keywords"
  }
